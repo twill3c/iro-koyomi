@@ -6,3 +6,6 @@ node_modules/
 web/out/
 web/.next/
 data/silver/
+web/.loop/
+web/coverage/
+web/tsconfig.tsbuildinfo

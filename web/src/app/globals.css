@@ -1,0 +1,62 @@
+:root {
+  --ink: #1b1a17;
+  --paper: #faf7f0;
+  --sumi: #4a4640;
+  --line: #ddd6c8;
+  --accent: #7d2431;
+  color-scheme: light;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+  line-height: 1.8;
+}
+
+.hall { max-width: 1080px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+
+.masthead { border-bottom: 1px solid var(--line); padding-bottom: 1.5rem; margin-bottom: 1.5rem; }
+.eyebrow { color: var(--sumi); font-size: 0.85rem; letter-spacing: 0.12em; margin: 0 0 0.4rem; }
+.masthead h1 { font-size: 2.1rem; margin: 0 0 0.6rem; letter-spacing: 0.08em; }
+.lede { margin: 0; color: var(--sumi); font-size: 0.95rem; }
+.kanban { margin: 1rem 0 0; font-size: 1.05rem; }
+.kanban cite { display: block; font-size: 0.8rem; color: var(--sumi); font-style: normal; }
+
+.fill { margin: 2rem 0; }
+.fill h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
+.fill-bar { display: flex; height: 2.4rem; border: 1px solid var(--line); overflow: hidden; }
+.fill-seg { display: flex; align-items: center; justify-content: center; font-size: 0.75rem; color: #fff; }
+.fill-seg.A { background: #7d2431; }
+.fill-seg.B { background: #6b7f5e; }
+.fill-seg.C { background: #cfc7b6; color: var(--ink); }
+.fill-legend { display: flex; flex-wrap: wrap; gap: 1rem; margin: 0.6rem 0 0; padding: 0; list-style: none; font-size: 0.85rem; }
+.fill-legend .swatch { display: inline-block; width: 0.9rem; height: 0.9rem; margin-right: 0.35rem; border: 1px solid var(--line); vertical-align: -1px; }
+
+.filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.5rem 0; }
+.filters button {
+  font: inherit; font-size: 0.85rem; padding: 0.35rem 0.9rem; cursor: pointer;
+  background: transparent; border: 1px solid var(--line); border-radius: 999px; color: var(--ink);
+}
+.filters button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+.season { margin: 2.2rem 0 0; }
+.season h3 { font-size: 1rem; margin: 0 0 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--line); }
+.season .empty { color: var(--sumi); font-size: 0.85rem; margin: 0; }
+
+.strip { display: grid; grid-template-columns: repeat(auto-fill, minmax(148px, 1fr)); gap: 0.6rem; padding: 0; margin: 0; list-style: none; }
+.chip { display: block; border: 1px solid var(--line); background: #fff; text-decoration: none; color: inherit; }
+.chip .swatch { height: 46px; position: relative; }
+.chip .swatch .none { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 0.7rem; color: var(--sumi); }
+.chip .body { padding: 0.4rem 0.5rem 0.55rem; }
+.chip .name { font-size: 0.95rem; }
+.chip .meta { font-size: 0.72rem; color: var(--sumi); display: block; }
+.chip .layer { font-size: 0.7rem; border: 1px solid var(--line); padding: 0 0.3rem; margin-right: 0.3rem; }
+.chip .layer.C { border-style: dashed; }
+
+footer.foot { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 1rem; font-size: 0.8rem; color: var(--sumi); }
+footer.foot ul { display: flex; flex-wrap: wrap; gap: 1rem; list-style: none; padding: 0; margin: 0 0 0.8rem; }
+footer.foot a { color: var(--sumi); }
