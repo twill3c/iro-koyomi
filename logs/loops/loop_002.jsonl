@@ -6,3 +6,6 @@
 {"v": "1.2", "ts": "2026-08-22T07:21:35+09:00", "project": "iro-koyomi", "loop_id": "loop_002", "event": "test_run", "data": {"command": "python -m pytest -q tests/", "passed": 71, "failed": 0}}
 {"v": "1.2", "ts": "2026-08-22T07:21:35+09:00", "project": "iro-koyomi", "loop_id": "loop_002", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-22T07:21:35+09:00", "project": "iro-koyomi", "loop_id": "loop_002", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T07:21:36+09:00", "project": "iro-koyomi", "loop_id": "loop_002", "event": "commit", "data": {"sha": "a3b804b", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-22T07:21:36+09:00", "project": "iro-koyomi", "loop_id": "loop_002", "event": "stage_end", "data": {"stage": 6, "stage_name": "記録", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T07:21:36+09:00", "project": "iro-koyomi", "loop_id": "loop_002", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "F-03 色票基盤。色空間・ΔE2000 を既知参照値で固定(G-01)、承認済み 2 出典から 369 色を構築。両出典に値がある 96 色で完全一致は 2 件のみ・ΔE 中央値 13.96"}}

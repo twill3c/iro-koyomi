@@ -1,0 +1,20 @@
+# A 層の基本色語(単独で色を指すと認めた語)。色票の色名は palette.json から自動で加わる
+# sense_width=yes は現代の HEX と語義がずれる語 — 句と色票 HEX を接続しない(F-05)
+# term	kind	color_name	sense_width	note
+白	basic	白	no	
+黒	basic	黒	no	
+赤	basic	赤	no	
+青	basic	青	yes	古語の青は緑・藍・灰を含む(青葉・青田)
+黄	basic	黄色	no	色票の色名に合わせる
+紅	basic	紅色	no	染料・口紅の意にもなるが色の言及として扱う
+朱	basic	朱色	no	
+藍	basic	藍色	no	色票の色名に合わせる
+紫	basic	紫	no	
+緑	basic	緑	no	
+緋	basic	緋	no	
+蒼	basic	蒼	yes	青とも緑とも白ともつかない古語
+碧	basic	碧	yes	青緑の幅を持つ
+紺	basic	紺	no	
+縹	basic	縹	no	
+赭	basic	赭	no	
+# 丹・茶は単独では色を指さない場合が多い(牡丹・茶屋)。丹色・茶色の形でのみ拾う
