@@ -71,14 +71,17 @@ def _load_tsv(path: str) -> list[list[str]]:
 def main() -> None:
     """Loop 0: 候補作品を取得し、句数・作者数・色語異なり数を実測して報告する。"""
     from pipeline.aozora_index import load_rows
-    from pipeline.aozora_text import fetch_text, haiku_candidates
+    from pipeline.aozora_text import fetch_text
+    from pipeline.extract_haiku import extract
 
     index = [r for r in load_rows() if r["役割フラグ"] == "著者"]
     by_key = {(r["姓"] + r["名"], r["作品名"]): r for r in index}
     color_words = [r[0] for r in _load_tsv("data/curated/color_words_seed.tsv")]
 
     results, all_lines, missing = [], [], []
-    for author, title, tier in _load_tsv("data/curated/census_candidates.tsv"):
+    for author, title, tier, status, *_ in _load_tsv("data/curated/census_candidates.tsv"):
+        if status != "confirmed":
+            continue
         row = by_key.get((author, title))
         if row is None:
             missing.append(f"{author}／{title}")
@@ -87,14 +90,14 @@ def main() -> None:
             missing.append(f"{author}／{title}(著作権ゲート)")
             continue
         text = fetch_text(row["テキストファイルURL"], row["作品ID"])
-        lines = haiku_candidates(text)
+        lines = [h.norm for h in extract(text)]
         all_lines += lines
         hits = count_distinct_color_words(lines, color_words)
         results.append((author, title, tier, row["作品ID"], len(lines), len(hits)))
 
     cov = color_word_coverage(all_lines, color_words)
     out = ["# census — 句コーパス棚卸し(F-01)", "",
-           "抽出は census 用の保守的規則による**見積り**であり、F-02 の正式抽出とは別物である。", "",
+           "抽出は F-02 の正式抽出器による。題名オラクル(G-08)で校正済み。", "",
            "| 作者 | 作品 | tier | 作品ID | 句候補 | 色語(異なり) |", "|---|---|---|---|---:|---:|"]
     for a, t, tier, wid, n, h in results:
         out.append(f"| {a} | {t} | {tier} | {wid} | {n} | {h} |")

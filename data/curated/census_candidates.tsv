@@ -1,21 +1,21 @@
-# Loop 0 句コーパス棚卸しの候補(人間承認待ち — needs_review)
-# tier1 = 句集そのもの / tier2 = 句を含む散文・紀行
-# author	title	tier
-高浜虚子	五百句	tier1
-高浜虚子	五百五十句	tier1
-高浜虚子	六百句	tier1
-高浜虚子	六百五十句	tier1
-高浜虚子	七百五十句	tier1
-正岡子規	寒山落木　巻一	tier1
-正岡子規	牡丹句録	tier1
-正岡子規	夜寒十句	tier1
-正岡子規	句合の月	tier1
-種田山頭火	草木塔	tier1
-種田山頭火	『鉢の子』から『其中庵』まで	tier1
-尾崎放哉	尾崎放哉選句集	tier1
-前田普羅	普羅句集	tier1
-内藤鳴雪	鳴雪句集	tier1
-川端茅舎	川端茅舎句集	tier1
-松尾芭蕉	おくのほそ道	tier2
-正岡子規	俳諧大要	tier2
-正岡子規	俳人蕪村	tier2
+# 句コーパス候補(loop_001 で本文確認済み — HC-012)
+# status: confirmed=採録 / excluded=不採録 / needs_author=句の作者が編者と異なるため保留
+# author	title	tier	status	note
+高浜虚子	五百句	tier1	confirmed	序に「五百句を選んだ」— 抽出 500 で厳密一致(G-08)
+高浜虚子	五百五十句	tier1	confirmed	序「厳格に限ったわけではなく多少超過」— 抽出 587
+高浜虚子	六百句	tier1	confirmed	抽出 644
+高浜虚子	六百五十句	tier1	confirmed	抽出 694
+高浜虚子	七百五十句	tier1	confirmed	抽出 762
+正岡子規	寒山落木　巻一	tier1	confirmed	句稿。抽出 2069
+正岡子規	牡丹句録	tier1	confirmed	病中の句録。抽出 17
+正岡子規	夜寒十句	tier1	confirmed	抽出 10
+尾崎放哉	尾崎放哉選句集	tier1	confirmed	抽出 359
+前田普羅	普羅句集	tier1	confirmed	抽出 390
+内藤鳴雪	鳴雪句集	tier1	confirmed	抽出 277
+川端茅舎	川端茅舎句集	tier1	confirmed	虚子編。句の作者は茅舎(1941 没・PD)
+種田山頭火	『鉢の子』から『其中庵』まで	tier2	confirmed	散文中の自句。抽出 10
+正岡子規	俳諧大要	tier2	confirmed	俳論中の自句・引用。抽出 14
+松尾芭蕉	おくのほそ道	tier2	needs_author	抽出 67。曾良の句を含むため句ごとの作者解決が要る
+正岡子規	俳人蕪村	tier2	needs_author	抽出 399 はほぼ蕪村の句。編者(子規)と作者が異なる
+正岡子規	句合の月	-	excluded	随筆。句の独立行なし(抽出 0)
+種田山頭火	草木塔	-	excluded	青空収録の同名作品は散文。句集ではない(抽出 3)
