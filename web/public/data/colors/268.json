@@ -1,0 +1,26 @@
+{
+ "id": "268",
+ "name": "藍媚茶",
+ "readings": {
+  "en": "Aikobicha"
+ },
+ "hex_by_source": {
+  "en": "#473F2D"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Indigo tea"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

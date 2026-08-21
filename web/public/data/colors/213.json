@@ -1,0 +1,26 @@
+{
+ "id": "213",
+ "name": "縹色",
+ "readings": {
+  "ja": "はなだいろ"
+ },
+ "hex_by_source": {
+  "ja": "#267CA7"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "染料「縹（つゆくさ）」から。薄い藍色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

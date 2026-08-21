@@ -1,0 +1,26 @@
+{
+ "id": "175",
+ "name": "砥粉色",
+ "readings": {
+  "ja": "とのこいろ"
+ },
+ "hex_by_source": {
+  "ja": "#F4DDA5"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "砥石で刃物を研いだ時に出る砥石の粉「砥粉」の色。赤みの鈍い黄色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

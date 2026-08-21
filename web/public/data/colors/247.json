@@ -1,0 +1,67 @@
+{
+ "id": "247",
+ "name": "菫色",
+ "readings": {
+  "en": "Sumire-iro",
+  "ja": "すみれいろ"
+ },
+ "hex_by_source": {
+  "en": "#5B3256",
+  "ja": "#705DA8"
+ },
+ "delta_e": 19.3291,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "春",
+ "phase": "三",
+ "kigo": "菫",
+ "origin": "菫",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 2,
+ "calendar_order": [
+  1,
+  0
+ ],
+ "notes": {
+  "en": "Violet color",
+  "ja": "菫の花弁の色。やや青みの濃い紫色。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "女にも生れて見たし花菫",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "女にも生れて見たし花菫",
+   "origin": "菫",
+   "kigo": "菫",
+   "certainty": "established",
+   "start": 10,
+   "end": 11,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "御白粉に白うよごれし菫かな",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "御白粉に白うよごれし菫かな",
+   "origin": "菫",
+   "kigo": "菫",
+   "certainty": "established",
+   "start": 10,
+   "end": 11,
+   "is_color_mention": false
+  }
+ ]
+}

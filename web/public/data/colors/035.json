@@ -1,0 +1,26 @@
+{
+ "id": "035",
+ "name": "団十郎茶",
+ "readings": {
+  "ja": "だんじゅうろうちゃ"
+ },
+ "hex_by_source": {
+  "ja": "#9F563A"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "弁柄と柿渋で染めた灰色がかった黄赤。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

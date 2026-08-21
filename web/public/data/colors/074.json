@@ -1,0 +1,26 @@
+{
+ "id": "074",
+ "name": "柑子色",
+ "readings": {
+  "ja": "こうじいろ"
+ },
+ "hex_by_source": {
+  "ja": "#FF5234"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "コウジミカンの色。明るい黄赤色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

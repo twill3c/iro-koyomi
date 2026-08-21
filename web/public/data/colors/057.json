@@ -1,0 +1,26 @@
+{
+ "id": "057",
+ "name": "憲法染",
+ "readings": {
+  "en": "Kenpōzome"
+ },
+ "hex_by_source": {
+  "en": "#2E211B"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "named after the swordsman Yoshioka Kenpo (lit. Legal dye)"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

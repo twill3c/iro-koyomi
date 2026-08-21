@@ -1,0 +1,26 @@
+{
+ "id": "018",
+ "name": "似紫",
+ "readings": {
+  "ja": "にせむらさき"
+ },
+ "hex_by_source": {
+  "ja": "#513743"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "高価な生薬であった紫根（しこん）の代わりに、藍の下染めの上に蘇芳（すおう）などで染めた紫色。くすんだ青みのある赤紫。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

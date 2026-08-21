@@ -1,0 +1,29 @@
+{
+ "id": "310",
+ "name": "銀朱",
+ "readings": {
+  "en": "Ginshu",
+  "ja": "ぎんしゅ"
+ },
+ "hex_by_source": {
+  "en": "#BC2D29",
+  "ja": "#F12B00"
+ },
+ "delta_e": 13.1824,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Greyed red (lit. silvered red)",
+  "ja": "硫化水銀の色。黄みがかった朱色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

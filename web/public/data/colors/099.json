@@ -1,0 +1,26 @@
+{
+ "id": "099",
+ "name": "楝色",
+ "readings": {
+  "ja": "おうちいろ"
+ },
+ "hex_by_source": {
+  "ja": "#A596C7"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "初夏に咲く楝の花のような薄い青紫色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

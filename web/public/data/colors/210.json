@@ -1,0 +1,29 @@
+{
+ "id": "210",
+ "name": "緑青",
+ "readings": {
+  "en": "Rokushō",
+  "ja": "ろくしょう"
+ },
+ "hex_by_source": {
+  "en": "#407A52",
+  "ja": "#5BAD92"
+ },
+ "delta_e": 18.5802,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Patina",
+  "ja": "銅の錆の色。明るく鈍い青緑色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

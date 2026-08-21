@@ -1,0 +1,26 @@
+{
+ "id": "328",
+ "name": "青碧",
+ "readings": {
+  "en": "Seiheki"
+ },
+ "hex_by_source": {
+  "en": "#3A6960"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Blue-green"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

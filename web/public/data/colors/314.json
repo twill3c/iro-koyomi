@@ -1,0 +1,26 @@
+{
+ "id": "314",
+ "name": "錆御納戸",
+ "readings": {
+  "en": "Sabionando"
+ },
+ "hex_by_source": {
+  "en": "#455859"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Rusty storage"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

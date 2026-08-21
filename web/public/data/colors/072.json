@@ -1,0 +1,64 @@
+{
+ "id": "072",
+ "name": "枇杷茶",
+ "readings": {
+  "en": "Biwacha"
+ },
+ "hex_by_source": {
+  "en": "#AB6134"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "夏",
+ "phase": "仲",
+ "kigo": "枇杷",
+ "origin": "枇杷",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 2,
+ "calendar_order": [
+  2,
+  2
+ ],
+ "notes": {
+  "en": "Loquat tree-brown"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "高浜虚子",
+   "work": "六百句",
+   "text": "ハンケチに雫《しずく》をうけて枇杷《びわ》すする",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51840.html",
+   "base_text": "虚子五句集（上）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "酒井和郎",
+   "norm": "ハンケチに雫をうけて枇杷すする",
+   "origin": "枇杷",
+   "kigo": "枇杷",
+   "certainty": "established",
+   "start": 10,
+   "end": 12,
+   "is_color_mention": false
+  },
+  {
+   "author": "前田普羅",
+   "work": "普羅句集",
+   "text": "花枇杷に色勝つ鳥の遊びけり",
+   "card_url": "https://www.aozora.gr.jp/cards/001719/card55258.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "花枇杷に色勝つ鳥の遊びけり",
+   "origin": "枇杷",
+   "kigo": "枇杷",
+   "certainty": "established",
+   "start": 1,
+   "end": 3,
+   "is_color_mention": false
+  }
+ ]
+}

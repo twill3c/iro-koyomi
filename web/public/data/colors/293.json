@@ -1,0 +1,26 @@
+{
+ "id": "293",
+ "name": "赤紅",
+ "readings": {
+  "en": "Akabeni"
+ },
+ "hex_by_source": {
+  "en": "#C3272B"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Pure crimson (dye)"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

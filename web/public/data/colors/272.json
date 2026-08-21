@@ -1,0 +1,29 @@
+{
+ "id": "272",
+ "name": "藍鼠",
+ "readings": {
+  "en": "Ainezumi",
+  "ja": "あいねず"
+ },
+ "hex_by_source": {
+  "en": "#5C544E",
+  "ja": "#5E7C85"
+ },
+ "delta_e": 20.677,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Mousy indigo",
+  "ja": "藍みをおびた暗い鼠色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

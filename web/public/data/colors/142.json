@@ -1,0 +1,29 @@
+{
+ "id": "142",
+ "name": "焦茶",
+ "readings": {
+  "en": "Kogecha",
+  "ja": "こげちゃ"
+ },
+ "hex_by_source": {
+  "en": "#351F19",
+  "ja": "#6A4D32"
+ },
+ "delta_e": 17.5583,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Scorched brown",
+  "ja": "物が焼け焦げたような黒みがかった茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

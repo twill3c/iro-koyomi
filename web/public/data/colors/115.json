@@ -1,0 +1,29 @@
+{
+ "id": "115",
+ "name": "洗朱",
+ "readings": {
+  "en": "Araishu",
+  "ja": "あらいしゅ"
+ },
+ "hex_by_source": {
+  "en": "#FF7952",
+  "ja": "#D0826C"
+ },
+ "delta_e": 9.4736,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Rinsed-out red",
+  "ja": "薄い朱色。黄色みを帯びた朱色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

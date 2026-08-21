@@ -1,0 +1,29 @@
+{
+ "id": "315",
+ "name": "錆浅葱",
+ "readings": {
+  "en": "Sabiasagi",
+  "ja": "さびあさぎ"
+ },
+ "hex_by_source": {
+  "en": "#6A7F7A",
+  "ja": "#5C9291"
+ },
+ "delta_e": 9.5864,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Rusted light-blue",
+  "ja": "ややくすんだ浅い緑青色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

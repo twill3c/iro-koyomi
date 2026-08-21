@@ -1,0 +1,29 @@
+{
+ "id": "216",
+ "name": "群青色",
+ "readings": {
+  "en": "Gunjō-iro",
+  "ja": "ぐんじょういろ"
+ },
+ "hex_by_source": {
+  "en": "#5D8CAE",
+  "ja": "#465DAA"
+ },
+ "delta_e": 17.5722,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Ultramarine color",
+  "ja": "やや紫みを帯びた深い青色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

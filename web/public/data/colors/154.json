@@ -1,0 +1,29 @@
+{
+ "id": "154",
+ "name": "珊瑚色",
+ "readings": {
+  "en": "Sango-iro",
+  "ja": "さんごいろ"
+ },
+ "hex_by_source": {
+  "en": "#F8674F",
+  "ja": "#FF7F50"
+ },
+ "delta_e": 7.5783,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Coral color",
+  "ja": "赤い珊瑚を粉末にした顔料の色。黄みがかった明るい赤。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

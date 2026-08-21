@@ -1,0 +1,29 @@
+{
+ "id": "006",
+ "name": "丁子茶",
+ "readings": {
+  "en": "Chōjicha",
+  "ja": "ちょうじちゃ"
+ },
+ "hex_by_source": {
+  "en": "#8F583C",
+  "ja": "#B4866B"
+ },
+ "delta_e": 17.0029,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Clove-brown",
+  "ja": "茶を帯びた丁子色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,132 @@
+{
+ "id": "257",
+ "name": "蒲萄",
+ "readings": {
+  "en": "Ebizome"
+ },
+ "hex_by_source": {
+  "en": "#6D2B50"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "秋",
+ "phase": "仲",
+ "kigo": "葡萄",
+ "origin": "葡萄",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 6,
+ "calendar_order": [
+  3,
+  2
+ ],
+ "notes": {
+  "en": "Vine grape"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "高浜虚子",
+   "work": "五百句",
+   "text": "葡萄《ぶどう》の種吐き出して事を決しけり",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51837.html",
+   "base_text": "虚子五句集（上）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "酒井和郎",
+   "norm": "葡萄の種吐き出して事を決しけり",
+   "origin": "葡萄",
+   "kigo": "葡萄",
+   "certainty": "established",
+   "start": 0,
+   "end": 2,
+   "is_color_mention": false
+  },
+  {
+   "author": "高浜虚子",
+   "work": "五百五十句",
+   "text": "葡萄榾《ぶどうほだ》ちよろ／＼燃えて夏炉かな",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51838.html",
+   "base_text": "虚子五句集（上）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "酒井和郎",
+   "norm": "葡萄榾ちよろ／＼燃えて夏炉かな",
+   "origin": "葡萄",
+   "kigo": "葡萄",
+   "certainty": "established",
+   "start": 0,
+   "end": 2,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "ビール苦く葡萄酒澁し薔薇の花",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "ビール苦く葡萄酒澁し薔薇の花",
+   "origin": "葡萄",
+   "kigo": "葡萄",
+   "certainty": "established",
+   "start": 5,
+   "end": 7,
+   "is_color_mention": false
+  },
+  {
+   "author": "川端茅舎",
+   "work": "川端茅舎句集",
+   "text": "葡萄棚洩るゝ日影の微塵かな",
+   "card_url": "https://www.aozora.gr.jp/cards/000369/card55239.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "鴨川佳一郎",
+   "norm": "葡萄棚洩るゝ日影の微塵かな",
+   "origin": "葡萄",
+   "kigo": "葡萄",
+   "certainty": "established",
+   "start": 0,
+   "end": 2,
+   "is_color_mention": false
+  },
+  {
+   "author": "川端茅舎",
+   "work": "川端茅舎句集",
+   "text": "亀甲の粒ぎつしりと黒葡萄",
+   "card_url": "https://www.aozora.gr.jp/cards/000369/card55239.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "鴨川佳一郎",
+   "norm": "亀甲の粒ぎつしりと黒葡萄",
+   "origin": "葡萄",
+   "kigo": "葡萄",
+   "certainty": "established",
+   "start": 10,
+   "end": 12,
+   "is_color_mention": false
+  },
+  {
+   "author": "川端茅舎",
+   "work": "川端茅舎句集",
+   "text": "水満てし白き器に葡萄かな",
+   "card_url": "https://www.aozora.gr.jp/cards/000369/card55239.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "鴨川佳一郎",
+   "norm": "水満てし白き器に葡萄かな",
+   "origin": "葡萄",
+   "kigo": "葡萄",
+   "certainty": "established",
+   "start": 8,
+   "end": 10,
+   "is_color_mention": false
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "140",
+ "name": "灰汁色",
+ "readings": {
+  "en": "Aku-iro",
+  "ja": "あくいろ"
+ },
+ "hex_by_source": {
+  "en": "#7F6B5D",
+  "ja": "#BCB09C"
+ },
+ "delta_e": 23.4621,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Lye-colored",
+  "ja": "灰汁のような黄みがかった灰色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

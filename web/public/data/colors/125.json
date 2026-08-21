@@ -1,0 +1,26 @@
+{
+ "id": "125",
+ "name": "涅色",
+ "readings": {
+  "ja": "くりいろ"
+ },
+ "hex_by_source": {
+  "ja": "#433634"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "川底の泥のような茶みがかった黒。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

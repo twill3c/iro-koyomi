@@ -1,0 +1,29 @@
+{
+ "id": "239",
+ "name": "苺色",
+ "readings": {
+  "ja": "いちごいろ"
+ },
+ "hex_by_source": {
+  "ja": "#BB5561"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "夏",
+ "phase": "初",
+ "kigo": "苺",
+ "origin": "苺",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  2,
+  1
+ ],
+ "notes": {
+  "ja": "鮮やかに色づいた苺の実の色。少し紫がかった赤。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

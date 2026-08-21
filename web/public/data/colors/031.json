@@ -1,0 +1,26 @@
+{
+ "id": "031",
+ "name": "呂色",
+ "readings": {
+  "ja": "ろいろ"
+ },
+ "hex_by_source": {
+  "ja": "#0C0C0C"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "漆黒の艶のないもの。艶消し加工をした黒漆の色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

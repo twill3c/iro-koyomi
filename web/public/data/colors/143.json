@@ -1,0 +1,26 @@
+{
+ "id": "143",
+ "name": "煉瓦色",
+ "readings": {
+  "ja": "れんがいろ"
+ },
+ "hex_by_source": {
+  "ja": "#AA5C3F"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "煉瓦のような赤みのくすんだ茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

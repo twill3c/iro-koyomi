@@ -1,0 +1,29 @@
+{
+ "id": "063",
+ "name": "木蘭色",
+ "readings": {
+  "ja": "もくらんいろ"
+ },
+ "hex_by_source": {
+  "ja": "#C7B370"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "春",
+ "phase": "仲",
+ "kigo": "木蘭",
+ "origin": "木蘭",
+ "certainty": "contested",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  1,
+  2
+ ],
+ "notes": {
+  "ja": "樹皮で染めた色。鈍い黄褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

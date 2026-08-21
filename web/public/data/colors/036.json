@@ -1,0 +1,26 @@
+{
+ "id": "036",
+ "name": "国防色",
+ "readings": {
+  "ja": "こくぼうしょく"
+ },
+ "hex_by_source": {
+  "ja": "#7B6C3E"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "帯青茶褐色。昭和期の日本陸軍の軍装色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

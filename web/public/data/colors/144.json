@@ -1,0 +1,26 @@
+{
+ "id": "144",
+ "name": "煎茶色",
+ "readings": {
+  "en": "Sencha-iro"
+ },
+ "hex_by_source": {
+  "en": "#824B35"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Green tea-colored"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

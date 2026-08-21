@@ -1,0 +1,26 @@
+{
+ "id": "041",
+ "name": "宍色",
+ "readings": {
+  "en": "Shishi-iro"
+ },
+ "hex_by_source": {
+  "en": "#F9906F"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Meat-color"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

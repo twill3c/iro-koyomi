@@ -1,0 +1,26 @@
+{
+ "id": "233",
+ "name": "若緑",
+ "readings": {
+  "ja": "わかみどり"
+ },
+ "hex_by_source": {
+  "ja": "#A5CD89"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "松の若葉のような明るく浅い黄緑色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

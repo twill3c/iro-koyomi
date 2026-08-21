@@ -1,0 +1,29 @@
+{
+ "id": "263",
+ "name": "薄紅",
+ "readings": {
+  "en": "Usubeni",
+  "ja": "うすくれない"
+ },
+ "hex_by_source": {
+  "en": "#F2666C",
+  "ja": "#B15C65"
+ },
+ "delta_e": 13.6313,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Pale crimson (dye)",
+  "ja": "ややくすんだ紅色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

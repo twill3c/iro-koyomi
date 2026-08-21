@@ -1,0 +1,26 @@
+{
+ "id": "073",
+ "name": "枡花色",
+ "readings": {
+  "ja": "ますはないろ"
+ },
+ "hex_by_source": {
+  "ja": "#5B7E91"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "五代目市川団十郎が好んだ淡い青。灰色がかった薄い青。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

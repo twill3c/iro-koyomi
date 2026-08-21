@@ -1,0 +1,115 @@
+{
+ "id": "284",
+ "name": "蜜柑色",
+ "readings": {
+  "ja": "みかんいろ"
+ },
+ "hex_by_source": {
+  "ja": "#F08300"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "冬",
+ "phase": "三",
+ "kigo": "蜜柑",
+ "origin": "蜜柑",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 5,
+ "calendar_order": [
+  4,
+  0
+ ],
+ "notes": {
+  "ja": "蜜柑の果実の色。赤みが少なく黄色みが強い橙色。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "皮むけば青煙たつ蜜柑哉",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "皮むけば青煙たつ蜜柑哉",
+   "origin": "蜜柑",
+   "kigo": "蜜柑",
+   "certainty": "established",
+   "start": 8,
+   "end": 10,
+   "is_color_mention": false
+  },
+  {
+   "author": "尾崎放哉",
+   "work": "尾崎放哉選句集",
+   "text": "蜜柑を焼いて喰ふ小供と二人で居る",
+   "card_url": "https://www.aozora.gr.jp/cards/000195/card974.html",
+   "base_text": "尾崎放哉句集",
+   "publisher": "彌生書房",
+   "typist": "j.utiyama、浜野智",
+   "proofreader": "",
+   "norm": "蜜柑を焼いて喰ふ小供と二人で居る",
+   "origin": "蜜柑",
+   "kigo": "蜜柑",
+   "certainty": "established",
+   "start": 0,
+   "end": 2,
+   "is_color_mention": false
+  },
+  {
+   "author": "尾崎放哉",
+   "work": "尾崎放哉選句集",
+   "text": "蜜柑たべてよい火にあたつて居る",
+   "card_url": "https://www.aozora.gr.jp/cards/000195/card974.html",
+   "base_text": "尾崎放哉句集",
+   "publisher": "彌生書房",
+   "typist": "j.utiyama、浜野智",
+   "proofreader": "",
+   "norm": "蜜柑たべてよい火にあたつて居る",
+   "origin": "蜜柑",
+   "kigo": "蜜柑",
+   "certainty": "established",
+   "start": 0,
+   "end": 2,
+   "is_color_mention": false
+  },
+  {
+   "author": "前田普羅",
+   "work": "普羅句集",
+   "text": "ころげ出て尻皆青き蜜柑哉",
+   "card_url": "https://www.aozora.gr.jp/cards/001719/card55258.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "ころげ出て尻皆青き蜜柑哉",
+   "origin": "蜜柑",
+   "kigo": "蜜柑",
+   "certainty": "established",
+   "start": 9,
+   "end": 11,
+   "is_color_mention": false
+  },
+  {
+   "author": "前田普羅",
+   "work": "普羅句集",
+   "text": "山火事を消しに登るや蜜柑畑",
+   "card_url": "https://www.aozora.gr.jp/cards/001719/card55258.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "山火事を消しに登るや蜜柑畑",
+   "origin": "蜜柑",
+   "kigo": "蜜柑",
+   "certainty": "established",
+   "start": 10,
+   "end": 12,
+   "is_color_mention": false
+  }
+ ]
+}

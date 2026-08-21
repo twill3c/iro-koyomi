@@ -1,0 +1,29 @@
+{
+ "id": "128",
+ "name": "淡香",
+ "readings": {
+  "en": "Usukō",
+  "ja": "うすこう"
+ },
+ "hex_by_source": {
+  "en": "#FFA565",
+  "ja": "#F3BF88"
+ },
+ "delta_e": 9.3488,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Pale incense",
+  "ja": "黄みの淡い黄褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

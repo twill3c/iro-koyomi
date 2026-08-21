@@ -1,0 +1,29 @@
+{
+ "id": "228",
+ "name": "苅安色/刈安色",
+ "readings": {
+  "ja": "かりやすいろ"
+ },
+ "hex_by_source": {
+  "ja": "#FFD768"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "秋",
+ "phase": "仲",
+ "kigo": "苅安",
+ "origin": "苅安",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  3,
+  2
+ ],
+ "notes": {
+  "ja": "日本の伝統色の一つ。カリヤスという草で染める、青色がかった黄色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

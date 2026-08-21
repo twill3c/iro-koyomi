@@ -1,0 +1,47 @@
+{
+ "id": "153",
+ "name": "玉蜀黍色",
+ "readings": {
+  "en": "Tōmorokoshi-iro"
+ },
+ "hex_by_source": {
+  "en": "#FAA945"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "秋",
+ "phase": "初",
+ "kigo": "玉蜀黍",
+ "origin": "玉蜀黍",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 1,
+ "calendar_order": [
+  3,
+  1
+ ],
+ "notes": {
+  "en": "Corn-colored"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "高浜虚子",
+   "work": "六百句",
+   "text": "玉蜀黍《もろこし》を二人互ひに土産《みやげ》かな",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51840.html",
+   "base_text": "虚子五句集（上）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "酒井和郎",
+   "norm": "玉蜀黍を二人互ひに土産かな",
+   "origin": "玉蜀黍",
+   "kigo": "玉蜀黍",
+   "certainty": "established",
+   "start": 0,
+   "end": 3,
+   "is_color_mention": false
+  }
+ ]
+}

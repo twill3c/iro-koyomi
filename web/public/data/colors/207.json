@@ -1,0 +1,78 @@
+{
+ "id": "207",
+ "name": "緋",
+ "readings": {
+  "en": "Ake"
+ },
+ "hex_by_source": {
+  "en": "#CF3A24"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "A",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 3,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Scarlet (blood)"
+ },
+ "layer_a": [
+  {
+   "author": "高浜虚子",
+   "work": "五百五十句",
+   "text": "鼻の上に落葉をのせて緋鯉《ひごい》浮く",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51838.html",
+   "base_text": "虚子五句集（上）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "酒井和郎",
+   "norm": "鼻の上に落葉をのせて緋鯉浮く",
+   "term": "緋",
+   "start": 10,
+   "end": 11,
+   "sense_width": false,
+   "connectable": true,
+   "is_color_mention": true
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "わびしらに櫻ちるなり緋の袴",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "わびしらに櫻ちるなり緋の袴",
+   "term": "緋",
+   "start": 10,
+   "end": 11,
+   "sense_width": false,
+   "connectable": true,
+   "is_color_mention": true
+  },
+  {
+   "author": "川端茅舎",
+   "work": "川端茅舎句集",
+   "text": "雪嶺を落ち来たる蝶小緋縅",
+   "card_url": "https://www.aozora.gr.jp/cards/000369/card55239.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "鴨川佳一郎",
+   "norm": "雪嶺を落ち来たる蝶小緋縅",
+   "term": "緋",
+   "start": 10,
+   "end": 11,
+   "sense_width": false,
+   "connectable": true,
+   "is_color_mention": true
+  }
+ ],
+ "layer_b": []
+}

@@ -1,0 +1,29 @@
+{
+ "id": "011",
+ "name": "二藍",
+ "readings": {
+  "en": "Futa'ai",
+  "ja": "ふたあい"
+ },
+ "hex_by_source": {
+  "en": "#614E6E",
+  "ja": "#6B4978"
+ },
+ "delta_e": 5.1618,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Dark indigo",
+  "ja": "染料「藍」と「呉藍（紅）」を使った染色法に由来する。平安時代に愛好された紫系統の色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

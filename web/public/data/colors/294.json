@@ -1,0 +1,26 @@
+{
+ "id": "294",
+ "name": "赤紫",
+ "readings": {
+  "ja": "あかむらさき"
+ },
+ "hex_by_source": {
+  "ja": "#EB6EA5"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "躑躅や牡丹の花ような赤みが強い鮮やかな紫色。暗く渋い紅色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

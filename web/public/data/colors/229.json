@@ -1,0 +1,26 @@
+{
+ "id": "229",
+ "name": "苅萱",
+ "readings": {
+  "en": "Kariyasu"
+ },
+ "hex_by_source": {
+  "en": "#E2B13C"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Japanese triandra grass (''Themeda japonica'')"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "190",
+ "name": "紅蓮色",
+ "readings": {
+  "ja": "ぐれんいろ"
+ },
+ "hex_by_source": {
+  "ja": "#AD002D"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "決まった色はないが濃い紅で、よく炎の色に喩えられる。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

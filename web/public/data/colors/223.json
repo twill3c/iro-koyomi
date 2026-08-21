@@ -1,0 +1,26 @@
+{
+ "id": "223",
+ "name": "舛花色",
+ "readings": {
+  "en": "Masuhana-iro"
+ },
+ "hex_by_source": {
+  "en": "#4D646C"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Ichikawa family crest blue<ref>{{cite web | url=https://irocore.com/masuhana-iro/ | title=舛花色(ますはないろ)とは？：伝統色のいろは }}</ref>"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

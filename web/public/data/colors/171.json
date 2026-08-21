@@ -1,0 +1,29 @@
+{
+ "id": "171",
+ "name": "百塩茶",
+ "readings": {
+  "en": "Momoshiocha",
+  "ja": "ももしおちゃ"
+ },
+ "hex_by_source": {
+  "en": "#542D24",
+  "ja": "#542D24"
+ },
+ "delta_e": 0.0,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Boiled red bean brown",
+  "ja": "何度も染め重ねたような非常に濃い赤褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

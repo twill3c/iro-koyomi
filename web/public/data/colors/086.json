@@ -1,0 +1,26 @@
+{
+ "id": "086",
+ "name": "根岸色",
+ "readings": {
+  "ja": "ねぎしいろ"
+ },
+ "hex_by_source": {
+  "ja": "#908E65"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "根岸で採れた土で塗った壁の色。緑がかった渋い薄茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

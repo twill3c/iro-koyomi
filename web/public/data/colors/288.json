@@ -1,0 +1,26 @@
+{
+ "id": "288",
+ "name": "貝紫色",
+ "readings": {
+  "ja": "かいむらさきいろ"
+ },
+ "hex_by_source": {
+  "ja": "#7F1184"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "特殊な巻貝の色素で染める紫。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

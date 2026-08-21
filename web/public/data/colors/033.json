@@ -1,0 +1,29 @@
+{
+ "id": "033",
+ "name": "唐紅/韓紅",
+ "readings": {
+  "en": "Karakurenai",
+  "ja": "からくれない"
+ },
+ "hex_by_source": {
+  "en": "#C91F37",
+  "ja": "#D93448"
+ },
+ "delta_e": 5.3516,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Foreign crimson{{efn|\"Since magenta, an imported artificial color, also resembled {{translit|ja|Kara-kurenai}} (here also {{translit|ja|Kara}} means Korea; {{translit|ja|kurenai}} means red), people started to call the deep red formerly known as {{translit|ja|kara-ai}} by the new designation {{translit|ja|Kara-kurenai}} (here, however, {{translit|ja|\"Kara\"}} means China).\"<ref name=\"summer kimono\">{{cite book |last=Yumioka |first=Katsumi |date=2006 |title=着と日本の色・夏篇・夏着物で綴る日本の文様と伝統色 |trans-title=Summer Kimonos and the Colors of Japan・Kimono Collection of Katsumi Yumioka |language=ja,en |location=Tokyo |publisher=PIE Books |isbn=978-4894445314}}</ref>{{rp|37}}}}",
+  "ja": "鮮やかな濃い紅色。名前は「韓紅花」とも書き韓から伝来した紅の意味、唐は後の当て字。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

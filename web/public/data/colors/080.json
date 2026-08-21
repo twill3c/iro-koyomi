@@ -1,0 +1,26 @@
+{
+ "id": "080",
+ "name": "柴染",
+ "readings": {
+  "en": "Fushizome"
+ },
+ "hex_by_source": {
+  "en": "#8C5939"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Brushwood-dyed"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

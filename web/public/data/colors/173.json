@@ -1,0 +1,44 @@
+{
+ "id": "173",
+ "name": "真紅",
+ "readings": {
+  "ja": "しんく"
+ },
+ "hex_by_source": {
+  "ja": "#B1063A"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "A",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 1,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "深紅とも書く。濃い紅色。または、真っ赤な色。"
+ },
+ "layer_a": [
+  {
+   "author": "川端茅舎",
+   "work": "川端茅舎句集",
+   "text": "短日の照し終せず真紅ゐ",
+   "card_url": "https://www.aozora.gr.jp/cards/000369/card55239.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "鴨川佳一郎",
+   "norm": "短日の照し終せず真紅ゐ",
+   "term": "真紅",
+   "start": 8,
+   "end": 10,
+   "sense_width": false,
+   "connectable": true,
+   "is_color_mention": true
+  }
+ ],
+ "layer_b": []
+}

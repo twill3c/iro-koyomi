@@ -1,0 +1,26 @@
+{
+ "id": "026",
+ "name": "千歳茶",
+ "readings": {
+  "en": "Sensaicha"
+ },
+ "hex_by_source": {
+  "en": "#3B3429"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Thousand year old brown"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

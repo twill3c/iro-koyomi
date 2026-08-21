@@ -1,0 +1,132 @@
+{
+ "id": "259",
+ "name": "蓬色",
+ "readings": {
+  "ja": "よもぎいろ"
+ },
+ "hex_by_source": {
+  "ja": "#616B07"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "春",
+ "phase": "三",
+ "kigo": "蓬",
+ "origin": "蓬",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 6,
+ "calendar_order": [
+  1,
+  0
+ ],
+ "notes": {
+  "ja": "ヨモギの葉の色。やや青味の緑。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "簔笠を蓬莱にして草の庵",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "簔笠を蓬莱にして草の庵",
+   "origin": "蓬",
+   "kigo": "蓬",
+   "certainty": "established",
+   "start": 3,
+   "end": 4,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "蓬莱の山を崩すや嫁が君",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "蓬莱の山を崩すや嫁が君",
+   "origin": "蓬",
+   "kigo": "蓬",
+   "certainty": "established",
+   "start": 0,
+   "end": 1,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "蓬莱の松にさしけり初日の出",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "蓬莱の松にさしけり初日の出",
+   "origin": "蓬",
+   "kigo": "蓬",
+   "certainty": "established",
+   "start": 0,
+   "end": 1,
+   "is_color_mention": false
+  },
+  {
+   "author": "尾崎放哉",
+   "work": "尾崎放哉選句集",
+   "text": "蓬ひに来たその顔が風呂を焚いてゐた",
+   "card_url": "https://www.aozora.gr.jp/cards/000195/card974.html",
+   "base_text": "尾崎放哉句集",
+   "publisher": "彌生書房",
+   "typist": "j.utiyama、浜野智",
+   "proofreader": "",
+   "norm": "蓬ひに来たその顔が風呂を焚いてゐた",
+   "origin": "蓬",
+   "kigo": "蓬",
+   "certainty": "established",
+   "start": 0,
+   "end": 1,
+   "is_color_mention": false
+  },
+  {
+   "author": "内藤鳴雪",
+   "work": "鳴雪句集",
+   "text": "春雨や蓬の宿の白拍子",
+   "card_url": "https://www.aozora.gr.jp/cards/000684/card55833.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "春雨や蓬の宿の白拍子",
+   "origin": "蓬",
+   "kigo": "蓬",
+   "certainty": "established",
+   "start": 3,
+   "end": 4,
+   "is_color_mention": false
+  },
+  {
+   "author": "内藤鳴雪",
+   "work": "鳴雪句集",
+   "text": "短夜や蓬が上の廿日月",
+   "card_url": "https://www.aozora.gr.jp/cards/000684/card55833.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "短夜や蓬が上の廿日月",
+   "origin": "蓬",
+   "kigo": "蓬",
+   "certainty": "established",
+   "start": 3,
+   "end": 4,
+   "is_color_mention": false
+  }
+ ]
+}

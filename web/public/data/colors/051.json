@@ -1,0 +1,26 @@
+{
+ "id": "051",
+ "name": "常磐色",
+ "readings": {
+  "ja": "ときわいろ"
+ },
+ "hex_by_source": {
+  "ja": "#007B43"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "常緑樹の葉の色。濃い緑色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

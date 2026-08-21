@@ -1,0 +1,64 @@
+{
+ "id": "124",
+ "name": "海老茶",
+ "readings": {
+  "en": "Ebicha"
+ },
+ "hex_by_source": {
+  "en": "#5E2824"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "冬",
+ "phase": "三",
+ "kigo": "海老",
+ "origin": "海老",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 2,
+ "calendar_order": [
+  4,
+  0
+ ],
+ "notes": {
+  "en": "Maroon (shrimp brown)"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "萍に乘てながるゝ小海老哉",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "萍に乘てながるゝ小海老哉",
+   "origin": "海老",
+   "kigo": "海老",
+   "certainty": "established",
+   "start": 9,
+   "end": 11,
+   "is_color_mention": false
+  },
+  {
+   "author": "前田普羅",
+   "work": "普羅句集",
+   "text": "海老汲むと日々に歩きぬ枯野人",
+   "card_url": "https://www.aozora.gr.jp/cards/001719/card55258.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "海老汲むと日々に歩きぬ枯野人",
+   "origin": "海老",
+   "kigo": "海老",
+   "certainty": "established",
+   "start": 0,
+   "end": 2,
+   "is_color_mention": false
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "id": "064",
+ "name": "木賊色",
+ "readings": {
+  "en": "Tokusa-iro",
+  "ja": "とくさいろ"
+ },
+ "hex_by_source": {
+  "en": "#3D5D42",
+  "ja": "#22825D"
+ },
+ "delta_e": 14.0416,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "秋",
+ "phase": "三",
+ "kigo": "木賊",
+ "origin": "木賊",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 1,
+ "calendar_order": [
+  3,
+  0
+ ],
+ "notes": {
+  "en": "Horsetail color",
+  "ja": "木賊のような青みがかった緑。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "笠一ツ動いて行くや木賊刈",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "笠一ツ動いて行くや木賊刈",
+   "origin": "木賊",
+   "kigo": "木賊",
+   "certainty": "established",
+   "start": 9,
+   "end": 11,
+   "is_color_mention": false
+  }
+ ]
+}

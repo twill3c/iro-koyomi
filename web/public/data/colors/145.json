@@ -1,0 +1,29 @@
+{
+ "id": "145",
+ "name": "煤竹色",
+ "readings": {
+  "en": "Susutake-iro",
+  "ja": "すすたけいろ"
+ },
+ "hex_by_source": {
+  "en": "#593A27",
+  "ja": "#6F514C"
+ },
+ "delta_e": 10.5384,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Weathered bamboo (lit. \"sooty\")",
+  "ja": "煙で煤けた竹の色。暗い赤褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

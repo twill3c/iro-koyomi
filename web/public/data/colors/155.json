@@ -1,0 +1,29 @@
+{
+ "id": "155",
+ "name": "琥珀色",
+ "readings": {
+  "en": "Kohaku-iro",
+  "ja": "こはくいろ"
+ },
+ "hex_by_source": {
+  "en": "#CA6924",
+  "ja": "#EA930A"
+ },
+ "delta_e": 15.7671,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Amber color",
+  "ja": "琥珀の石のような色。透明感のある黄褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

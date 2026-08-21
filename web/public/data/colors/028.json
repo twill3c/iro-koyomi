@@ -1,0 +1,26 @@
+{
+ "id": "028",
+ "name": "半色",
+ "readings": {
+  "en": "Hashita-iro"
+ },
+ "hex_by_source": {
+  "en": "#8D608C"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Half color"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

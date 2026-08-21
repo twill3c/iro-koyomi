@@ -1,0 +1,26 @@
+{
+ "id": "136",
+ "name": "漆黒",
+ "readings": {
+  "ja": "しっこく"
+ },
+ "hex_by_source": {
+  "ja": "#080000"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "黒漆を塗った漆器のような深く艶のある黒。純粋な黒。『純白』の対義語。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

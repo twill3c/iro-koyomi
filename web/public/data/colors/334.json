@@ -1,0 +1,26 @@
+{
+ "id": "334",
+ "name": "青鈍色",
+ "readings": {
+  "ja": "あおにびいろ"
+ },
+ "hex_by_source": {
+  "ja": "#324356"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "青色に橡などの墨系染料を掛け合わせ、鉄で媒染した色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,29 @@
+{
+ "id": "200",
+ "name": "紫苑色",
+ "readings": {
+  "en": "Shion-iro",
+  "ja": "しおんいろ"
+ },
+ "hex_by_source": {
+  "en": "#976E9A",
+  "ja": "#968ABD"
+ },
+ "delta_e": 11.6004,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Tatarian aster color",
+  "ja": "紫苑の花の色。淡い紫色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

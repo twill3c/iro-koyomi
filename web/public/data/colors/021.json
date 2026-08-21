@@ -1,0 +1,29 @@
+{
+ "id": "021",
+ "name": "利休茶",
+ "readings": {
+  "en": "Rikyūcha",
+  "ja": "りきゅうちゃ"
+ },
+ "hex_by_source": {
+  "en": "#826B58",
+  "ja": "#897845"
+ },
+ "delta_e": 12.2503,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Sen no Rikyū's tea",
+  "ja": "千利休が好んだ色。緑がかった薄茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

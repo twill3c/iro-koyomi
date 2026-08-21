@@ -1,0 +1,29 @@
+{
+ "id": "019",
+ "name": "伽羅色",
+ "readings": {
+  "en": "Kyara-iro",
+  "ja": "きゃらいろ"
+ },
+ "hex_by_source": {
+  "en": "#6A432D",
+  "ja": "#D8A373"
+ },
+ "delta_e": 38.7477,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Aloewood-color",
+  "ja": "茶色がかった暗い黄褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

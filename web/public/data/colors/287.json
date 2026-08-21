@@ -1,0 +1,26 @@
+{
+ "id": "287",
+ "name": "褐色",
+ "readings": {
+  "en": "Kachi-iro"
+ },
+ "hex_by_source": {
+  "en": "#181B26"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Coarse wool color"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

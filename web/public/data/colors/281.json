@@ -1,0 +1,26 @@
+{
+ "id": "281",
+ "name": "蘇芳色",
+ "readings": {
+  "ja": "すおういろ"
+ },
+ "hex_by_source": {
+  "ja": "#973C3F"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "蘇芳で染めた色。黒味を帯びた赤色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,29 @@
+{
+ "id": "330",
+ "name": "青竹色",
+ "readings": {
+  "en": "Aotake-iro",
+  "ja": "あおたけいろ"
+ },
+ "hex_by_source": {
+  "en": "#006442",
+  "ja": "#72BAA7"
+ },
+ "delta_e": 33.0265,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Green bamboo color",
+  "ja": "竹の幹の色。明るい緑。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

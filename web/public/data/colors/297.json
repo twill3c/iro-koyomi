@@ -1,0 +1,26 @@
+{
+ "id": "297",
+ "name": "赭",
+ "readings": {
+  "ja": "そほ"
+ },
+ "hex_by_source": {
+  "ja": "#AB6953"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "赤土（赭土）のことを指す。茶色に近い暗い赤。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

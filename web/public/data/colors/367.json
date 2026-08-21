@@ -1,0 +1,26 @@
+{
+ "id": "367",
+ "name": "黒色",
+ "readings": {
+  "en": "Kokushoku"
+ },
+ "hex_by_source": {
+  "en": "#171412"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Black"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

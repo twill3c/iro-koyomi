@@ -1,0 +1,26 @@
+{
+ "id": "047",
+ "name": "山葵色",
+ "readings": {
+  "ja": "わさびいろ"
+ },
+ "hex_by_source": {
+  "ja": "#8EC298"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "山葵のような薄い黄緑色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "048",
+ "name": "山鳩色",
+ "readings": {
+  "ja": "やまばといろ"
+ },
+ "hex_by_source": {
+  "ja": "#BFBD9E"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "ヤマバトの羽の色。灰色がかった緑。麹塵とも呼ばれる。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

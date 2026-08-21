@@ -1,0 +1,29 @@
+{
+ "id": "109",
+ "name": "水浅葱",
+ "readings": {
+  "en": "Mizu'asagi",
+  "ja": "みずあさぎ"
+ },
+ "hex_by_source": {
+  "en": "#749F8D",
+  "ja": "#8CD2BC"
+ },
+ "delta_e": 13.9757,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Pale green onion",
+  "ja": "水色がかった浅葱色。緑みの淡い青色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

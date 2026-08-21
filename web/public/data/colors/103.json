@@ -1,0 +1,26 @@
+{
+ "id": "103",
+ "name": "橙色",
+ "readings": {
+  "ja": "だいだいいろ"
+ },
+ "hex_by_source": {
+  "ja": "#FFB74C"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "果物のダイダイの実から転じる。赤と黄色の中間色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "032",
+ "name": "唐棣色",
+ "readings": {
+  "ja": "はねずいろ"
+ },
+ "hex_by_source": {
+  "ja": "#F0908D"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "「唐棣（はねず）」は庭梅（にわうめ）の古名。庭梅の花のような薄赤色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

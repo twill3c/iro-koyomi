@@ -1,0 +1,26 @@
+{
+ "id": "369",
+ "name": "鼠色",
+ "readings": {
+  "ja": "ねずみいろ"
+ },
+ "hex_by_source": {
+  "ja": "#949495"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "鼠の体毛の色に由来。灰色全般を指す。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

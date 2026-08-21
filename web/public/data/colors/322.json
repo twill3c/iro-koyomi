@@ -1,0 +1,26 @@
+{
+ "id": "322",
+ "name": "雄黄色",
+ "readings": {
+  "ja": "ゆうおういろ"
+ },
+ "hex_by_source": {
+  "ja": "#EE9D19"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "硫化ヒ素の結晶の色。明るい鮮やかな黄色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

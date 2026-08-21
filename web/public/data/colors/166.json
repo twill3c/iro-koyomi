@@ -1,0 +1,29 @@
+{
+ "id": "166",
+ "name": "白緑",
+ "readings": {
+  "en": "Byakuroku",
+  "ja": "びゃくろく"
+ },
+ "hex_by_source": {
+  "en": "#A5BA93",
+  "ja": "#DAEAD0"
+ },
+ "delta_e": 12.9389,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Whitish green",
+  "ja": "白みを帯びた淡い緑色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

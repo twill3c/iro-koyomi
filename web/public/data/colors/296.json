@@ -1,0 +1,29 @@
+{
+ "id": "296",
+ "name": "赤香色",
+ "readings": {
+  "en": "Akakō-iro",
+  "ja": "あかこういろ"
+ },
+ "hex_by_source": {
+  "en": "#F07F5E",
+  "ja": "#F6B894"
+ },
+ "delta_e": 14.9665,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Red incense-colored",
+  "ja": "僧衣に用いられた。赤みがかった淡い橙色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

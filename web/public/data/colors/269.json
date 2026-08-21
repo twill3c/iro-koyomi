@@ -1,0 +1,29 @@
+{
+ "id": "269",
+ "name": "藍海松茶",
+ "readings": {
+  "en": "Aimirucha"
+ },
+ "hex_by_source": {
+  "en": "#2E372E"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "春",
+ "phase": "三",
+ "kigo": "海松",
+ "origin": "海松",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  1,
+  0
+ ],
+ "notes": {
+  "en": "Indigo ''Codium fragile'' seaweed brown"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

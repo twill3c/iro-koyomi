@@ -1,0 +1,29 @@
+{
+ "id": "217",
+ "name": "老竹色",
+ "readings": {
+  "en": "Oitake-iro",
+  "ja": "おいたけいろ"
+ },
+ "hex_by_source": {
+  "en": "#5E644F",
+  "ja": "#769164"
+ },
+ "delta_e": 18.1964,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Old bamboo color",
+  "ja": "年を経た意味の灰みをおびた老竹の色。ややくすんで灰色がかった緑色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

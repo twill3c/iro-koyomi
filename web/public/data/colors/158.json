@@ -1,0 +1,29 @@
+{
+ "id": "158",
+ "name": "璃寛茶",
+ "readings": {
+  "en": "Rikancha",
+  "ja": "りかんちゃ"
+ },
+ "hex_by_source": {
+  "en": "#534A32",
+  "ja": "#6E6636"
+ },
+ "delta_e": 11.7279,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Rikan brown",
+  "ja": "江戸時代の流行色の1つ。暗い緑がかった茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

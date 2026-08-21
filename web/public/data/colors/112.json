@@ -1,0 +1,29 @@
+{
+ "id": "112",
+ "name": "江戸茶",
+ "readings": {
+  "en": "Edocha",
+  "ja": "えどちゃ"
+ },
+ "hex_by_source": {
+  "en": "#A13D2D",
+  "ja": "#CD8C5C"
+ },
+ "delta_e": 27.2254,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Red-brown (Edo brown)",
+  "ja": "江戸時代前期の流行色。黄みの深い赤褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

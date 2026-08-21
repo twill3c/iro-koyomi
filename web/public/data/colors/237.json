@@ -1,0 +1,64 @@
+{
+ "id": "237",
+ "name": "若菜色",
+ "readings": {
+  "ja": "わかないろ"
+ },
+ "hex_by_source": {
+  "ja": "#CCDE68"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "新年",
+ "phase": "三",
+ "kigo": "若菜",
+ "origin": "若菜",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 2,
+ "calendar_order": [
+  0,
+  0
+ ],
+ "notes": {
+  "ja": "立春に芽を出す食用植物の淡い緑色。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "高浜虚子",
+   "work": "六百五十句",
+   "text": "有るものを摘み来よ乙女《おとめ》若菜の日",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51841.html",
+   "base_text": "虚子五句集（下）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "木下聡",
+   "norm": "有るものを摘み来よ乙女若菜の日",
+   "origin": "若菜",
+   "kigo": "若菜",
+   "certainty": "established",
+   "start": 11,
+   "end": 13,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "わびたりや小鍋にまじる雪若菜",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "わびたりや小鍋にまじる雪若菜",
+   "origin": "若菜",
+   "kigo": "若菜",
+   "certainty": "established",
+   "start": 12,
+   "end": 14,
+   "is_color_mention": false
+  }
+ ]
+}

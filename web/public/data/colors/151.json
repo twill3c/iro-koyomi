@@ -1,0 +1,29 @@
+{
+ "id": "151",
+ "name": "猩々緋",
+ "readings": {
+  "en": "Shōjōhi",
+  "ja": "しょうじょうひ"
+ },
+ "hex_by_source": {
+  "en": "#DC3023",
+  "ja": "#CE313D"
+ },
+ "delta_e": 7.7513,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Red-orange (lit. orangutan-colored)",
+  "ja": "中国由来の空想上の動物である猩々の血の赤色（緋色）。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

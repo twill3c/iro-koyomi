@@ -1,0 +1,26 @@
+{
+ "id": "316",
+ "name": "錆色",
+ "readings": {
+  "ja": "さびいろ"
+ },
+ "hex_by_source": {
+  "ja": "#6C3424"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "金属の錆の色。暗い灰みの黄赤。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

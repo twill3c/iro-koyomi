@@ -1,0 +1,26 @@
+{
+ "id": "309",
+ "name": "鉛色",
+ "readings": {
+  "ja": "なまりいろ"
+ },
+ "hex_by_source": {
+  "ja": "#7B7C7D"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "鉛のような少し青みを帯びた灰色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,32 @@
+{
+ "id": "290",
+ "name": "赤朽葉",
+ "readings": {
+  "en": "Akakuchiba",
+  "ja": "あかくちば"
+ },
+ "hex_by_source": {
+  "en": "#DB8449",
+  "ja": "#DB8449"
+ },
+ "delta_e": 0.0,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "冬",
+ "phase": "三",
+ "kigo": "朽葉",
+ "origin": "朽葉",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  4,
+  0
+ ],
+ "notes": {
+  "en": "Red fallen leaves",
+  "ja": "晩秋の赤く色づいた朽葉の色。赤みがかった赤茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "023",
+ "name": "勝色",
+ "readings": {
+  "ja": "かちいろ/かついろ"
+ },
+ "hex_by_source": {
+  "ja": "#4D5269"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "紺色の一種。鎌倉時代に武士の間で流行した。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

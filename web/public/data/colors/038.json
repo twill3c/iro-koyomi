@@ -1,0 +1,29 @@
+{
+ "id": "038",
+ "name": "墨色",
+ "readings": {
+  "en": "Sumi-iro",
+  "ja": "すみいろ"
+ },
+ "hex_by_source": {
+  "en": "#27221F",
+  "ja": "#343434"
+ },
+ "delta_e": 6.4819,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Ink color",
+  "ja": "墨のような灰色がかった黒色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

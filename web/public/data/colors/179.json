@@ -1,0 +1,26 @@
+{
+ "id": "179",
+ "name": "竜胆色",
+ "readings": {
+  "ja": "りんどういろ"
+ },
+ "hex_by_source": {
+  "ja": "#6967AB"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "竜胆の花の色。薄い青紫色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

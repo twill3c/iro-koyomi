@@ -1,0 +1,26 @@
+{
+ "id": "186",
+ "name": "紅消鼠",
+ "readings": {
+  "en": "Benikeshinezumi"
+ },
+ "hex_by_source": {
+  "en": "#44312E"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Vanishing red mouse"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "218",
+ "name": "肌色",
+ "readings": {
+  "ja": "はだいろ"
+ },
+ "hex_by_source": {
+  "ja": "#F1BB93"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "日本人の膚（はだ）の色に似せた薄いオレンジ。現在は特定の色を肌色と規定することはおかしいとして、「薄橙」「ペールオレンジ」などと呼ぶように変更されつつある。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

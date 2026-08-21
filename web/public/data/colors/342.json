@@ -1,0 +1,26 @@
+{
+ "id": "342",
+ "name": "鳩羽鼠",
+ "readings": {
+  "en": "Hatobanezumi"
+ },
+ "hex_by_source": {
+  "en": "#755D5B"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Dove feather grey"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

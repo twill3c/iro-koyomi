@@ -1,0 +1,26 @@
+{
+ "id": "361",
+ "name": "黄蘗",
+ "readings": {
+  "en": "Kihada"
+ },
+ "hex_by_source": {
+  "en": "#F3C13A"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Amur cork tree (''Phellodendron amurense'')"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

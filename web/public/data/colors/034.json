@@ -1,0 +1,29 @@
+{
+ "id": "034",
+ "name": "唐茶",
+ "readings": {
+  "en": "Karacha",
+  "ja": "からちゃ"
+ },
+ "hex_by_source": {
+  "en": "#B35C44",
+  "ja": "#A06705"
+ },
+ "delta_e": 19.0403,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Spicy red-brown (Chinese tea brown)",
+  "ja": "黄みがかった茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

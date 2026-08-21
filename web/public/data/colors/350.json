@@ -1,0 +1,50 @@
+{
+ "id": "350",
+ "name": "鶸萌黄",
+ "readings": {
+  "en": "Hiwamo'egi",
+  "ja": "ひわもえぎ"
+ },
+ "hex_by_source": {
+  "en": "#7A942E",
+  "ja": "#82AE46"
+ },
+ "delta_e": 8.2148,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "秋",
+ "phase": "三",
+ "kigo": "鶸",
+ "origin": "鶸",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 1,
+ "calendar_order": [
+  3,
+  0
+ ],
+ "notes": {
+  "en": "Siskin sprout yellow",
+  "ja": "黄みの強い黄緑色。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "雀ほど鶸鳴きたてゝ山淋し",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "雀ほど鶸鳴きたてゝ山淋し",
+   "origin": "鶸",
+   "kigo": "鶸",
+   "certainty": "established",
+   "start": 3,
+   "end": 4,
+   "is_color_mention": false
+  }
+ ]
+}

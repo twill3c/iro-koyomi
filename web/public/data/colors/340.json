@@ -1,0 +1,29 @@
+{
+ "id": "340",
+ "name": "鳥の子色",
+ "readings": {
+  "en": "Torinoko-iro",
+  "ja": "とりのこいろ"
+ },
+ "hex_by_source": {
+  "en": "#E2BE9F",
+  "ja": "#FFF1CF"
+ },
+ "delta_e": 14.0058,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Eggshell paper-colored",
+  "ja": "鶏の卵の殻の色。黄色がかった白。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

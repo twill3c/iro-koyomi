@@ -1,0 +1,44 @@
+{
+ "id": "249",
+ "name": "萌黄",
+ "readings": {
+  "en": "Mo'egi"
+ },
+ "hex_by_source": {
+  "en": "#5B8930"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "A",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 1,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Fresh onion"
+ },
+ "layer_a": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "山※［＃「※」は「二の字点」、第3水準1-2-22、28-3］は萌黄淺黄やほとゝきす",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "山※は萌黄淺黄やほとゝきす",
+   "term": "萌黄",
+   "start": 3,
+   "end": 5,
+   "sense_width": false,
+   "connectable": true,
+   "is_color_mention": true
+  }
+ ],
+ "layer_b": []
+}

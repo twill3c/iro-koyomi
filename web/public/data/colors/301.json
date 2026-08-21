@@ -1,0 +1,26 @@
+{
+ "id": "301",
+ "name": "遠州茶",
+ "readings": {
+  "en": "Enshūcha"
+ },
+ "hex_by_source": {
+  "en": "#CB6649"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Muddy brown (lit. the brown of a distant river)"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

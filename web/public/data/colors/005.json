@@ -1,0 +1,26 @@
+{
+ "id": "005",
+ "name": "丁子染",
+ "readings": {
+  "en": "Chōjizome"
+ },
+ "hex_by_source": {
+  "en": "#A96232"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Clove-dyed"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

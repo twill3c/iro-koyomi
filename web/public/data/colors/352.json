@@ -1,0 +1,29 @@
+{
+ "id": "352",
+ "name": "黄丹",
+ "readings": {
+  "en": "Ōtan",
+  "ja": "おうに/おうたん"
+ },
+ "hex_by_source": {
+  "en": "#FF4E20",
+  "ja": "#F47A55"
+ },
+ "delta_e": 8.3689,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Ochre (earthen yellow-red-brown)",
+  "ja": "紅花と梔子（くちなし）で染めたオレンジ色。顔料の鉛丹に似た色であることから。皇太子の袍（ほう）に用いられる禁色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,29 @@
+{
+ "id": "303",
+ "name": "金茶",
+ "readings": {
+  "en": "Kincha",
+  "ja": "きんちゃ"
+ },
+ "hex_by_source": {
+  "en": "#C66B27",
+  "ja": "#E0861A"
+ },
+ "delta_e": 10.6779,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Golden brown",
+  "ja": "山吹茶とも呼ぶ。明るく黄色がかった茶色。金色に近い色合い。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

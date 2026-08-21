@@ -1,0 +1,29 @@
+{
+ "id": "161",
+ "name": "生壁色",
+ "readings": {
+  "en": "Namakabe-iro",
+  "ja": "なまかべいろ"
+ },
+ "hex_by_source": {
+  "en": "#785E49",
+  "ja": "#AA8C63"
+ },
+ "delta_e": 19.1369,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "The color of undried plaster",
+  "ja": "塗りたての乾いていない土壁の色。灰色みの黄褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

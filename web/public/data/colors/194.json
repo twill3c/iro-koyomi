@@ -1,0 +1,26 @@
+{
+ "id": "194",
+ "name": "紅鳶",
+ "readings": {
+  "en": "Benitobi"
+ },
+ "hex_by_source": {
+  "en": "#913228"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Red kite (bird species)"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

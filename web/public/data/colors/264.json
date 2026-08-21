@@ -1,0 +1,29 @@
+{
+ "id": "264",
+ "name": "薄色",
+ "readings": {
+  "en": "Usu-iro",
+  "ja": "うすいろ"
+ },
+ "hex_by_source": {
+  "en": "#A87CA0",
+  "ja": "#CEB4B9"
+ },
+ "delta_e": 18.7261,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Thin color",
+  "ja": "紫根に椿灰汁または明礬で染めた薄い紫色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

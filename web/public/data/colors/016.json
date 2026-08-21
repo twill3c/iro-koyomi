@@ -1,0 +1,29 @@
+{
+ "id": "016",
+ "name": "代赭色",
+ "readings": {
+  "en": "Taisha-iro",
+  "ja": "たいしゃいろ"
+ },
+ "hex_by_source": {
+  "en": "#9F5233",
+  "ja": "#B36C3C"
+ },
+ "delta_e": 10.3695,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Red ochre color",
+  "ja": "褐色を帯びた黄色または赤色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

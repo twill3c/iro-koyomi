@@ -1,0 +1,26 @@
+{
+ "id": "177",
+ "name": "空五倍子色",
+ "readings": {
+  "ja": "うつぶしいろ"
+ },
+ "hex_by_source": {
+  "ja": "#9D896C"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "虫こぶで染めたやや褐色がかった淡い灰色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "215",
+ "name": "羊羹色",
+ "readings": {
+  "ja": "ようかんいろ"
+ },
+ "hex_by_source": {
+  "ja": "#6D3C14"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "和菓子の羊羹の色から。黒に近い暗い赤褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

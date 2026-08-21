@@ -1,0 +1,26 @@
+{
+ "id": "212",
+ "name": "縹",
+ "readings": {
+  "en": "Hanada"
+ },
+ "hex_by_source": {
+  "en": "#044F67"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Light blue silk"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

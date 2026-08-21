@@ -1,0 +1,26 @@
+{
+ "id": "336",
+ "name": "香色",
+ "readings": {
+  "ja": "こういろ"
+ },
+ "hex_by_source": {
+  "ja": "#EFCD9A"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "丁子の蕾の煮汁で染めた色。鈍い黄赤。丁子色とも言う。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

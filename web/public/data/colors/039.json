@@ -1,0 +1,132 @@
+{
+ "id": "039",
+ "name": "女郎花",
+ "readings": {
+  "en": "Ominaeshi"
+ },
+ "hex_by_source": {
+  "en": "#D9B611"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "秋",
+ "phase": "初",
+ "kigo": "女郎花",
+ "origin": "女郎花",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 6,
+ "calendar_order": [
+  3,
+  1
+ ],
+ "notes": {
+  "en": "Patrinia flowers (''Patrinia scabiosaefolia'')"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "かたまるを力にさくや女郎花",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "かたまるを力にさくや女郎花",
+   "origin": "女郎花",
+   "kigo": "女郎花",
+   "certainty": "established",
+   "start": 10,
+   "end": 13,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "足柄や花に雲おく女郎花",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "足柄や花に雲おく女郎花",
+   "origin": "女郎花",
+   "kigo": "女郎花",
+   "certainty": "established",
+   "start": 8,
+   "end": 11,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "月の中に一本高し女郎花",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "月の中に一本高し女郎花",
+   "origin": "女郎花",
+   "kigo": "女郎花",
+   "certainty": "established",
+   "start": 8,
+   "end": 11,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "末枯や覺束なくも女郎花",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "末枯や覺束なくも女郎花",
+   "origin": "女郎花",
+   "kigo": "女郎花",
+   "certainty": "established",
+   "start": 8,
+   "end": 11,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "大名の庭に痩せたり女郎花",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "大名の庭に痩せたり女郎花",
+   "origin": "女郎花",
+   "kigo": "女郎花",
+   "certainty": "established",
+   "start": 9,
+   "end": 12,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "うき人にすねて見せけり女郎花",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "うき人にすねて見せけり女郎花",
+   "origin": "女郎花",
+   "kigo": "女郎花",
+   "certainty": "established",
+   "start": 11,
+   "end": 14,
+   "is_color_mention": false
+  }
+ ]
+}

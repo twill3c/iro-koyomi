@@ -1,0 +1,29 @@
+{
+ "id": "004",
+ "name": "一斤染",
+ "readings": {
+  "en": "Ikkonzome",
+  "ja": "いっこんぞめ"
+ },
+ "hex_by_source": {
+  "en": "#F08F90",
+  "ja": "#FFD3E4"
+ },
+ "delta_e": 18.7747,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "One kin ({{cvt|0.6|kg}}) dye",
+  "ja": "紅花で染めたやや淡い紅色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

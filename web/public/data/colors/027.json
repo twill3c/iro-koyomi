@@ -1,0 +1,29 @@
+{
+ "id": "027",
+ "name": "千草色",
+ "readings": {
+  "en": "Chigusa-iro",
+  "ja": "ちぐさいろ"
+ },
+ "hex_by_source": {
+  "en": "#317589",
+  "ja": "#92B5A9"
+ },
+ "delta_e": 26.5184,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Thousand herb color",
+  "ja": "褪せた薄い藍色の上にさらに薄い藍をかけた色のこと。 緑がかった淡い青。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

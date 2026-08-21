@@ -1,0 +1,26 @@
+{
+ "id": "015",
+ "name": "仙斎茶",
+ "readings": {
+  "ja": "せんさいちゃ"
+ },
+ "hex_by_source": {
+  "ja": "#474B42"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "千歳茶とも書く。暗い緑がかった茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

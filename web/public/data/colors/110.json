@@ -1,0 +1,29 @@
+{
+ "id": "110",
+ "name": "水色",
+ "readings": {
+  "en": "Mizu-iro",
+  "ja": "みずいろ"
+ },
+ "hex_by_source": {
+  "en": "#86ABA5",
+  "ja": "#AFDFE4"
+ },
+ "delta_e": 14.197,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Aqua Blue color",
+  "ja": "澄んだ水の色。淡い緑みの青。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

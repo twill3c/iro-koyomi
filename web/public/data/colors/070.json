@@ -1,0 +1,26 @@
+{
+ "id": "070",
+ "name": "東雲色",
+ "readings": {
+  "ja": "しののめいろ"
+ },
+ "hex_by_source": {
+  "ja": "#F19072"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "曙色とも呼ばれる。夜明けの東の空を思わせる明るい黄赤色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

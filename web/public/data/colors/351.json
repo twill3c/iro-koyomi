@@ -1,0 +1,26 @@
+{
+ "id": "351",
+ "name": "麹塵",
+ "readings": {
+  "ja": "きくじん"
+ },
+ "hex_by_source": {
+  "ja": "#BFBD9E"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "醸造に用いる麹（こうじ）の色に由来する灰色がかった緑。天皇が平常時に着る麹塵袍（きくじんのほう）の色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

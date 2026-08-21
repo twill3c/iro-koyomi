@@ -1,0 +1,29 @@
+{
+ "id": "022",
+ "name": "利休鼠",
+ "readings": {
+  "en": "Rikyūnezumi",
+  "ja": "りきゅうねず"
+ },
+ "hex_by_source": {
+  "en": "#656255",
+  "ja": "#888E7E"
+ },
+ "delta_e": 17.3441,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Greyish dark green",
+  "ja": "江戸時代の流行色の1つ。千利休を連想した色。緑がかった灰色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

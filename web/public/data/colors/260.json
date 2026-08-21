@@ -1,0 +1,26 @@
+{
+ "id": "260",
+ "name": "薄墨色",
+ "readings": {
+  "ja": "うすずみいろ"
+ },
+ "hex_by_source": {
+  "ja": "#A3A3A2"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "墨を薄めたようなやや薄い灰色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

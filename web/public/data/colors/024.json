@@ -1,0 +1,26 @@
+{
+ "id": "024",
+ "name": "勿忘草色",
+ "readings": {
+  "ja": "わすれなぐさいろ"
+ },
+ "hex_by_source": {
+  "ja": "#9CC5E6"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "勿忘草の花の色。明るい青色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

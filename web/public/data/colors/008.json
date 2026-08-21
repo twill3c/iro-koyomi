@@ -1,0 +1,26 @@
+{
+ "id": "008",
+ "name": "丹色",
+ "readings": {
+  "ja": "にいろ"
+ },
+ "hex_by_source": {
+  "ja": "#E45E32"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "赤土の色。赤みがかった灰黄色から赤褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

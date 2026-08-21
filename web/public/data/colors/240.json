@@ -1,0 +1,26 @@
+{
+ "id": "240",
+ "name": "茄子紺",
+ "readings": {
+  "ja": "なすこん"
+ },
+ "hex_by_source": {
+  "ja": "#824880"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "茄子の実の色。紫みの濃い紺色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -7,3 +7,7 @@
 {"v": "1.2", "ts": "2026-08-22T07:40:58+09:00", "project": "iro-koyomi", "loop_id": "loop_004", "event": "test_run", "data": {"command": "python -m pytest -q tests/", "passed": 90, "failed": 0}}
 {"v": "1.2", "ts": "2026-08-22T07:40:58+09:00", "project": "iro-koyomi", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-22T07:40:59+09:00", "project": "iro-koyomi", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T07:41:00+09:00", "project": "iro-koyomi", "loop_id": "loop_004", "event": "commit", "data": {"sha": "f6f048c", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-22T07:41:00+09:00", "project": "iro-koyomi", "loop_id": "loop_004", "event": "commit", "data": {"sha": "87f4b35", "kind": "data"}}
+{"v": "1.2", "ts": "2026-08-22T07:41:00+09:00", "project": "iro-koyomi", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 6, "stage_name": "記録", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T07:41:00+09:00", "project": "iro-koyomi", "loop_id": "loop_004", "event": "loop_end", "data": {"outcome": "success", "failure_count": 1, "summary": "F-06 季語表 53 語と由来 98 件を curated 確定。B 層 1,069 句。三層の充填は A 19(5.1%)/ B 80(21.7%)/ C 270(73.2%)。歳時記順の並びが成立"}}

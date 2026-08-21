@@ -1,0 +1,29 @@
+{
+ "id": "355",
+ "name": "黄朽葉",
+ "readings": {
+  "en": "Kikuchiba"
+ },
+ "hex_by_source": {
+  "en": "#E29C45"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "冬",
+ "phase": "三",
+ "kigo": "朽葉",
+ "origin": "朽葉",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  4,
+  0
+ ],
+ "notes": {
+  "en": "Golden fallen leaves"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

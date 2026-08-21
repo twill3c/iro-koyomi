@@ -1,0 +1,29 @@
+{
+ "id": "222",
+ "name": "臙脂色",
+ "readings": {
+  "en": "Enji-iro",
+  "ja": "えんじいろ"
+ },
+ "hex_by_source": {
+  "en": "#9D2933",
+  "ja": "#B3424A"
+ },
+ "delta_e": 7.3781,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Cochineal red/rouge",
+  "ja": "黒味がかった濃い赤色。紅花かカイガラムシ科の昆虫（主にエンジムシ）で染めることが一般的。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

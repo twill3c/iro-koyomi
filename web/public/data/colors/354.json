@@ -1,0 +1,29 @@
+{
+ "id": "354",
+ "name": "黄土色",
+ "readings": {
+  "en": "Ōdo-iro",
+  "ja": "おうどいろ"
+ },
+ "hex_by_source": {
+  "en": "#BE7F51",
+  "ja": "#C39143"
+ },
+ "delta_e": 10.5528,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Ochre (lit. earthen yellow)",
+  "ja": "顔料の『黄土』の色。赤みがかった黄色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

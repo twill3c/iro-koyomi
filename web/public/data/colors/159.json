@@ -1,0 +1,29 @@
+{
+ "id": "159",
+ "name": "瓶覗",
+ "readings": {
+  "en": "Kamenozoki",
+  "ja": "かめのぞき"
+ },
+ "hex_by_source": {
+  "en": "#C6C2B6",
+  "ja": "#C5E4ED"
+ },
+ "delta_e": 16.0889,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Inside of a bottle",
+  "ja": "藍染めで、藍瓶に浸す回数が少ない、瓶を覗いただけのような薄い藍色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

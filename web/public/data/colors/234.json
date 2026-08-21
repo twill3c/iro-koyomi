@@ -1,0 +1,26 @@
+{
+ "id": "234",
+ "name": "若芽色",
+ "readings": {
+  "ja": "わかめいろ"
+ },
+ "hex_by_source": {
+  "ja": "#E0EBAF"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "植物の新芽のように淡く明るい緑色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

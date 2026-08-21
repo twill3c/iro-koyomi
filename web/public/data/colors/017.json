@@ -1,0 +1,26 @@
+{
+ "id": "017",
+ "name": "似せ紫",
+ "readings": {
+  "en": "Nisemurasaki"
+ },
+ "hex_by_source": {
+  "en": "#43242A"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Fake purple"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

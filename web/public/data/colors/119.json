@@ -1,0 +1,29 @@
+{
+ "id": "119",
+ "name": "浅葱色",
+ "readings": {
+  "en": "Asagi-iro",
+  "ja": "あさぎいろ"
+ },
+ "hex_by_source": {
+  "en": "#48929B",
+  "ja": "#00A4AC"
+ },
+ "delta_e": 7.0426,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Light blue color",
+  "ja": "葱の葉の色を薄くしたような青緑。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "049",
+ "name": "岩井茶",
+ "readings": {
+  "en": "Iwaicha"
+ },
+ "hex_by_source": {
+  "en": "#5E5545"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Iwai brown{{sfn|Hibi|Fukuda|2000|p=44|ps= .After the kabuki actor Iwai Hanshiro IV.}}"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

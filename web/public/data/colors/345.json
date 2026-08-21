@@ -1,0 +1,47 @@
+{
+ "id": "345",
+ "name": "鴇色",
+ "readings": {
+  "ja": "ときいろ"
+ },
+ "hex_by_source": {
+  "ja": "#F3A696"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "冬",
+ "phase": "三",
+ "kigo": "鴇",
+ "origin": "鴇",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 1,
+ "calendar_order": [
+  4,
+  0
+ ],
+ "notes": {
+  "ja": "朱鷺色とも書く。鴇の風切羽のような紫に近い紅色。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "名をつけて鴇母にするや崩れ雛",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "名をつけて鴇母にするや崩れ雛",
+   "origin": "鴇",
+   "kigo": "鴇",
+   "certainty": "established",
+   "start": 5,
+   "end": 6,
+   "is_color_mention": false
+  }
+ ]
+}

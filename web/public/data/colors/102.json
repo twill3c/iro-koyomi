@@ -1,0 +1,29 @@
+{
+ "id": "102",
+ "name": "樺茶",
+ "readings": {
+  "en": "Kabacha",
+  "ja": "かばちゃ"
+ },
+ "hex_by_source": {
+  "en": "#B14A30",
+  "ja": "#726250"
+ },
+ "delta_e": 20.4167,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Birch brown",
+  "ja": "樺色を帯びた茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

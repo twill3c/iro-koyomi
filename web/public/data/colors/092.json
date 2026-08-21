@@ -1,0 +1,26 @@
+{
+ "id": "092",
+ "name": "桧皮色",
+ "readings": {
+  "ja": "ひわだいろ"
+ },
+ "hex_by_source": {
+  "ja": "#7B4334"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "桧皮（檜〈ひのき〉の表皮を取り去った後の皮）の色に由来する、赤茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

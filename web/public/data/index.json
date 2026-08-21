@@ -1,0 +1,8262 @@
+{
+ "fill": {
+  "A": 19,
+  "B": 80,
+  "C": 270,
+  "total": 369
+ },
+ "colors": [
+  {
+   "id": "001",
+   "name": "ときがら茶",
+   "readings": {
+    "en": "Tokigaracha"
+   },
+   "hex_by_source": {
+    "en": "#E68364"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "002",
+   "name": "びろうど",
+   "readings": {
+    "en": "Birōdo"
+   },
+   "hex_by_source": {
+    "en": "#224634"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "003",
+   "name": "カーキ色",
+   "readings": {
+    "ja": "かーきいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C3B091"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "004",
+   "name": "一斤染",
+   "readings": {
+    "en": "Ikkonzome",
+    "ja": "いっこんぞめ"
+   },
+   "hex_by_source": {
+    "en": "#F08F90",
+    "ja": "#FFD3E4"
+   },
+   "delta_e": 18.7747,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "005",
+   "name": "丁子染",
+   "readings": {
+    "en": "Chōjizome"
+   },
+   "hex_by_source": {
+    "en": "#A96232"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "006",
+   "name": "丁子茶",
+   "readings": {
+    "en": "Chōjicha",
+    "ja": "ちょうじちゃ"
+   },
+   "hex_by_source": {
+    "en": "#8F583C",
+    "ja": "#B4866B"
+   },
+   "delta_e": 17.0029,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "007",
+   "name": "中紅",
+   "readings": {
+    "en": "Nakabeni"
+   },
+   "hex_by_source": {
+    "en": "#C93756"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "008",
+   "name": "丹色",
+   "readings": {
+    "ja": "にいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E45E32"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "009",
+   "name": "丼鼠",
+   "readings": {
+    "en": "Dobunezumi"
+   },
+   "hex_by_source": {
+    "en": "#4B3C39"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "010",
+   "name": "乳白色",
+   "readings": {
+    "ja": "にゅうはくしょく"
+   },
+   "hex_by_source": {
+    "ja": "#FFFFFB"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "011",
+   "name": "二藍",
+   "readings": {
+    "en": "Futa'ai",
+    "ja": "ふたあい"
+   },
+   "hex_by_source": {
+    "en": "#614E6E",
+    "ja": "#6B4978"
+   },
+   "delta_e": 5.1618,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "012",
+   "name": "亜麻色",
+   "readings": {
+    "ja": "あまいろ"
+   },
+   "hex_by_source": {
+    "ja": "#D6C6AF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "013",
+   "name": "京紫",
+   "readings": {
+    "ja": "きょうむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#772F6D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "014",
+   "name": "今様色",
+   "readings": {
+    "ja": "いまよういろ"
+   },
+   "hex_by_source": {
+    "ja": "#D0576B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "015",
+   "name": "仙斎茶",
+   "readings": {
+    "ja": "せんさいちゃ"
+   },
+   "hex_by_source": {
+    "ja": "#474B42"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "016",
+   "name": "代赭色",
+   "readings": {
+    "en": "Taisha-iro",
+    "ja": "たいしゃいろ"
+   },
+   "hex_by_source": {
+    "en": "#9F5233",
+    "ja": "#B36C3C"
+   },
+   "delta_e": 10.3695,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "017",
+   "name": "似せ紫",
+   "readings": {
+    "en": "Nisemurasaki"
+   },
+   "hex_by_source": {
+    "en": "#43242A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "018",
+   "name": "似紫",
+   "readings": {
+    "ja": "にせむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#513743"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "019",
+   "name": "伽羅色",
+   "readings": {
+    "en": "Kyara-iro",
+    "ja": "きゃらいろ"
+   },
+   "hex_by_source": {
+    "en": "#6A432D",
+    "ja": "#D8A373"
+   },
+   "delta_e": 38.7477,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "020",
+   "name": "利休白茶",
+   "readings": {
+    "en": "Rikyūshiracha"
+   },
+   "hex_by_source": {
+    "en": "#B0927A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "021",
+   "name": "利休茶",
+   "readings": {
+    "en": "Rikyūcha",
+    "ja": "りきゅうちゃ"
+   },
+   "hex_by_source": {
+    "en": "#826B58",
+    "ja": "#897845"
+   },
+   "delta_e": 12.2503,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "022",
+   "name": "利休鼠",
+   "readings": {
+    "en": "Rikyūnezumi",
+    "ja": "りきゅうねず"
+   },
+   "hex_by_source": {
+    "en": "#656255",
+    "ja": "#888E7E"
+   },
+   "delta_e": 17.3441,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "023",
+   "name": "勝色",
+   "readings": {
+    "ja": "かちいろ/かついろ"
+   },
+   "hex_by_source": {
+    "ja": "#4D5269"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "024",
+   "name": "勿忘草色",
+   "readings": {
+    "ja": "わすれなぐさいろ"
+   },
+   "hex_by_source": {
+    "ja": "#9CC5E6"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "025",
+   "name": "千歳緑",
+   "readings": {
+    "en": "Chitosemidori"
+   },
+   "hex_by_source": {
+    "en": "#374231"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "026",
+   "name": "千歳茶",
+   "readings": {
+    "en": "Sensaicha"
+   },
+   "hex_by_source": {
+    "en": "#3B3429"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "027",
+   "name": "千草色",
+   "readings": {
+    "en": "Chigusa-iro",
+    "ja": "ちぐさいろ"
+   },
+   "hex_by_source": {
+    "en": "#317589",
+    "ja": "#92B5A9"
+   },
+   "delta_e": 26.5184,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "028",
+   "name": "半色",
+   "readings": {
+    "en": "Hashita-iro"
+   },
+   "hex_by_source": {
+    "en": "#8D608C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "029",
+   "name": "卯の花色",
+   "readings": {
+    "ja": "うのはないろ"
+   },
+   "hex_by_source": {
+    "ja": "#FBFBF6"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "卯の花",
+   "origin": "卯の花",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 12,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "030",
+   "name": "古代紫",
+   "readings": {
+    "ja": "こだいむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#8C6589"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "031",
+   "name": "呂色",
+   "readings": {
+    "ja": "ろいろ"
+   },
+   "hex_by_source": {
+    "ja": "#0C0C0C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "032",
+   "name": "唐棣色",
+   "readings": {
+    "ja": "はねずいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F0908D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "033",
+   "name": "唐紅/韓紅",
+   "readings": {
+    "en": "Karakurenai",
+    "ja": "からくれない"
+   },
+   "hex_by_source": {
+    "en": "#C91F37",
+    "ja": "#D93448"
+   },
+   "delta_e": 5.3516,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "034",
+   "name": "唐茶",
+   "readings": {
+    "en": "Karacha",
+    "ja": "からちゃ"
+   },
+   "hex_by_source": {
+    "en": "#B35C44",
+    "ja": "#A06705"
+   },
+   "delta_e": 19.0403,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "035",
+   "name": "団十郎茶",
+   "readings": {
+    "ja": "だんじゅうろうちゃ"
+   },
+   "hex_by_source": {
+    "ja": "#9F563A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "036",
+   "name": "国防色",
+   "readings": {
+    "ja": "こくぼうしょく"
+   },
+   "hex_by_source": {
+    "ja": "#7B6C3E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "037",
+   "name": "土器色",
+   "readings": {
+    "ja": "かわらけいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C37854"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "038",
+   "name": "墨色",
+   "readings": {
+    "en": "Sumi-iro",
+    "ja": "すみいろ"
+   },
+   "hex_by_source": {
+    "en": "#27221F",
+    "ja": "#343434"
+   },
+   "delta_e": 6.4819,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "039",
+   "name": "女郎花",
+   "readings": {
+    "en": "Ominaeshi"
+   },
+   "hex_by_source": {
+    "en": "#D9B611"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "初",
+   "kigo": "女郎花",
+   "origin": "女郎花",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    3,
+    1
+   ]
+  },
+  {
+   "id": "040",
+   "name": "媚茶",
+   "readings": {
+    "en": "Kobicha",
+    "ja": "こびちゃ"
+   },
+   "hex_by_source": {
+    "en": "#6B4423",
+    "ja": "#716246"
+   },
+   "delta_e": 13.1232,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "041",
+   "name": "宍色",
+   "readings": {
+    "en": "Shishi-iro"
+   },
+   "hex_by_source": {
+    "en": "#F9906F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "042",
+   "name": "宗傳唐茶",
+   "readings": {
+    "en": "Sōdenkaracha"
+   },
+   "hex_by_source": {
+    "en": "#9B533F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "043",
+   "name": "小豆色",
+   "readings": {
+    "en": "Azuki-iro",
+    "ja": "あずきいろ"
+   },
+   "hex_by_source": {
+    "en": "#672422",
+    "ja": "#98514B"
+   },
+   "delta_e": 14.8557,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "秋",
+   "phase": "晩",
+   "kigo": "小豆",
+   "origin": "小豆",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "044",
+   "name": "小麦色",
+   "readings": {
+    "ja": "こむぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E4A343"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "小麦",
+   "origin": "小麦",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "045",
+   "name": "山吹色",
+   "readings": {
+    "en": "Yamabuki-iro",
+    "ja": "やまぶきいろ"
+   },
+   "hex_by_source": {
+    "en": "#FFA400",
+    "ja": "#F8B400"
+   },
+   "delta_e": 6.9835,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "山吹",
+   "origin": "山吹",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 11,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "046",
+   "name": "山吹茶",
+   "readings": {
+    "en": "Yamabukicha"
+   },
+   "hex_by_source": {
+    "en": "#CB7E1F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "山吹",
+   "origin": "山吹",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 11,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "047",
+   "name": "山葵色",
+   "readings": {
+    "ja": "わさびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#8EC298"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "048",
+   "name": "山鳩色",
+   "readings": {
+    "ja": "やまばといろ"
+   },
+   "hex_by_source": {
+    "ja": "#BFBD9E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "049",
+   "name": "岩井茶",
+   "readings": {
+    "en": "Iwaicha"
+   },
+   "hex_by_source": {
+    "en": "#5E5545"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "050",
+   "name": "左伊多津万色",
+   "readings": {
+    "ja": "さいたづまいろ"
+   },
+   "hex_by_source": {
+    "ja": "#328131"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "051",
+   "name": "常磐色",
+   "readings": {
+    "ja": "ときわいろ"
+   },
+   "hex_by_source": {
+    "ja": "#007B43"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "052",
+   "name": "弁柄色",
+   "readings": {
+    "ja": "べんがらいろ"
+   },
+   "hex_by_source": {
+    "ja": "#8F2E14"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "053",
+   "name": "御召御納戸",
+   "readings": {
+    "en": "Omeshionando"
+   },
+   "hex_by_source": {
+    "en": "#3D4C51"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "054",
+   "name": "御召茶",
+   "readings": {
+    "en": "Omeshicha"
+   },
+   "hex_by_source": {
+    "en": "#354E4B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "055",
+   "name": "御納戸色",
+   "readings": {
+    "en": "Onando-iro"
+   },
+   "hex_by_source": {
+    "en": "#364141"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "056",
+   "name": "御納戸茶",
+   "readings": {
+    "en": "Onandocha"
+   },
+   "hex_by_source": {
+    "en": "#3D4035"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "057",
+   "name": "憲法染",
+   "readings": {
+    "en": "Kenpōzome"
+   },
+   "hex_by_source": {
+    "en": "#2E211B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "058",
+   "name": "憲法色",
+   "readings": {
+    "ja": "けんぽういろ"
+   },
+   "hex_by_source": {
+    "ja": "#543F32"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "059",
+   "name": "撫子色",
+   "readings": {
+    "ja": "なでしこいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F6ADC6"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "三",
+   "kigo": "撫子",
+   "origin": "撫子",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 2,
+   "calendar_order": [
+    2,
+    0
+   ]
+  },
+  {
+   "id": "060",
+   "name": "新橋色",
+   "readings": {
+    "en": "Shinbashi-iro",
+    "ja": "しんばしいろ"
+   },
+   "hex_by_source": {
+    "en": "#006C7F",
+    "ja": "#59B9C6"
+   },
+   "delta_e": 26.9194,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "061",
+   "name": "曙色",
+   "readings": {
+    "en": "Akebono-iro"
+   },
+   "hex_by_source": {
+    "en": "#FA7B62"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "062",
+   "name": "月白",
+   "readings": {
+    "ja": "げっぱく"
+   },
+   "hex_by_source": {
+    "ja": "#F6F7F8"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": "秋",
+   "phase": "三",
+   "kigo": "月",
+   "origin": "月",
+   "certainty": "approximate",
+   "a_count": 4,
+   "b_count": 478,
+   "calendar_order": [
+    3,
+    0
+   ]
+  },
+  {
+   "id": "063",
+   "name": "木蘭色",
+   "readings": {
+    "ja": "もくらんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C7B370"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "春",
+   "phase": "仲",
+   "kigo": "木蘭",
+   "origin": "木蘭",
+   "certainty": "contested",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    1,
+    2
+   ]
+  },
+  {
+   "id": "064",
+   "name": "木賊色",
+   "readings": {
+    "en": "Tokusa-iro",
+    "ja": "とくさいろ"
+   },
+   "hex_by_source": {
+    "en": "#3D5D42",
+    "ja": "#22825D"
+   },
+   "delta_e": 14.0416,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "三",
+   "kigo": "木賊",
+   "origin": "木賊",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    3,
+    0
+   ]
+  },
+  {
+   "id": "065",
+   "name": "朱色",
+   "readings": {
+    "en": "Shu-iro",
+    "ja": "しゅいろ"
+   },
+   "hex_by_source": {
+    "en": "#FF3500",
+    "ja": "#EF454A"
+   },
+   "delta_e": 11.9746,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 7,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "066",
+   "name": "朽葉色",
+   "readings": {
+    "en": "Kuchiba-iro",
+    "ja": "くちばいろ"
+   },
+   "hex_by_source": {
+    "en": "#D57835",
+    "ja": "#896A45"
+   },
+   "delta_e": 18.3944,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "朽葉",
+   "origin": "朽葉",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "067",
+   "name": "杏色",
+   "readings": {
+    "ja": "あんずいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F4A466"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "仲",
+   "kigo": "杏",
+   "origin": "杏",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 11,
+   "calendar_order": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "068",
+   "name": "杜若",
+   "readings": {
+    "en": "Kakitsubata"
+   },
+   "hex_by_source": {
+    "en": "#491E3C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "杜若",
+   "origin": "杜若",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 9,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "069",
+   "name": "杜若色",
+   "readings": {
+    "ja": "かきつばたいろ"
+   },
+   "hex_by_source": {
+    "ja": "#5E3862"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "杜若",
+   "origin": "杜若",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 9,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "070",
+   "name": "東雲色",
+   "readings": {
+    "ja": "しののめいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F19072"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "071",
+   "name": "松葉色",
+   "readings": {
+    "en": "Matsuba-iro",
+    "ja": "まつばいろ"
+   },
+   "hex_by_source": {
+    "en": "#454D32",
+    "ja": "#3F7735"
+   },
+   "delta_e": 17.2852,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "072",
+   "name": "枇杷茶",
+   "readings": {
+    "en": "Biwacha"
+   },
+   "hex_by_source": {
+    "en": "#AB6134"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "仲",
+   "kigo": "枇杷",
+   "origin": "枇杷",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 2,
+   "calendar_order": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "073",
+   "name": "枡花色",
+   "readings": {
+    "ja": "ますはないろ"
+   },
+   "hex_by_source": {
+    "ja": "#5B7E91"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "074",
+   "name": "柑子色",
+   "readings": {
+    "ja": "こうじいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FF5234"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "075",
+   "name": "柳染",
+   "readings": {
+    "en": "Yanagizome"
+   },
+   "hex_by_source": {
+    "en": "#8C9E5E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "柳",
+   "origin": "柳",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 38,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "076",
+   "name": "柳煤竹",
+   "readings": {
+    "en": "Yanagisusutake"
+   },
+   "hex_by_source": {
+    "en": "#4D4B3A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "柳",
+   "origin": "柳",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 38,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "077",
+   "name": "柳色",
+   "readings": {
+    "ja": "やなぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A8C97F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "柳",
+   "origin": "柳",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 38,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "078",
+   "name": "柳茶",
+   "readings": {
+    "en": "Yanagicha"
+   },
+   "hex_by_source": {
+    "en": "#9C8A4D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "柳",
+   "origin": "柳",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 38,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "079",
+   "name": "柳鼠",
+   "readings": {
+    "en": "Yanaginezumi"
+   },
+   "hex_by_source": {
+    "en": "#817B69"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "柳",
+   "origin": "柳",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 38,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "080",
+   "name": "柴染",
+   "readings": {
+    "en": "Fushizome"
+   },
+   "hex_by_source": {
+    "en": "#8C5939"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "081",
+   "name": "柿渋色",
+   "readings": {
+    "en": "Kakishibu-iro",
+    "ja": "かきしぶいろ"
+   },
+   "hex_by_source": {
+    "en": "#934337",
+    "ja": "#BD7862"
+   },
+   "delta_e": 18.7874,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "晩",
+   "kigo": "柿",
+   "origin": "柿",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 19,
+   "calendar_order": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "082",
+   "name": "柿色",
+   "readings": {
+    "ja": "かきいろ"
+   },
+   "hex_by_source": {
+    "ja": "#ED6D3D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "晩",
+   "kigo": "柿",
+   "origin": "柿",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 19,
+   "calendar_order": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "083",
+   "name": "栗梅",
+   "readings": {
+    "en": "Kiriume",
+    "ja": "くりうめ"
+   },
+   "hex_by_source": {
+    "en": "#8B352D",
+    "ja": "#6C1912"
+   },
+   "delta_e": 8.5445,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "栗",
+   "origin": "栗",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 16,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "084",
+   "name": "栗皮茶",
+   "readings": {
+    "en": "Kurikawacha"
+   },
+   "hex_by_source": {
+    "en": "#60281E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "栗",
+   "origin": "栗",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 16,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "085",
+   "name": "栗色",
+   "readings": {
+    "ja": "くりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#800000"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "栗",
+   "origin": "栗",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 16,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "086",
+   "name": "根岸色",
+   "readings": {
+    "ja": "ねぎしいろ"
+   },
+   "hex_by_source": {
+    "ja": "#908E65"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "087",
+   "name": "桃色",
+   "readings": {
+    "en": "Momo-iro",
+    "ja": "ももいろ"
+   },
+   "hex_by_source": {
+    "en": "#F47983",
+    "ja": "#F58F98"
+   },
+   "delta_e": 5.169,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "桃",
+   "origin": "桃",
+   "certainty": "established",
+   "a_count": 1,
+   "b_count": 19,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "088",
+   "name": "桑染",
+   "readings": {
+    "en": "Kuwazome",
+    "ja": "くわぞめ"
+   },
+   "hex_by_source": {
+    "en": "#C57F2E",
+    "ja": "#DABC91"
+   },
+   "delta_e": 18.9453,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "桑",
+   "origin": "桑",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 7,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "089",
+   "name": "桔梗色",
+   "readings": {
+    "en": "Kikyō-iro",
+    "ja": "ききょういろ"
+   },
+   "hex_by_source": {
+    "en": "#5D3F6A",
+    "ja": "#6A4C9C"
+   },
+   "delta_e": 10.6909,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "初",
+   "kigo": "桔梗",
+   "origin": "桔梗",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    3,
+    1
+   ]
+  },
+  {
+   "id": "090",
+   "name": "桜色",
+   "readings": {
+    "en": "Sakura-iro",
+    "ja": "さくらいろ"
+   },
+   "hex_by_source": {
+    "en": "#FCC9B9",
+    "ja": "#FEEEED"
+   },
+   "delta_e": 12.9599,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "桜",
+   "origin": "桜",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 42,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "091",
+   "name": "桜鼠",
+   "readings": {
+    "en": "Sakuranezumi"
+   },
+   "hex_by_source": {
+    "en": "#AC8181"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "桜",
+   "origin": "桜",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 42,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "092",
+   "name": "桧皮色",
+   "readings": {
+    "ja": "ひわだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#7B4334"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "093",
+   "name": "梅幸茶",
+   "readings": {
+    "en": "Baikōcha"
+   },
+   "hex_by_source": {
+    "en": "#857C55"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "初",
+   "kigo": "梅",
+   "origin": "梅",
+   "certainty": "contested",
+   "a_count": 0,
+   "b_count": 169,
+   "calendar_order": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "094",
+   "name": "梅染",
+   "readings": {
+    "en": "Umezome"
+   },
+   "hex_by_source": {
+    "en": "#FA9258"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "初",
+   "kigo": "梅",
+   "origin": "梅",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 169,
+   "calendar_order": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "095",
+   "name": "梅紫",
+   "readings": {
+    "en": "Umemurasaki"
+   },
+   "hex_by_source": {
+    "en": "#8F4155"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "初",
+   "kigo": "梅",
+   "origin": "梅",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 169,
+   "calendar_order": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "096",
+   "name": "梅鼠",
+   "readings": {
+    "en": "Umenezumi",
+    "ja": "うめねずみ"
+   },
+   "hex_by_source": {
+    "en": "#97645A",
+    "ja": "#AD7984"
+   },
+   "delta_e": 12.3593,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "初",
+   "kigo": "梅",
+   "origin": "梅",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 169,
+   "calendar_order": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "097",
+   "name": "梔子",
+   "readings": {
+    "en": "Kuchinashi"
+   },
+   "hex_by_source": {
+    "en": "#FFB95A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "098",
+   "name": "梔子色/支子色",
+   "readings": {
+    "ja": "くちなしいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFD768"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "099",
+   "name": "楝色",
+   "readings": {
+    "ja": "おうちいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A596C7"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "100",
+   "name": "榛色",
+   "readings": {
+    "ja": "はしばみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#BFA46F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "101",
+   "name": "樺色/蒲色",
+   "readings": {
+    "ja": "かばいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C5591A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "102",
+   "name": "樺茶",
+   "readings": {
+    "en": "Kabacha",
+    "ja": "かばちゃ"
+   },
+   "hex_by_source": {
+    "en": "#B14A30",
+    "ja": "#726250"
+   },
+   "delta_e": 20.4167,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "103",
+   "name": "橙色",
+   "readings": {
+    "ja": "だいだいいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFB74C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "104",
+   "name": "檜皮色",
+   "readings": {
+    "en": "Hihada-iro"
+   },
+   "hex_by_source": {
+    "en": "#752E23"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "105",
+   "name": "檳榔子染",
+   "readings": {
+    "en": "Binrōjizome"
+   },
+   "hex_by_source": {
+    "en": "#352925"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "106",
+   "name": "檸檬色",
+   "readings": {
+    "ja": "れもんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFF450"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "秋",
+   "phase": "晩",
+   "kigo": "檸檬",
+   "origin": "檸檬",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "107",
+   "name": "櫨染",
+   "readings": {
+    "en": "Hajizome"
+   },
+   "hex_by_source": {
+    "en": "#E08A1E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "108",
+   "name": "水がき",
+   "readings": {
+    "en": "Mizugaki"
+   },
+   "hex_by_source": {
+    "en": "#B56C60"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "109",
+   "name": "水浅葱",
+   "readings": {
+    "en": "Mizu'asagi",
+    "ja": "みずあさぎ"
+   },
+   "hex_by_source": {
+    "en": "#749F8D",
+    "ja": "#8CD2BC"
+   },
+   "delta_e": 13.9757,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "110",
+   "name": "水色",
+   "readings": {
+    "en": "Mizu-iro",
+    "ja": "みずいろ"
+   },
+   "hex_by_source": {
+    "en": "#86ABA5",
+    "ja": "#AFDFE4"
+   },
+   "delta_e": 14.197,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "111",
+   "name": "江戸紫",
+   "readings": {
+    "ja": "えどむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#745399"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "112",
+   "name": "江戸茶",
+   "readings": {
+    "en": "Edocha",
+    "ja": "えどちゃ"
+   },
+   "hex_by_source": {
+    "en": "#A13D2D",
+    "ja": "#CD8C5C"
+   },
+   "delta_e": 27.2254,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "113",
+   "name": "沈香茶",
+   "readings": {
+    "en": "Tonocha"
+   },
+   "hex_by_source": {
+    "en": "#5A6457"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "114",
+   "name": "洒落柿",
+   "readings": {
+    "en": "Sharegaki"
+   },
+   "hex_by_source": {
+    "en": "#FFA26B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "晩",
+   "kigo": "柿",
+   "origin": "柿",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 19,
+   "calendar_order": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "115",
+   "name": "洗朱",
+   "readings": {
+    "en": "Araishu",
+    "ja": "あらいしゅ"
+   },
+   "hex_by_source": {
+    "en": "#FF7952",
+    "ja": "#D0826C"
+   },
+   "delta_e": 9.4736,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "116",
+   "name": "洗柿",
+   "readings": {
+    "en": "Araigaki",
+    "ja": "あらいがき"
+   },
+   "hex_by_source": {
+    "en": "#EC8254",
+    "ja": "#F0B694"
+   },
+   "delta_e": 13.8678,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "晩",
+   "kigo": "柿",
+   "origin": "柿",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 19,
+   "calendar_order": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "117",
+   "name": "浅緋",
+   "readings": {
+    "ja": "あさあけ"
+   },
+   "hex_by_source": {
+    "ja": "#DF7163"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "118",
+   "name": "浅緑",
+   "readings": {
+    "ja": "あさみどり"
+   },
+   "hex_by_source": {
+    "ja": "#9BCF97"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "119",
+   "name": "浅葱色",
+   "readings": {
+    "en": "Asagi-iro",
+    "ja": "あさぎいろ"
+   },
+   "hex_by_source": {
+    "en": "#48929B",
+    "ja": "#00A4AC"
+   },
+   "delta_e": 7.0426,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "120",
+   "name": "浅黄",
+   "readings": {
+    "en": "Asagi"
+   },
+   "hex_by_source": {
+    "en": "#F7BB7D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "121",
+   "name": "浅黄色",
+   "readings": {
+    "ja": "あさぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFCC33"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "122",
+   "name": "海松色",
+   "readings": {
+    "en": "Miru-iro",
+    "ja": "みるいろ"
+   },
+   "hex_by_source": {
+    "en": "#524B2A",
+    "ja": "#6E6B41"
+   },
+   "delta_e": 11.3895,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "春",
+   "phase": "三",
+   "kigo": "海松",
+   "origin": "海松",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "123",
+   "name": "海松茶",
+   "readings": {
+    "en": "Mirucha"
+   },
+   "hex_by_source": {
+    "en": "#4C3D30"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "春",
+   "phase": "三",
+   "kigo": "海松",
+   "origin": "海松",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "124",
+   "name": "海老茶",
+   "readings": {
+    "en": "Ebicha"
+   },
+   "hex_by_source": {
+    "en": "#5E2824"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "海老",
+   "origin": "海老",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 2,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "125",
+   "name": "涅色",
+   "readings": {
+    "ja": "くりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#433634"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "126",
+   "name": "消炭色",
+   "readings": {
+    "ja": "けしずみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#595045"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "127",
+   "name": "淡萌黄",
+   "readings": {
+    "en": "Usumo'egi"
+   },
+   "hex_by_source": {
+    "en": "#8DB255"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "128",
+   "name": "淡香",
+   "readings": {
+    "en": "Usukō",
+    "ja": "うすこう"
+   },
+   "hex_by_source": {
+    "en": "#FFA565",
+    "ja": "#F3BF88"
+   },
+   "delta_e": 9.3488,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "129",
+   "name": "深川鼠",
+   "readings": {
+    "ja": "ふかがわねずみ"
+   },
+   "hex_by_source": {
+    "ja": "#85A1A0"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "130",
+   "name": "深支子",
+   "readings": {
+    "en": "Kokikuchinashi"
+   },
+   "hex_by_source": {
+    "en": "#F57F4F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "131",
+   "name": "深紫",
+   "readings": {
+    "en": "Kokimurasaki"
+   },
+   "hex_by_source": {
+    "en": "#3A243B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "132",
+   "name": "深緋",
+   "readings": {
+    "en": "Kokiake"
+   },
+   "hex_by_source": {
+    "en": "#7B3B3A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "133",
+   "name": "深緑",
+   "readings": {
+    "ja": "ふかみどり"
+   },
+   "hex_by_source": {
+    "ja": "#004025"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 1,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "134",
+   "name": "湊鼠",
+   "readings": {
+    "en": "Minatonezumi"
+   },
+   "hex_by_source": {
+    "en": "#757D75"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "135",
+   "name": "滅紫",
+   "readings": {
+    "en": "Messhi",
+    "ja": "けしむらさき"
+   },
+   "hex_by_source": {
+    "en": "#3F313A",
+    "ja": "#594255"
+   },
+   "delta_e": 8.3909,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "136",
+   "name": "漆黒",
+   "readings": {
+    "ja": "しっこく"
+   },
+   "hex_by_source": {
+    "ja": "#080000"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "137",
+   "name": "濃藍",
+   "readings": {
+    "ja": "こいあい/こあい"
+   },
+   "hex_by_source": {
+    "ja": "#002E4E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "138",
+   "name": "濡烏",
+   "readings": {
+    "ja": "ぬれがらす"
+   },
+   "hex_by_source": {
+    "ja": "#000B00"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "139",
+   "name": "灰桜",
+   "readings": {
+    "ja": "はいざくら"
+   },
+   "hex_by_source": {
+    "ja": "#E8D3D1"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "桜",
+   "origin": "桜",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 42,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "140",
+   "name": "灰汁色",
+   "readings": {
+    "en": "Aku-iro",
+    "ja": "あくいろ"
+   },
+   "hex_by_source": {
+    "en": "#7F6B5D",
+    "ja": "#BCB09C"
+   },
+   "delta_e": 23.4621,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "141",
+   "name": "灰色",
+   "readings": {
+    "ja": "はいいろ"
+   },
+   "hex_by_source": {
+    "ja": "#808080"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "142",
+   "name": "焦茶",
+   "readings": {
+    "en": "Kogecha",
+    "ja": "こげちゃ"
+   },
+   "hex_by_source": {
+    "en": "#351F19",
+    "ja": "#6A4D32"
+   },
+   "delta_e": 17.5583,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "143",
+   "name": "煉瓦色",
+   "readings": {
+    "ja": "れんがいろ"
+   },
+   "hex_by_source": {
+    "ja": "#AA5C3F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "144",
+   "name": "煎茶色",
+   "readings": {
+    "en": "Sencha-iro"
+   },
+   "hex_by_source": {
+    "en": "#824B35"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "145",
+   "name": "煤竹色",
+   "readings": {
+    "en": "Susutake-iro",
+    "ja": "すすたけいろ"
+   },
+   "hex_by_source": {
+    "en": "#593A27",
+    "ja": "#6F514C"
+   },
+   "delta_e": 10.5384,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "146",
+   "name": "照柿",
+   "readings": {
+    "en": "Terigaki"
+   },
+   "hex_by_source": {
+    "en": "#D34E36"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "晩",
+   "kigo": "柿",
+   "origin": "柿",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 19,
+   "calendar_order": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "147",
+   "name": "熨斗目花色",
+   "readings": {
+    "en": "Noshimehana-iro"
+   },
+   "hex_by_source": {
+    "en": "#344D56"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "148",
+   "name": "牡丹",
+   "readings": {
+    "en": "Bōtan"
+   },
+   "hex_by_source": {
+    "en": "#A4345D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "牡丹",
+   "origin": "牡丹",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 56,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "149",
+   "name": "牡丹色",
+   "readings": {
+    "ja": "ぼたんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E761A4"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "牡丹",
+   "origin": "牡丹",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 56,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "150",
+   "name": "狐色",
+   "readings": {
+    "en": "Kitsune-iro",
+    "ja": "きつねいろ"
+   },
+   "hex_by_source": {
+    "en": "#985629",
+    "ja": "#C48847"
+   },
+   "delta_e": 18.8413,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "狐",
+   "origin": "狐",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "151",
+   "name": "猩々緋",
+   "readings": {
+    "en": "Shōjōhi",
+    "ja": "しょうじょうひ"
+   },
+   "hex_by_source": {
+    "en": "#DC3023",
+    "ja": "#CE313D"
+   },
+   "delta_e": 7.7513,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "152",
+   "name": "玉子色",
+   "readings": {
+    "en": "Tamago-iro"
+   },
+   "hex_by_source": {
+    "en": "#FFA631"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "153",
+   "name": "玉蜀黍色",
+   "readings": {
+    "en": "Tōmorokoshi-iro"
+   },
+   "hex_by_source": {
+    "en": "#FAA945"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "初",
+   "kigo": "玉蜀黍",
+   "origin": "玉蜀黍",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    3,
+    1
+   ]
+  },
+  {
+   "id": "154",
+   "name": "珊瑚色",
+   "readings": {
+    "en": "Sango-iro",
+    "ja": "さんごいろ"
+   },
+   "hex_by_source": {
+    "en": "#F8674F",
+    "ja": "#FF7F50"
+   },
+   "delta_e": 7.5783,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "155",
+   "name": "琥珀色",
+   "readings": {
+    "en": "Kohaku-iro",
+    "ja": "こはくいろ"
+   },
+   "hex_by_source": {
+    "en": "#CA6924",
+    "ja": "#EA930A"
+   },
+   "delta_e": 15.7671,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "156",
+   "name": "瑠璃紺",
+   "readings": {
+    "en": "Rurikon",
+    "ja": "るりこん"
+   },
+   "hex_by_source": {
+    "en": "#1B294B",
+    "ja": "#224B8F"
+   },
+   "delta_e": 13.8472,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "157",
+   "name": "瑠璃色",
+   "readings": {
+    "en": "Ruri-iro",
+    "ja": "るりいろ"
+   },
+   "hex_by_source": {
+    "en": "#1F4788",
+    "ja": "#2A5CAA"
+   },
+   "delta_e": 7.7374,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "158",
+   "name": "璃寛茶",
+   "readings": {
+    "en": "Rikancha",
+    "ja": "りかんちゃ"
+   },
+   "hex_by_source": {
+    "en": "#534A32",
+    "ja": "#6E6636"
+   },
+   "delta_e": 11.7279,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "159",
+   "name": "瓶覗",
+   "readings": {
+    "en": "Kamenozoki",
+    "ja": "かめのぞき"
+   },
+   "hex_by_source": {
+    "en": "#C6C2B6",
+    "ja": "#C5E4ED"
+   },
+   "delta_e": 16.0889,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "160",
+   "name": "甚三紅",
+   "readings": {
+    "en": "Jinzamomi"
+   },
+   "hex_by_source": {
+    "en": "#F7665A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "161",
+   "name": "生壁色",
+   "readings": {
+    "en": "Namakabe-iro",
+    "ja": "なまかべいろ"
+   },
+   "hex_by_source": {
+    "en": "#785E49",
+    "ja": "#AA8C63"
+   },
+   "delta_e": 19.1369,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "162",
+   "name": "生成色",
+   "readings": {
+    "ja": "きなりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C2B280"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "163",
+   "name": "留紺",
+   "readings": {
+    "ja": "とめこん"
+   },
+   "hex_by_source": {
+    "ja": "#1C305C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "164",
+   "name": "白",
+   "readings": {
+    "ja": "しろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFFFFF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 161,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "165",
+   "name": "白橡",
+   "readings": {
+    "en": "Shirotsurubami"
+   },
+   "hex_by_source": {
+    "en": "#CE9F6F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "166",
+   "name": "白緑",
+   "readings": {
+    "en": "Byakuroku",
+    "ja": "びゃくろく"
+   },
+   "hex_by_source": {
+    "en": "#A5BA93",
+    "ja": "#DAEAD0"
+   },
+   "delta_e": 12.9389,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "167",
+   "name": "白練",
+   "readings": {
+    "en": "Shironeri"
+   },
+   "hex_by_source": {
+    "en": "#FFDDCA"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "168",
+   "name": "白群",
+   "readings": {
+    "ja": "びゃくぐん"
+   },
+   "hex_by_source": {
+    "ja": "#83CCD2"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "169",
+   "name": "白茶",
+   "readings": {
+    "en": "Shiracha",
+    "ja": "しらちゃ"
+   },
+   "hex_by_source": {
+    "en": "#C48E69",
+    "ja": "#DAC4A5"
+   },
+   "delta_e": 16.4633,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "170",
+   "name": "白鼠",
+   "readings": {
+    "en": "Shironezumi"
+   },
+   "hex_by_source": {
+    "en": "#B9A193"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "171",
+   "name": "百塩茶",
+   "readings": {
+    "en": "Momoshiocha",
+    "ja": "ももしおちゃ"
+   },
+   "hex_by_source": {
+    "en": "#542D24",
+    "ja": "#542D24"
+   },
+   "delta_e": 0.0,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "172",
+   "name": "真朱",
+   "readings": {
+    "en": "Shinshu"
+   },
+   "hex_by_source": {
+    "en": "#8F1D21"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "173",
+   "name": "真紅",
+   "readings": {
+    "ja": "しんく"
+   },
+   "hex_by_source": {
+    "ja": "#B1063A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 1,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "174",
+   "name": "石竹色",
+   "readings": {
+    "ja": "せきちくいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F9C1CF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "175",
+   "name": "砥粉色",
+   "readings": {
+    "ja": "とのこいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F4DDA5"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "176",
+   "name": "礪茶",
+   "readings": {
+    "en": "Tonocha"
+   },
+   "hex_by_source": {
+    "en": "#985538"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "177",
+   "name": "空五倍子色",
+   "readings": {
+    "ja": "うつぶしいろ"
+   },
+   "hex_by_source": {
+    "ja": "#9D896C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "178",
+   "name": "空色",
+   "readings": {
+    "en": "Sora-iro",
+    "ja": "そらいろ"
+   },
+   "hex_by_source": {
+    "en": "#4D8FAC",
+    "ja": "#90D7EC"
+   },
+   "delta_e": 20.6185,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "179",
+   "name": "竜胆色",
+   "readings": {
+    "ja": "りんどういろ"
+   },
+   "hex_by_source": {
+    "ja": "#6967AB"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "180",
+   "name": "紅掛花色",
+   "readings": {
+    "en": "Benikakehana-iro"
+   },
+   "hex_by_source": {
+    "en": "#5A4F74"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "181",
+   "name": "紅柄色",
+   "readings": {
+    "en": "Bengara-iro"
+   },
+   "hex_by_source": {
+    "en": "#913225"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "182",
+   "name": "紅梅色",
+   "readings": {
+    "en": "Kōbai-iro",
+    "ja": "こうばいいろ"
+   },
+   "hex_by_source": {
+    "en": "#DB5A6B",
+    "ja": "#E86B79"
+   },
+   "delta_e": 4.8433,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "初",
+   "kigo": "紅梅",
+   "origin": "紅梅",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 24,
+   "calendar_order": [
+    1,
+    1
+   ]
+  },
+  {
+   "id": "183",
+   "name": "紅樺",
+   "readings": {
+    "en": "Benikaba"
+   },
+   "hex_by_source": {
+    "en": "#9D2B22"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "184",
+   "name": "紅樺色",
+   "readings": {
+    "ja": "べにかばいろ"
+   },
+   "hex_by_source": {
+    "ja": "#B63D1B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "185",
+   "name": "紅檜皮",
+   "readings": {
+    "en": "Benihibata"
+   },
+   "hex_by_source": {
+    "en": "#6F3028"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "186",
+   "name": "紅消鼠",
+   "readings": {
+    "en": "Benikeshinezumi"
+   },
+   "hex_by_source": {
+    "en": "#44312E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "187",
+   "name": "紅碧",
+   "readings": {
+    "en": "Benimidori"
+   },
+   "hex_by_source": {
+    "en": "#78779B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "188",
+   "name": "紅緋",
+   "readings": {
+    "en": "Benihi",
+    "ja": "べにひ"
+   },
+   "hex_by_source": {
+    "en": "#F35336",
+    "ja": "#F83929"
+   },
+   "delta_e": 3.5429,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "189",
+   "name": "紅色",
+   "readings": {
+    "ja": "くれないいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C22047"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 20,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "190",
+   "name": "紅蓮色",
+   "readings": {
+    "ja": "ぐれんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#AD002D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "191",
+   "name": "紅藤",
+   "readings": {
+    "en": "Benifuji"
+   },
+   "hex_by_source": {
+    "en": "#BB7796"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "192",
+   "name": "紅赤",
+   "readings": {
+    "ja": "べにあか"
+   },
+   "hex_by_source": {
+    "ja": "#E5004F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "193",
+   "name": "紅鬱金",
+   "readings": {
+    "en": "Beni'ukon"
+   },
+   "hex_by_source": {
+    "en": "#FB8136"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "194",
+   "name": "紅鳶",
+   "readings": {
+    "en": "Benitobi"
+   },
+   "hex_by_source": {
+    "en": "#913228"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "195",
+   "name": "納戸色",
+   "readings": {
+    "ja": "なんどいろ"
+   },
+   "hex_by_source": {
+    "ja": "#008899"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "196",
+   "name": "紛紅",
+   "readings": {
+    "ja": "まがいべに"
+   },
+   "hex_by_source": {
+    "ja": "#FB3C02"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "197",
+   "name": "素鼠",
+   "readings": {
+    "en": "Sunezumi"
+   },
+   "hex_by_source": {
+    "en": "#6E5F57"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "198",
+   "name": "紫",
+   "readings": {
+    "en": "Murasaki",
+    "ja": "むらさき"
+   },
+   "hex_by_source": {
+    "en": "#4F284B",
+    "ja": "#A757A8"
+   },
+   "delta_e": 24.0954,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 16,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "199",
+   "name": "紫紺",
+   "readings": {
+    "en": "Shikon",
+    "ja": "しこん"
+   },
+   "hex_by_source": {
+    "en": "#2B2028",
+    "ja": "#400B36"
+   },
+   "delta_e": 14.754,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "200",
+   "name": "紫苑色",
+   "readings": {
+    "en": "Shion-iro",
+    "ja": "しおんいろ"
+   },
+   "hex_by_source": {
+    "en": "#976E9A",
+    "ja": "#968ABD"
+   },
+   "delta_e": 11.6004,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "201",
+   "name": "紫鈍",
+   "readings": {
+    "ja": "むらさきにび"
+   },
+   "hex_by_source": {
+    "ja": "#966F9C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "202",
+   "name": "紫鳶",
+   "readings": {
+    "en": "Murasakitobi"
+   },
+   "hex_by_source": {
+    "en": "#512C31"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "203",
+   "name": "紺",
+   "readings": {
+    "en": "Kon"
+   },
+   "hex_by_source": {
+    "en": "#192236"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 12,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "204",
+   "name": "紺桔梗",
+   "readings": {
+    "en": "Konkikyō",
+    "ja": "こんききょう"
+   },
+   "hex_by_source": {
+    "en": "#191F45",
+    "ja": "#211E55"
+   },
+   "delta_e": 4.6046,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "初",
+   "kigo": "桔梗",
+   "origin": "桔梗",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    3,
+    1
+   ]
+  },
+  {
+   "id": "205",
+   "name": "紺色",
+   "readings": {
+    "ja": "こんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#233B6C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "206",
+   "name": "紺青色",
+   "readings": {
+    "en": "Konjō-iro",
+    "ja": "こんじょういろ"
+   },
+   "hex_by_source": {
+    "en": "#003171",
+    "ja": "#1A4472"
+   },
+   "delta_e": 6.3529,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "207",
+   "name": "緋",
+   "readings": {
+    "en": "Ake"
+   },
+   "hex_by_source": {
+    "en": "#CF3A24"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 3,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "208",
+   "name": "緋色",
+   "readings": {
+    "ja": "ひいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E54848"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "209",
+   "name": "緑",
+   "readings": {
+    "en": "Midori",
+    "ja": "みどり"
+   },
+   "hex_by_source": {
+    "en": "#2A603B",
+    "ja": "#008000"
+   },
+   "delta_e": 16.0093,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 25,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "210",
+   "name": "緑青",
+   "readings": {
+    "en": "Rokushō",
+    "ja": "ろくしょう"
+   },
+   "hex_by_source": {
+    "en": "#407A52",
+    "ja": "#5BAD92"
+   },
+   "delta_e": 18.5802,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "211",
+   "name": "練色",
+   "readings": {
+    "ja": "ねりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFF9E2"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "212",
+   "name": "縹",
+   "readings": {
+    "en": "Hanada"
+   },
+   "hex_by_source": {
+    "en": "#044F67"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "213",
+   "name": "縹色",
+   "readings": {
+    "ja": "はなだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#267CA7"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "214",
+   "name": "織部色",
+   "readings": {
+    "ja": "おりべいろ"
+   },
+   "hex_by_source": {
+    "ja": "#125115"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "215",
+   "name": "羊羹色",
+   "readings": {
+    "ja": "ようかんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#6D3C14"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "216",
+   "name": "群青色",
+   "readings": {
+    "en": "Gunjō-iro",
+    "ja": "ぐんじょういろ"
+   },
+   "hex_by_source": {
+    "en": "#5D8CAE",
+    "ja": "#465DAA"
+   },
+   "delta_e": 17.5722,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "217",
+   "name": "老竹色",
+   "readings": {
+    "en": "Oitake-iro",
+    "ja": "おいたけいろ"
+   },
+   "hex_by_source": {
+    "en": "#5E644F",
+    "ja": "#769164"
+   },
+   "delta_e": 18.1964,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "218",
+   "name": "肌色",
+   "readings": {
+    "ja": "はだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F1BB93"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "219",
+   "name": "肥後煤竹",
+   "readings": {
+    "en": "Higosusutake"
+   },
+   "hex_by_source": {
+    "en": "#7F5D3B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "220",
+   "name": "胡桃染",
+   "readings": {
+    "en": "Kurumizome"
+   },
+   "hex_by_source": {
+    "en": "#9F7462"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "胡桃",
+   "origin": "胡桃",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "221",
+   "name": "胡桃色",
+   "readings": {
+    "ja": "くるみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A86F4C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "胡桃",
+   "origin": "胡桃",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "222",
+   "name": "臙脂色",
+   "readings": {
+    "en": "Enji-iro",
+    "ja": "えんじいろ"
+   },
+   "hex_by_source": {
+    "en": "#9D2933",
+    "ja": "#B3424A"
+   },
+   "delta_e": 7.3781,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "223",
+   "name": "舛花色",
+   "readings": {
+    "en": "Masuhana-iro"
+   },
+   "hex_by_source": {
+    "en": "#4D646C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "224",
+   "name": "芝翫茶",
+   "readings": {
+    "en": "Shikancha",
+    "ja": "しかんちゃ"
+   },
+   "hex_by_source": {
+    "en": "#AB4C3D",
+    "ja": "#AD7E4E"
+   },
+   "delta_e": 20.8499,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "225",
+   "name": "芥子色",
+   "readings": {
+    "ja": "からしいろ"
+   },
+   "hex_by_source": {
+    "ja": "#D0AF4C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "芥子",
+   "origin": "芥子",
+   "certainty": "contested",
+   "a_count": 0,
+   "b_count": 3,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "226",
+   "name": "花浅葱",
+   "readings": {
+    "en": "Hanaasagi"
+   },
+   "hex_by_source": {
+    "en": "#1D697C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "227",
+   "name": "花葉色",
+   "readings": {
+    "en": "Hanaba-iro"
+   },
+   "hex_by_source": {
+    "en": "#FFB94E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "228",
+   "name": "苅安色/刈安色",
+   "readings": {
+    "ja": "かりやすいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFD768"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "苅安",
+   "origin": "苅安",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "229",
+   "name": "苅萱",
+   "readings": {
+    "en": "Kariyasu"
+   },
+   "hex_by_source": {
+    "en": "#E2B13C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "230",
+   "name": "苔色",
+   "readings": {
+    "en": "Koke-iro",
+    "ja": "こけいろ"
+   },
+   "hex_by_source": {
+    "en": "#8B7D3A",
+    "ja": "#78882D"
+   },
+   "delta_e": 9.5635,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "三",
+   "kigo": "苔",
+   "origin": "苔",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 18,
+   "calendar_order": [
+    2,
+    0
+   ]
+  },
+  {
+   "id": "231",
+   "name": "苗色",
+   "readings": {
+    "ja": "なえいろ"
+   },
+   "hex_by_source": {
+    "ja": "#B0CA71"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "仲",
+   "kigo": "苗",
+   "origin": "苗",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 21,
+   "calendar_order": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "232",
+   "name": "若竹色",
+   "readings": {
+    "en": "Wakatake-iro",
+    "ja": "わかたけいろ"
+   },
+   "hex_by_source": {
+    "en": "#6B9362",
+    "ja": "#7CC28E"
+   },
+   "delta_e": 13.9459,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "仲",
+   "kigo": "若竹",
+   "origin": "若竹",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 5,
+   "calendar_order": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "233",
+   "name": "若緑",
+   "readings": {
+    "ja": "わかみどり"
+   },
+   "hex_by_source": {
+    "ja": "#A5CD89"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "234",
+   "name": "若芽色",
+   "readings": {
+    "ja": "わかめいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E0EBAF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "235",
+   "name": "若苗色",
+   "readings": {
+    "ja": "わかなえいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C7DC68"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "仲",
+   "kigo": "苗",
+   "origin": "苗",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 21,
+   "calendar_order": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "236",
+   "name": "若草色",
+   "readings": {
+    "ja": "わかくさいろ"
+   },
+   "hex_by_source": {
+    "ja": "#ABC900"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "若草",
+   "origin": "若草",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "237",
+   "name": "若菜色",
+   "readings": {
+    "ja": "わかないろ"
+   },
+   "hex_by_source": {
+    "ja": "#CCDE68"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "新年",
+   "phase": "三",
+   "kigo": "若菜",
+   "origin": "若菜",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 2,
+   "calendar_order": [
+    0,
+    0
+   ]
+  },
+  {
+   "id": "238",
+   "name": "若葉色",
+   "readings": {
+    "ja": "わかばいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A4CA68"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "若葉",
+   "origin": "若葉",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 13,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "239",
+   "name": "苺色",
+   "readings": {
+    "ja": "いちごいろ"
+   },
+   "hex_by_source": {
+    "ja": "#BB5561"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "苺",
+   "origin": "苺",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "240",
+   "name": "茄子紺",
+   "readings": {
+    "ja": "なすこん"
+   },
+   "hex_by_source": {
+    "ja": "#824880"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "241",
+   "name": "茜色",
+   "readings": {
+    "ja": "あかねいろ"
+   },
+   "hex_by_source": {
+    "ja": "#B13546"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "242",
+   "name": "茶色",
+   "readings": {
+    "ja": "ちゃいろ"
+   },
+   "hex_by_source": {
+    "ja": "#994C00"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "243",
+   "name": "草色",
+   "readings": {
+    "ja": "くさいろ"
+   },
+   "hex_by_source": {
+    "ja": "#7B8D42"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "244",
+   "name": "菖蒲色",
+   "readings": {
+    "en": "Ayame-iro",
+    "ja": "あやめいろ"
+   },
+   "hex_by_source": {
+    "en": "#763568",
+    "ja": "#B168A8"
+   },
+   "delta_e": 19.9476,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "菖蒲",
+   "origin": "菖蒲",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 9,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "245",
+   "name": "菜の花色",
+   "readings": {
+    "en": "Nanohanacha",
+    "ja": "なのはないろ"
+   },
+   "hex_by_source": {
+    "en": "#E3B130",
+    "ja": "#FCD900"
+   },
+   "delta_e": 11.4842,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "菜の花",
+   "origin": "菜の花",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 5,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "246",
+   "name": "菜種油色",
+   "readings": {
+    "en": "Nataneyu-iro"
+   },
+   "hex_by_source": {
+    "en": "#A17917"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "菜の花",
+   "origin": "菜の花",
+   "certainty": "approximate",
+   "a_count": 0,
+   "b_count": 5,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "247",
+   "name": "菫色",
+   "readings": {
+    "en": "Sumire-iro",
+    "ja": "すみれいろ"
+   },
+   "hex_by_source": {
+    "en": "#5B3256",
+    "ja": "#705DA8"
+   },
+   "delta_e": 19.3291,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "菫",
+   "origin": "菫",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 2,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "248",
+   "name": "萌葱色",
+   "readings": {
+    "ja": "もえぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#006C4F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "249",
+   "name": "萌黄",
+   "readings": {
+    "en": "Mo'egi"
+   },
+   "hex_by_source": {
+    "en": "#5B8930"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 1,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "250",
+   "name": "萌黄色",
+   "readings": {
+    "ja": "もえぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A9D159"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "251",
+   "name": "萱草色",
+   "readings": {
+    "en": "Kanzō-iro",
+    "ja": "かんぞういろ"
+   },
+   "hex_by_source": {
+    "en": "#FF8936",
+    "ja": "#F8B862"
+   },
+   "delta_e": 14.9438,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "夏",
+   "phase": "仲",
+   "kigo": "萱草",
+   "origin": "萱草",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    2,
+    2
+   ]
+  },
+  {
+   "id": "252",
+   "name": "葡萄染",
+   "readings": {
+    "ja": "えびぞめ"
+   },
+   "hex_by_source": {
+    "ja": "#7A4171"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "葡萄",
+   "origin": "葡萄",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "253",
+   "name": "葡萄色/海老色",
+   "readings": {
+    "ja": "えびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#640125"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "葡萄",
+   "origin": "葡萄",
+   "certainty": "contested",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "254",
+   "name": "葡萄茶/海老茶",
+   "readings": {
+    "ja": "えびちゃ"
+   },
+   "hex_by_source": {
+    "ja": "#6C2C2F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "海老",
+   "origin": "海老",
+   "certainty": "contested",
+   "a_count": 0,
+   "b_count": 2,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "255",
+   "name": "葡萄鼠",
+   "readings": {
+    "en": "Budōnezumi"
+   },
+   "hex_by_source": {
+    "en": "#63424B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "葡萄",
+   "origin": "葡萄",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "256",
+   "name": "蒲色",
+   "readings": {
+    "en": "Kaba-iro"
+   },
+   "hex_by_source": {
+    "en": "#B64925"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "257",
+   "name": "蒲萄",
+   "readings": {
+    "en": "Ebizome"
+   },
+   "hex_by_source": {
+    "en": "#6D2B50"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "葡萄",
+   "origin": "葡萄",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "258",
+   "name": "蒸栗色",
+   "readings": {
+    "en": "Mushikuri-iro"
+   },
+   "hex_by_source": {
+    "en": "#D3B17D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "仲",
+   "kigo": "栗",
+   "origin": "栗",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 16,
+   "calendar_order": [
+    3,
+    2
+   ]
+  },
+  {
+   "id": "259",
+   "name": "蓬色",
+   "readings": {
+    "ja": "よもぎいろ"
+   },
+   "hex_by_source": {
+    "ja": "#616B07"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "蓬",
+   "origin": "蓬",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "260",
+   "name": "薄墨色",
+   "readings": {
+    "ja": "うすずみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#A3A3A2"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "261",
+   "name": "薄柿",
+   "readings": {
+    "en": "Usugaki"
+   },
+   "hex_by_source": {
+    "en": "#FCA474"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "晩",
+   "kigo": "柿",
+   "origin": "柿",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 19,
+   "calendar_order": [
+    3,
+    3
+   ]
+  },
+  {
+   "id": "262",
+   "name": "薄水色",
+   "readings": {
+    "ja": "うすみずいろ"
+   },
+   "hex_by_source": {
+    "ja": "#BCE1DF"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "263",
+   "name": "薄紅",
+   "readings": {
+    "en": "Usubeni",
+    "ja": "うすくれない"
+   },
+   "hex_by_source": {
+    "en": "#F2666C",
+    "ja": "#B15C65"
+   },
+   "delta_e": 13.6313,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "264",
+   "name": "薄色",
+   "readings": {
+    "en": "Usu-iro",
+    "ja": "うすいろ"
+   },
+   "hex_by_source": {
+    "en": "#A87CA0",
+    "ja": "#CEB4B9"
+   },
+   "delta_e": 18.7261,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "265",
+   "name": "薄青",
+   "readings": {
+    "en": "Usu'ao"
+   },
+   "hex_by_source": {
+    "en": "#8C9C76"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "266",
+   "name": "薔薇色",
+   "readings": {
+    "ja": "ばらいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E73275"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": "夏",
+   "phase": "初",
+   "kigo": "薔薇",
+   "origin": "薔薇",
+   "certainty": "established",
+   "a_count": 1,
+   "b_count": 8,
+   "calendar_order": [
+    2,
+    1
+   ]
+  },
+  {
+   "id": "267",
+   "name": "藍墨茶",
+   "readings": {
+    "en": "Aisumicha"
+   },
+   "hex_by_source": {
+    "en": "#393432"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "268",
+   "name": "藍媚茶",
+   "readings": {
+    "en": "Aikobicha"
+   },
+   "hex_by_source": {
+    "en": "#473F2D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "269",
+   "name": "藍海松茶",
+   "readings": {
+    "en": "Aimirucha"
+   },
+   "hex_by_source": {
+    "en": "#2E372E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "春",
+   "phase": "三",
+   "kigo": "海松",
+   "origin": "海松",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "270",
+   "name": "藍白",
+   "readings": {
+    "en": "Aijiro"
+   },
+   "hex_by_source": {
+    "en": "#EBF6F7"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "271",
+   "name": "藍色",
+   "readings": {
+    "en": "Ai-iro",
+    "ja": "あいいろ"
+   },
+   "hex_by_source": {
+    "en": "#264348",
+    "ja": "#165E83"
+   },
+   "delta_e": 14.862,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 8,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "272",
+   "name": "藍鼠",
+   "readings": {
+    "en": "Ainezumi",
+    "ja": "あいねず"
+   },
+   "hex_by_source": {
+    "en": "#5C544E",
+    "ja": "#5E7C85"
+   },
+   "delta_e": 20.677,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "273",
+   "name": "藤煤竹",
+   "readings": {
+    "en": "Fujisusutake"
+   },
+   "hex_by_source": {
+    "en": "#4D3B3C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "藤",
+   "origin": "藤",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 23,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "274",
+   "name": "藤納戸",
+   "readings": {
+    "ja": "ふじなんど"
+   },
+   "hex_by_source": {
+    "ja": "#606DA1"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "藤",
+   "origin": "藤",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 23,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "275",
+   "name": "藤紫",
+   "readings": {
+    "en": "Fujimurasaki",
+    "ja": "ふじむらさき"
+   },
+   "hex_by_source": {
+    "en": "#875F9A",
+    "ja": "#9B95C9"
+   },
+   "delta_e": 18.5848,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "藤",
+   "origin": "藤",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 23,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "276",
+   "name": "藤色",
+   "readings": {
+    "en": "Fuji-iro",
+    "ja": "ふじいろ"
+   },
+   "hex_by_source": {
+    "en": "#89729E",
+    "ja": "#AFB4DB"
+   },
+   "delta_e": 21.072,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "藤",
+   "origin": "藤",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 23,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "277",
+   "name": "藤黄",
+   "readings": {
+    "en": "Tō'ō"
+   },
+   "hex_by_source": {
+    "en": "#FFB61E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "278",
+   "name": "藤鼠",
+   "readings": {
+    "en": "Fujinezumi"
+   },
+   "hex_by_source": {
+    "en": "#766980"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "藤",
+   "origin": "藤",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 23,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "279",
+   "name": "蘇比",
+   "readings": {
+    "en": "Sohi"
+   },
+   "hex_by_source": {
+    "en": "#E35C38"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "280",
+   "name": "蘇芳",
+   "readings": {
+    "en": "Su'ō"
+   },
+   "hex_by_source": {
+    "en": "#7E2639"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "281",
+   "name": "蘇芳色",
+   "readings": {
+    "ja": "すおういろ"
+   },
+   "hex_by_source": {
+    "ja": "#973C3F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "282",
+   "name": "蘇芳香",
+   "readings": {
+    "en": "Su'ōkō"
+   },
+   "hex_by_source": {
+    "en": "#A24F46"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "283",
+   "name": "虫襖",
+   "readings": {
+    "en": "Mushi'ao"
+   },
+   "hex_by_source": {
+    "en": "#2D4436"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "284",
+   "name": "蜜柑色",
+   "readings": {
+    "ja": "みかんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F08300"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "蜜柑",
+   "origin": "蜜柑",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 5,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "285",
+   "name": "裏柳",
+   "readings": {
+    "en": "Urahayanagi"
+   },
+   "hex_by_source": {
+    "en": "#BCB58C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "柳",
+   "origin": "柳",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 38,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "286",
+   "name": "裏葉柳",
+   "readings": {
+    "ja": "うらはやなぎ"
+   },
+   "hex_by_source": {
+    "ja": "#C1D8AC"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "柳",
+   "origin": "柳",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 38,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "287",
+   "name": "褐色",
+   "readings": {
+    "en": "Kachi-iro"
+   },
+   "hex_by_source": {
+    "en": "#181B26"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "288",
+   "name": "貝紫色",
+   "readings": {
+    "ja": "かいむらさきいろ"
+   },
+   "hex_by_source": {
+    "ja": "#7F1184"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "289",
+   "name": "赤",
+   "readings": {
+    "ja": "あか"
+   },
+   "hex_by_source": {
+    "ja": "#ED1A3D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 50,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "290",
+   "name": "赤朽葉",
+   "readings": {
+    "en": "Akakuchiba",
+    "ja": "あかくちば"
+   },
+   "hex_by_source": {
+    "en": "#DB8449",
+    "ja": "#DB8449"
+   },
+   "delta_e": 0.0,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "朽葉",
+   "origin": "朽葉",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "291",
+   "name": "赤橙",
+   "readings": {
+    "ja": "あかだいだい"
+   },
+   "hex_by_source": {
+    "ja": "#F15A22"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "292",
+   "name": "赤白橡",
+   "readings": {
+    "en": "Akashirotsurubami"
+   },
+   "hex_by_source": {
+    "en": "#EC956C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "293",
+   "name": "赤紅",
+   "readings": {
+    "en": "Akabeni"
+   },
+   "hex_by_source": {
+    "en": "#C3272B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "294",
+   "name": "赤紫",
+   "readings": {
+    "ja": "あかむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#EB6EA5"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "295",
+   "name": "赤銅色",
+   "readings": {
+    "ja": "しゃくどういろ"
+   },
+   "hex_by_source": {
+    "ja": "#7E0F09"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "296",
+   "name": "赤香色",
+   "readings": {
+    "en": "Akakō-iro",
+    "ja": "あかこういろ"
+   },
+   "hex_by_source": {
+    "en": "#F07F5E",
+    "ja": "#F6B894"
+   },
+   "delta_e": 14.9665,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "297",
+   "name": "赭",
+   "readings": {
+    "ja": "そほ"
+   },
+   "hex_by_source": {
+    "ja": "#AB6953"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "298",
+   "name": "路考茶",
+   "readings": {
+    "en": "Rokōcha",
+    "ja": "ろこうちゃ"
+   },
+   "hex_by_source": {
+    "en": "#665343",
+    "ja": "#8C7042"
+   },
+   "delta_e": 14.6436,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "299",
+   "name": "躑躅色",
+   "readings": {
+    "ja": "つつじいろ"
+   },
+   "hex_by_source": {
+    "ja": "#E761A4"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "晩",
+   "kigo": "躑躅",
+   "origin": "躑躅",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 6,
+   "calendar_order": [
+    1,
+    3
+   ]
+  },
+  {
+   "id": "300",
+   "name": "退紅",
+   "readings": {
+    "en": "Arazome"
+   },
+   "hex_by_source": {
+    "en": "#FFB3A7"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "301",
+   "name": "遠州茶",
+   "readings": {
+    "en": "Enshūcha"
+   },
+   "hex_by_source": {
+    "en": "#CB6649"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "302",
+   "name": "金色",
+   "readings": {
+    "ja": "きんいろ/こんじき"
+   },
+   "hex_by_source": {
+    "ja": "#FFD700"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 2,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "303",
+   "name": "金茶",
+   "readings": {
+    "en": "Kincha",
+    "ja": "きんちゃ"
+   },
+   "hex_by_source": {
+    "en": "#C66B27",
+    "ja": "#E0861A"
+   },
+   "delta_e": 10.6779,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "304",
+   "name": "鈍色",
+   "readings": {
+    "ja": "にびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#727171"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "305",
+   "name": "鉄御納戸",
+   "readings": {
+    "en": "Tetsuonando"
+   },
+   "hex_by_source": {
+    "en": "#2B3736"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "306",
+   "name": "鉄紺",
+   "readings": {
+    "ja": "てつこん"
+   },
+   "hex_by_source": {
+    "ja": "#003149"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "307",
+   "name": "鉄色",
+   "readings": {
+    "en": "Tetsu-iro"
+   },
+   "hex_by_source": {
+    "en": "#2B3733"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "308",
+   "name": "鉛丹色",
+   "readings": {
+    "ja": "えんたんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#EC6D51"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "309",
+   "name": "鉛色",
+   "readings": {
+    "ja": "なまりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#7B7C7D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "310",
+   "name": "銀朱",
+   "readings": {
+    "en": "Ginshu",
+    "ja": "ぎんしゅ"
+   },
+   "hex_by_source": {
+    "en": "#BC2D29",
+    "ja": "#F12B00"
+   },
+   "delta_e": 13.1824,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "311",
+   "name": "銀煤竹",
+   "readings": {
+    "en": "Kinsusutake"
+   },
+   "hex_by_source": {
+    "en": "#7D4E2D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "312",
+   "name": "銀色",
+   "readings": {
+    "ja": "ぎんいろ"
+   },
+   "hex_by_source": {
+    "ja": "#C0C0C0"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "313",
+   "name": "銀鼠",
+   "readings": {
+    "en": "Ginnezumi",
+    "ja": "ぎんねずみ"
+   },
+   "hex_by_source": {
+    "en": "#97867C",
+    "ja": "#BBBCBF"
+   },
+   "delta_e": 18.0934,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "314",
+   "name": "錆御納戸",
+   "readings": {
+    "en": "Sabionando"
+   },
+   "hex_by_source": {
+    "en": "#455859"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "315",
+   "name": "錆浅葱",
+   "readings": {
+    "en": "Sabiasagi",
+    "ja": "さびあさぎ"
+   },
+   "hex_by_source": {
+    "en": "#6A7F7A",
+    "ja": "#5C9291"
+   },
+   "delta_e": 9.5864,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "316",
+   "name": "錆色",
+   "readings": {
+    "ja": "さびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#6C3424"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "317",
+   "name": "錆鉄御納戸",
+   "readings": {
+    "en": "Sabitetsuonando"
+   },
+   "hex_by_source": {
+    "en": "#3A403B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "318",
+   "name": "錆青磁",
+   "readings": {
+    "en": "Sabiseiji"
+   },
+   "hex_by_source": {
+    "en": "#898A74"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "319",
+   "name": "長春色",
+   "readings": {
+    "en": "Chōshun-iro"
+   },
+   "hex_by_source": {
+    "en": "#B95754"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "320",
+   "name": "雀色",
+   "readings": {
+    "ja": "すずめいろ"
+   },
+   "hex_by_source": {
+    "ja": "#864337"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "雀",
+   "origin": "雀",
+   "certainty": "contested",
+   "a_count": 0,
+   "b_count": 34,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "321",
+   "name": "雀茶",
+   "readings": {
+    "en": "Suzumecha"
+   },
+   "hex_by_source": {
+    "en": "#8C4736"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "雀",
+   "origin": "雀",
+   "certainty": "contested",
+   "a_count": 0,
+   "b_count": 34,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "322",
+   "name": "雄黄色",
+   "readings": {
+    "ja": "ゆうおういろ"
+   },
+   "hex_by_source": {
+    "ja": "#EE9D19"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "323",
+   "name": "露草色",
+   "readings": {
+    "ja": "つゆくさいろ"
+   },
+   "hex_by_source": {
+    "ja": "#21A0DB"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "初",
+   "kigo": "露草",
+   "origin": "露草",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 2,
+   "calendar_order": [
+    3,
+    1
+   ]
+  },
+  {
+   "id": "324",
+   "name": "青",
+   "readings": {
+    "ja": "あお"
+   },
+   "hex_by_source": {
+    "ja": "#0067C0"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 94,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "325",
+   "name": "青丹",
+   "readings": {
+    "en": "Aoni",
+    "ja": "あおに"
+   },
+   "hex_by_source": {
+    "en": "#52593B",
+    "ja": "#858954"
+   },
+   "delta_e": 19.2966,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "326",
+   "name": "青朽葉",
+   "readings": {
+    "en": "Aokuchiba"
+   },
+   "hex_by_source": {
+    "en": "#AA8736"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "朽葉",
+   "origin": "朽葉",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "327",
+   "name": "青白橡",
+   "readings": {
+    "en": "Aoshirotsurubami"
+   },
+   "hex_by_source": {
+    "en": "#9BA88D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "328",
+   "name": "青碧",
+   "readings": {
+    "en": "Seiheki"
+   },
+   "hex_by_source": {
+    "en": "#3A6960"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "329",
+   "name": "青磁色",
+   "readings": {
+    "en": "Seiji-iro",
+    "ja": "せいじいろ"
+   },
+   "hex_by_source": {
+    "en": "#819C8B",
+    "ja": "#60B49F"
+   },
+   "delta_e": 11.4753,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "330",
+   "name": "青竹色",
+   "readings": {
+    "en": "Aotake-iro",
+    "ja": "あおたけいろ"
+   },
+   "hex_by_source": {
+    "en": "#006442",
+    "ja": "#72BAA7"
+   },
+   "delta_e": 33.0265,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "331",
+   "name": "青紫",
+   "readings": {
+    "ja": "あおむらさき"
+   },
+   "hex_by_source": {
+    "ja": "#6F51A1"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "332",
+   "name": "青緑",
+   "readings": {
+    "ja": "あおみどり"
+   },
+   "hex_by_source": {
+    "ja": "#0090A8"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "333",
+   "name": "青鈍",
+   "readings": {
+    "en": "Aonibi"
+   },
+   "hex_by_source": {
+    "en": "#4F4944"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "334",
+   "name": "青鈍色",
+   "readings": {
+    "ja": "あおにびいろ"
+   },
+   "hex_by_source": {
+    "ja": "#324356"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "335",
+   "name": "飴色",
+   "readings": {
+    "ja": "あめいろ"
+   },
+   "hex_by_source": {
+    "ja": "#CD6118"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "336",
+   "name": "香色",
+   "readings": {
+    "ja": "こういろ"
+   },
+   "hex_by_source": {
+    "ja": "#EFCD9A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "337",
+   "name": "駱駝色",
+   "readings": {
+    "ja": "らくだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#BF794E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "338",
+   "name": "高麗納戸",
+   "readings": {
+    "en": "Kōrainando"
+   },
+   "hex_by_source": {
+    "en": "#203838"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "339",
+   "name": "鬱金色",
+   "readings": {
+    "en": "Ukon-iro",
+    "ja": "うこんいろ"
+   },
+   "hex_by_source": {
+    "en": "#E69B3A",
+    "ja": "#FABF14"
+   },
+   "delta_e": 13.0115,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "340",
+   "name": "鳥の子色",
+   "readings": {
+    "en": "Torinoko-iro",
+    "ja": "とりのこいろ"
+   },
+   "hex_by_source": {
+    "en": "#E2BE9F",
+    "ja": "#FFF1CF"
+   },
+   "delta_e": 14.0058,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "341",
+   "name": "鳩羽色",
+   "readings": {
+    "ja": "はとばいろ"
+   },
+   "hex_by_source": {
+    "ja": "#95859C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "342",
+   "name": "鳩羽鼠",
+   "readings": {
+    "en": "Hatobanezumi"
+   },
+   "hex_by_source": {
+    "en": "#755D5B"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "343",
+   "name": "鳶色",
+   "readings": {
+    "en": "Tobi-iro",
+    "ja": "とびいろ"
+   },
+   "hex_by_source": {
+    "en": "#4C221B",
+    "ja": "#85403A"
+   },
+   "delta_e": 13.5942,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "344",
+   "name": "鴇羽色",
+   "readings": {
+    "en": "Tokiha-iro"
+   },
+   "hex_by_source": {
+    "en": "#F58F84"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "鴇",
+   "origin": "鴇",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "345",
+   "name": "鴇色",
+   "readings": {
+    "ja": "ときいろ"
+   },
+   "hex_by_source": {
+    "ja": "#F3A696"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "鴇",
+   "origin": "鴇",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "346",
+   "name": "鶯色",
+   "readings": {
+    "en": "Uguisu-iro",
+    "ja": "うぐいすいろ"
+   },
+   "hex_by_source": {
+    "en": "#645530",
+    "ja": "#918D40"
+   },
+   "delta_e": 22.4128,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "鶯",
+   "origin": "鶯",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 25,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "347",
+   "name": "鶯茶",
+   "readings": {
+    "en": "Uguisucha",
+    "ja": "うぐいすちゃ"
+   },
+   "hex_by_source": {
+    "en": "#5C4827",
+    "ja": "#715C1F"
+   },
+   "delta_e": 9.4771,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "春",
+   "phase": "三",
+   "kigo": "鶯",
+   "origin": "鶯",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 25,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "348",
+   "name": "鶸色",
+   "readings": {
+    "en": "Hiwa-iro"
+   },
+   "hex_by_source": {
+    "en": "#BDA928"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "三",
+   "kigo": "鶸",
+   "origin": "鶸",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    3,
+    0
+   ]
+  },
+  {
+   "id": "349",
+   "name": "鶸茶",
+   "readings": {
+    "en": "Hiwacha"
+   },
+   "hex_by_source": {
+    "en": "#957B38"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "三",
+   "kigo": "鶸",
+   "origin": "鶸",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    3,
+    0
+   ]
+  },
+  {
+   "id": "350",
+   "name": "鶸萌黄",
+   "readings": {
+    "en": "Hiwamo'egi",
+    "ja": "ひわもえぎ"
+   },
+   "hex_by_source": {
+    "en": "#7A942E",
+    "ja": "#82AE46"
+   },
+   "delta_e": 8.2148,
+   "provenance": "記載なし",
+   "layer": "B",
+   "season": "秋",
+   "phase": "三",
+   "kigo": "鶸",
+   "origin": "鶸",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 1,
+   "calendar_order": [
+    3,
+    0
+   ]
+  },
+  {
+   "id": "351",
+   "name": "麹塵",
+   "readings": {
+    "ja": "きくじん"
+   },
+   "hex_by_source": {
+    "ja": "#BFBD9E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "352",
+   "name": "黄丹",
+   "readings": {
+    "en": "Ōtan",
+    "ja": "おうに/おうたん"
+   },
+   "hex_by_source": {
+    "en": "#FF4E20",
+    "ja": "#F47A55"
+   },
+   "delta_e": 8.3689,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "353",
+   "name": "黄唐茶",
+   "readings": {
+    "en": "Kigaracha"
+   },
+   "hex_by_source": {
+    "en": "#B7702D"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "354",
+   "name": "黄土色",
+   "readings": {
+    "en": "Ōdo-iro",
+    "ja": "おうどいろ"
+   },
+   "hex_by_source": {
+    "en": "#BE7F51",
+    "ja": "#C39143"
+   },
+   "delta_e": 10.5528,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "355",
+   "name": "黄朽葉",
+   "readings": {
+    "en": "Kikuchiba"
+   },
+   "hex_by_source": {
+    "en": "#E29C45"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "冬",
+   "phase": "三",
+   "kigo": "朽葉",
+   "origin": "朽葉",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    4,
+    0
+   ]
+  },
+  {
+   "id": "356",
+   "name": "黄橡",
+   "readings": {
+    "en": "Kitsurubami"
+   },
+   "hex_by_source": {
+    "en": "#BB8141"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "357",
+   "name": "黄櫨染",
+   "readings": {
+    "en": "Kōrozen",
+    "ja": "こうろぜん"
+   },
+   "hex_by_source": {
+    "en": "#592B1F",
+    "ja": "#D99502"
+   },
+   "delta_e": 47.2663,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "358",
+   "name": "黄海松茶",
+   "readings": {
+    "en": "Kimirucha"
+   },
+   "hex_by_source": {
+    "en": "#896C39"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": "春",
+   "phase": "三",
+   "kigo": "海松",
+   "origin": "海松",
+   "certainty": "established",
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": [
+    1,
+    0
+   ]
+  },
+  {
+   "id": "359",
+   "name": "黄緑色",
+   "readings": {
+    "ja": "きみどりいろ"
+   },
+   "hex_by_source": {
+    "ja": "#B9C42F"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "360",
+   "name": "黄色",
+   "readings": {
+    "ja": "きいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FFD400"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 27,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "361",
+   "name": "黄蘗",
+   "readings": {
+    "en": "Kihada"
+   },
+   "hex_by_source": {
+    "en": "#F3C13A"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "362",
+   "name": "黄蘗色",
+   "readings": {
+    "ja": "きはだいろ"
+   },
+   "hex_by_source": {
+    "ja": "#FCF16E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "363",
+   "name": "黒",
+   "readings": {
+    "ja": "くろ"
+   },
+   "hex_by_source": {
+    "ja": "#000000"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "A",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 34,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "364",
+   "name": "黒橡",
+   "readings": {
+    "en": "Kurotsurubami"
+   },
+   "hex_by_source": {
+    "en": "#252321"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "365",
+   "name": "黒檀",
+   "readings": {
+    "ja": "こくたん"
+   },
+   "hex_by_source": {
+    "ja": "#250D00"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "366",
+   "name": "黒紅",
+   "readings": {
+    "en": "Kurobeni"
+   },
+   "hex_by_source": {
+    "en": "#23191E"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "367",
+   "name": "黒色",
+   "readings": {
+    "en": "Kokushoku"
+   },
+   "hex_by_source": {
+    "en": "#171412"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "368",
+   "name": "黒鳶",
+   "readings": {
+    "en": "Kurotobi"
+   },
+   "hex_by_source": {
+    "en": "#351E1C"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  },
+  {
+   "id": "369",
+   "name": "鼠色",
+   "readings": {
+    "ja": "ねずみいろ"
+   },
+   "hex_by_source": {
+    "ja": "#949495"
+   },
+   "delta_e": null,
+   "provenance": "記載なし",
+   "layer": "C",
+   "season": null,
+   "phase": null,
+   "kigo": null,
+   "origin": null,
+   "certainty": null,
+   "a_count": 0,
+   "b_count": 0,
+   "calendar_order": null
+  }
+ ],
+ "sources": {
+  "en": {
+   "title": "en.wikipedia \"Traditional colors of Japan\"",
+   "url": "https://en.wikipedia.org/wiki/Traditional_colors_of_Japan",
+   "license": "CC BY-SA 4.0"
+  },
+  "ja": {
+   "title": "ja.wikipedia「日本の色の一覧」",
+   "url": "https://ja.wikipedia.org/wiki/日本の色の一覧",
+   "license": "CC BY-SA 4.0"
+  }
+ },
+ "jis_reference": {
+  "name": "JIS Z 8102 慣用色名",
+  "url": "https://www.jisc.go.jp/",
+  "note": "唯一の公的基準だが規格票のため数値・名称表を転載しない(参照のみ)"
+ }
+}

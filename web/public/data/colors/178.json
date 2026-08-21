@@ -1,0 +1,29 @@
+{
+ "id": "178",
+ "name": "空色",
+ "readings": {
+  "en": "Sora-iro",
+  "ja": "そらいろ"
+ },
+ "hex_by_source": {
+  "en": "#4D8FAC",
+  "ja": "#90D7EC"
+ },
+ "delta_e": 20.6185,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Sky Blue color",
+  "ja": "晴天時の空の色を示す明るく淡い青色。青と白の中間色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

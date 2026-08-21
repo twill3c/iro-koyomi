@@ -1,0 +1,26 @@
+{
+ "id": "341",
+ "name": "鳩羽色",
+ "readings": {
+  "ja": "はとばいろ"
+ },
+ "hex_by_source": {
+  "ja": "#95859C"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "鳩の羽の色。灰みがかった薄い青紫色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

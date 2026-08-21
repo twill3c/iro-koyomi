@@ -1,0 +1,29 @@
+{
+ "id": "325",
+ "name": "青丹",
+ "readings": {
+  "en": "Aoni",
+  "ja": "あおに"
+ },
+ "hex_by_source": {
+  "en": "#52593B",
+  "ja": "#858954"
+ },
+ "delta_e": 19.2966,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Blue-black clay<ref>{{Cite book|last=Marra|first=Michael|url=https://books.google.com/books?id=vOF5DwAAQBAJ&dq=%22aoni%22+clay+japanese+color&pg=PA458|title=Essays on Japan: Between Aesthetics and Literature|date=2010-10-15|publisher=BRILL|isbn=978-90-04-19594-3|language=en}}</ref>",
+  "ja": "顔料や化粧料の眉墨に使われた青粘土のような暗い黄緑色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

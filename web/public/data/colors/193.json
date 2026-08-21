@@ -1,0 +1,26 @@
+{
+ "id": "193",
+ "name": "紅鬱金",
+ "readings": {
+  "en": "Beni'ukon"
+ },
+ "hex_by_source": {
+  "en": "#FB8136"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Red-bronze (lit. red dye and turmeric)"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

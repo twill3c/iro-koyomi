@@ -1,0 +1,26 @@
+{
+ "id": "101",
+ "name": "樺色/蒲色",
+ "readings": {
+  "ja": "かばいろ"
+ },
+ "hex_by_source": {
+  "ja": "#C5591A"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "樺の樹皮または水草の蒲の穂の色。赤みのある橙色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

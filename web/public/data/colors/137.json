@@ -1,0 +1,26 @@
+{
+ "id": "137",
+ "name": "濃藍",
+ "readings": {
+  "ja": "こいあい/こあい"
+ },
+ "hex_by_source": {
+  "ja": "#002E4E"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "藍染の中でも最も濃い色の一つで、極めて暗い藍色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

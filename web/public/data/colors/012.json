@@ -1,0 +1,26 @@
+{
+ "id": "012",
+ "name": "亜麻色",
+ "readings": {
+  "ja": "あまいろ"
+ },
+ "hex_by_source": {
+  "ja": "#D6C6AF"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "亜麻の繊維の色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

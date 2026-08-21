@@ -1,0 +1,61 @@
+{
+ "id": "302",
+ "name": "金色",
+ "readings": {
+  "ja": "きんいろ/こんじき"
+ },
+ "hex_by_source": {
+  "ja": "#FFD700"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "A",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 2,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "黄金色（こがねいろ）とも呼ぶ。黄橙色、山吹色で金属光沢を持つ色。"
+ },
+ "layer_a": [
+  {
+   "author": "高浜虚子",
+   "work": "七百五十句",
+   "text": "金色《こんじき》の涼しき法《のり》の光かな",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51839.html",
+   "base_text": "虚子五句集（下）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "木下聡",
+   "norm": "金色の涼しき法の光かな",
+   "term": "金色",
+   "start": 0,
+   "end": 2,
+   "sense_width": false,
+   "connectable": true,
+   "is_color_mention": true
+  },
+  {
+   "author": "高浜虚子",
+   "work": "七百五十句",
+   "text": "釈迦牟尼《しゃかむに》の画像金色｜夏花《げばな》赤《あか》",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51839.html",
+   "base_text": "虚子五句集（下）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "木下聡",
+   "norm": "釈迦牟尼の画像金色夏花赤",
+   "term": "金色",
+   "start": 7,
+   "end": 9,
+   "sense_width": false,
+   "connectable": true,
+   "is_color_mention": true
+  }
+ ],
+ "layer_b": []
+}

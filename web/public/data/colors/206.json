@@ -1,0 +1,29 @@
+{
+ "id": "206",
+ "name": "紺青色",
+ "readings": {
+  "en": "Konjō-iro",
+  "ja": "こんじょういろ"
+ },
+ "hex_by_source": {
+  "en": "#003171",
+  "ja": "#1A4472"
+ },
+ "delta_e": 6.3529,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Prussian blue color",
+  "ja": "紫色を帯びた暗い上品な青。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

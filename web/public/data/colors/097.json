@@ -1,0 +1,26 @@
+{
+ "id": "097",
+ "name": "梔子",
+ "readings": {
+  "en": "Kuchinashi"
+ },
+ "hex_by_source": {
+  "en": "#FFB95A"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Cape jasmine or gardenia"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

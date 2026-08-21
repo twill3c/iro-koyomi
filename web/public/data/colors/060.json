@@ -1,0 +1,29 @@
+{
+ "id": "060",
+ "name": "新橋色",
+ "readings": {
+  "en": "Shinbashi-iro",
+  "ja": "しんばしいろ"
+ },
+ "hex_by_source": {
+  "en": "#006C7F",
+  "ja": "#59B9C6"
+ },
+ "delta_e": 26.9194,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "\"New Bridge\" color",
+  "ja": "日本の伝統色の一つ。わずかに緑がかった明るい青。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

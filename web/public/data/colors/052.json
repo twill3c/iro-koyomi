@@ -1,0 +1,26 @@
+{
+ "id": "052",
+ "name": "弁柄色",
+ "readings": {
+  "ja": "べんがらいろ"
+ },
+ "hex_by_source": {
+  "ja": "#8F2E14"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "顔料の「ベンガラ」の色。暗い赤みを帯びた茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

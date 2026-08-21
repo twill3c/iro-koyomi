@@ -1,0 +1,29 @@
+{
+ "id": "224",
+ "name": "芝翫茶",
+ "readings": {
+  "en": "Shikancha",
+  "ja": "しかんちゃ"
+ },
+ "hex_by_source": {
+  "en": "#AB4C3D",
+  "ja": "#AD7E4E"
+ },
+ "delta_e": 20.8499,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Wilted brown (lit. wilted lawn-clippings)",
+  "ja": "江戸時代の流行色の1つ。ややくすんだ赤褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

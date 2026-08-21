@@ -1,0 +1,26 @@
+{
+ "id": "335",
+ "name": "飴色",
+ "readings": {
+  "ja": "あめいろ"
+ },
+ "hex_by_source": {
+  "ja": "#CD6118"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "水飴に由来する、深みのある強い橙色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

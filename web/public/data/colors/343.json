@@ -1,0 +1,29 @@
+{
+ "id": "343",
+ "name": "鳶色",
+ "readings": {
+  "en": "Tobi-iro",
+  "ja": "とびいろ"
+ },
+ "hex_by_source": {
+  "en": "#4C221B",
+  "ja": "#85403A"
+ },
+ "delta_e": 13.5942,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Ibis-color",
+  "ja": "鳶の羽毛の色から。赤みのある茶色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

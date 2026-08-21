@@ -1,0 +1,29 @@
+{
+ "id": "071",
+ "name": "松葉色",
+ "readings": {
+  "en": "Matsuba-iro",
+  "ja": "まつばいろ"
+ },
+ "hex_by_source": {
+  "en": "#454D32",
+  "ja": "#3F7735"
+ },
+ "delta_e": 17.2852,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Pine needle color",
+  "ja": "松の葉の色。くすんだ緑。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

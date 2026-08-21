@@ -1,0 +1,29 @@
+{
+ "id": "313",
+ "name": "銀鼠",
+ "readings": {
+  "en": "Ginnezumi",
+  "ja": "ぎんねずみ"
+ },
+ "hex_by_source": {
+  "en": "#97867C",
+  "ja": "#BBBCBF"
+ },
+ "delta_e": 18.0934,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Silver-grey",
+  "ja": "銀色のようなほんのり青みを含んだ明るい灰色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

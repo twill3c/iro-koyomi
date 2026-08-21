@@ -1,0 +1,26 @@
+{
+ "id": "014",
+ "name": "今様色",
+ "readings": {
+  "ja": "いまよういろ"
+ },
+ "hex_by_source": {
+  "ja": "#D0576B"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "今流行の色という意味。平安時代に流行した薄い紅色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

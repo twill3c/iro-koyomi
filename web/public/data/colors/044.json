@@ -1,0 +1,29 @@
+{
+ "id": "044",
+ "name": "小麦色",
+ "readings": {
+  "ja": "こむぎいろ"
+ },
+ "hex_by_source": {
+  "ja": "#E4A343"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "夏",
+ "phase": "初",
+ "kigo": "小麦",
+ "origin": "小麦",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  2,
+  1
+ ],
+ "notes": {
+  "ja": "小麦の殻粒の色。やわらかい赤みのある黄色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,29 @@
+{
+ "id": "298",
+ "name": "路考茶",
+ "readings": {
+  "en": "Rokōcha",
+  "ja": "ろこうちゃ"
+ },
+ "hex_by_source": {
+  "en": "#665343",
+  "ja": "#8C7042"
+ },
+ "delta_e": 14.6436,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Contemplation in a tea garden",
+  "ja": "赤みがかった暗い黄褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

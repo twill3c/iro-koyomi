@@ -1,0 +1,26 @@
+{
+ "id": "241",
+ "name": "茜色",
+ "readings": {
+  "ja": "あかねいろ"
+ },
+ "hex_by_source": {
+  "ja": "#B13546"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "染料の茜で染めた色。赤褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

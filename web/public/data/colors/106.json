@@ -1,0 +1,29 @@
+{
+ "id": "106",
+ "name": "檸檬色",
+ "readings": {
+  "ja": "れもんいろ"
+ },
+ "hex_by_source": {
+  "ja": "#FFF450"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "秋",
+ "phase": "晩",
+ "kigo": "檸檬",
+ "origin": "檸檬",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  3,
+  3
+ ],
+ "notes": {
+  "ja": "レモンの色。やや緑みを帯びた薄い黄色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

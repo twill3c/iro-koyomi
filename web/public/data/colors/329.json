@@ -1,0 +1,29 @@
+{
+ "id": "329",
+ "name": "青磁色",
+ "readings": {
+  "en": "Seiji-iro",
+  "ja": "せいじいろ"
+ },
+ "hex_by_source": {
+  "en": "#819C8B",
+  "ja": "#60B49F"
+ },
+ "delta_e": 11.4753,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Celadon color",
+  "ja": "秘色（ひそく・ひしょく）とも呼ばれる。青磁に似た薄い緑色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

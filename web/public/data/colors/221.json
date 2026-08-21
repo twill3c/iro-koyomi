@@ -1,0 +1,47 @@
+{
+ "id": "221",
+ "name": "胡桃色",
+ "readings": {
+  "ja": "くるみいろ"
+ },
+ "hex_by_source": {
+  "ja": "#A86F4C"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "秋",
+ "phase": "仲",
+ "kigo": "胡桃",
+ "origin": "胡桃",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 1,
+ "calendar_order": [
+  3,
+  2
+ ],
+ "notes": {
+  "ja": "胡桃の木の皮や実の外皮などを使って染めた黄褐色。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "高浜虚子",
+   "work": "六百五十句",
+   "text": "胡桃《くるみ》割り呉《く》るゝ女に幸《さち》あれと",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51841.html",
+   "base_text": "虚子五句集（下）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "木下聡",
+   "norm": "胡桃割り呉るゝ女に幸あれと",
+   "origin": "胡桃",
+   "kigo": "胡桃",
+   "certainty": "established",
+   "start": 0,
+   "end": 2,
+   "is_color_mention": false
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "040",
+ "name": "媚茶",
+ "readings": {
+  "en": "Kobicha",
+  "ja": "こびちゃ"
+ },
+ "hex_by_source": {
+  "en": "#6B4423",
+  "ja": "#716246"
+ },
+ "delta_e": 13.1232,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Kobi tea",
+  "ja": "昆布茶とも呼ぶ。海藻のコンブの色。やや黒ずんだ黄褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

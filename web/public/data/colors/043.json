@@ -1,0 +1,32 @@
+{
+ "id": "043",
+ "name": "小豆色",
+ "readings": {
+  "en": "Azuki-iro",
+  "ja": "あずきいろ"
+ },
+ "hex_by_source": {
+  "en": "#672422",
+  "ja": "#98514B"
+ },
+ "delta_e": 14.8557,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "秋",
+ "phase": "晩",
+ "kigo": "小豆",
+ "origin": "小豆",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  3,
+  3
+ ],
+ "notes": {
+  "en": "Azuki bean color",
+  "ja": "小豆の色から。紫味を帯びた赤褐色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

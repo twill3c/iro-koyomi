@@ -1,0 +1,118 @@
+{
+ "id": "245",
+ "name": "菜の花色",
+ "readings": {
+  "en": "Nanohanacha",
+  "ja": "なのはないろ"
+ },
+ "hex_by_source": {
+  "en": "#E3B130",
+  "ja": "#FCD900"
+ },
+ "delta_e": 11.4842,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "春",
+ "phase": "晩",
+ "kigo": "菜の花",
+ "origin": "菜の花",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 5,
+ "calendar_order": [
+  1,
+  3
+ ],
+ "notes": {
+  "en": "Rape-blossom brown",
+  "ja": "菜の花の花色。明るく鮮やかな黄色。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "菜の花やはつとあかるき町はつれ",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "菜の花やはつとあかるき町はつれ",
+   "origin": "菜の花",
+   "kigo": "菜の花",
+   "certainty": "established",
+   "start": 0,
+   "end": 3,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "菜の花の中に道あり一軒家",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "菜の花の中に道あり一軒家",
+   "origin": "菜の花",
+   "kigo": "菜の花",
+   "certainty": "established",
+   "start": 0,
+   "end": 3,
+   "is_color_mention": false
+  },
+  {
+   "author": "正岡子規",
+   "work": "寒山落木　巻一",
+   "text": "行く春や大根の花も菜の花も",
+   "card_url": "https://www.aozora.gr.jp/cards/000305/card1896.html",
+   "base_text": "子規全集　第一巻　俳句一",
+   "publisher": "講談社",
+   "typist": "田中敬三",
+   "proofreader": "小林繁雄",
+   "norm": "行く春や大根の花も菜の花も",
+   "origin": "菜の花",
+   "kigo": "菜の花",
+   "certainty": "established",
+   "start": 9,
+   "end": 12,
+   "is_color_mention": false
+  },
+  {
+   "author": "内藤鳴雪",
+   "work": "鳴雪句集",
+   "text": "［＃５字下げ］菜の花や唄面白き薬売",
+   "card_url": "https://www.aozora.gr.jp/cards/000684/card55833.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "菜の花や唄面白き薬売",
+   "origin": "菜の花",
+   "kigo": "菜の花",
+   "certainty": "established",
+   "start": 0,
+   "end": 3,
+   "is_color_mention": false
+  },
+  {
+   "author": "川端茅舎",
+   "work": "川端茅舎句集",
+   "text": "菜の花の岬を出でゝ蜆舟",
+   "card_url": "https://www.aozora.gr.jp/cards/000369/card55239.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "鴨川佳一郎",
+   "norm": "菜の花の岬を出でゝ蜆舟",
+   "origin": "菜の花",
+   "kigo": "菜の花",
+   "certainty": "established",
+   "start": 0,
+   "end": 3,
+   "is_color_mention": false
+  }
+ ]
+}

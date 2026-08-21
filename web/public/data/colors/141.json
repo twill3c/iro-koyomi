@@ -1,0 +1,26 @@
+{
+ "id": "141",
+ "name": "灰色",
+ "readings": {
+  "ja": "はいいろ"
+ },
+ "hex_by_source": {
+  "ja": "#808080"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "物を燃やした後に残る灰の色。無彩色。白と黒の中間色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

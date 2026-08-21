@@ -1,0 +1,32 @@
+{
+ "id": "251",
+ "name": "萱草色",
+ "readings": {
+  "en": "Kanzō-iro",
+  "ja": "かんぞういろ"
+ },
+ "hex_by_source": {
+  "en": "#FF8936",
+  "ja": "#F8B862"
+ },
+ "delta_e": 14.9438,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": "夏",
+ "phase": "仲",
+ "kigo": "萱草",
+ "origin": "萱草",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": [
+  2,
+  2
+ ],
+ "notes": {
+  "en": "Daylily-colored",
+  "ja": "萱草の花の色。明るい黄みがかった橙色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "353",
+ "name": "黄唐茶",
+ "readings": {
+  "en": "Kigaracha"
+ },
+ "hex_by_source": {
+  "en": "#B7702D"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Chinese yellow tea-colored"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

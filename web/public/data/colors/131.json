@@ -1,0 +1,26 @@
+{
+ "id": "131",
+ "name": "深紫",
+ "readings": {
+  "en": "Kokimurasaki"
+ },
+ "hex_by_source": {
+  "en": "#3A243B"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Deep purple"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

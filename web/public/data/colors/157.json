@@ -1,0 +1,29 @@
+{
+ "id": "157",
+ "name": "瑠璃色",
+ "readings": {
+  "en": "Ruri-iro",
+  "ja": "るりいろ"
+ },
+ "hex_by_source": {
+  "en": "#1F4788",
+  "ja": "#2A5CAA"
+ },
+ "delta_e": 7.7374,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Lapis lazuli color",
+  "ja": "宝玉「瑠璃（るり、ラピスラズリ）」の色に由来する、深い青。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

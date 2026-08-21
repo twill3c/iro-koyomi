@@ -1,0 +1,64 @@
+{
+ "id": "323",
+ "name": "露草色",
+ "readings": {
+  "ja": "つゆくさいろ"
+ },
+ "hex_by_source": {
+  "ja": "#21A0DB"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "秋",
+ "phase": "初",
+ "kigo": "露草",
+ "origin": "露草",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 2,
+ "calendar_order": [
+  3,
+  1
+ ],
+ "notes": {
+  "ja": "露草の色。淡く鮮やかな青色。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "高浜虚子",
+   "work": "六百五十句",
+   "text": "露草に似たる女を訪《たず》ねばや",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51841.html",
+   "base_text": "虚子五句集（下）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "木下聡",
+   "norm": "露草に似たる女を訪ねばや",
+   "origin": "露草",
+   "kigo": "露草",
+   "certainty": "established",
+   "start": 0,
+   "end": 2,
+   "is_color_mention": false
+  },
+  {
+   "author": "前田普羅",
+   "work": "普羅句集",
+   "text": "一叢の露草映すや小矢部川",
+   "card_url": "https://www.aozora.gr.jp/cards/001719/card55258.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "一叢の露草映すや小矢部川",
+   "origin": "露草",
+   "kigo": "露草",
+   "certainty": "established",
+   "start": 3,
+   "end": 5,
+   "is_color_mention": false
+  }
+ ]
+}

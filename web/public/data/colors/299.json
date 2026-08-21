@@ -1,0 +1,132 @@
+{
+ "id": "299",
+ "name": "躑躅色",
+ "readings": {
+  "ja": "つつじいろ"
+ },
+ "hex_by_source": {
+  "ja": "#E761A4"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "B",
+ "season": "春",
+ "phase": "晩",
+ "kigo": "躑躅",
+ "origin": "躑躅",
+ "certainty": "established",
+ "a_count": 0,
+ "b_count": 6,
+ "calendar_order": [
+  1,
+  3
+ ],
+ "notes": {
+  "ja": "躑躅の花の色から。紫味の鮮やかな紅色。"
+ },
+ "layer_a": [],
+ "layer_b": [
+  {
+   "author": "高浜虚子",
+   "work": "五百五十句",
+   "text": "分け行けば躑躅《つつじ》の花粉｜袖《そで》にあり",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51838.html",
+   "base_text": "虚子五句集（上）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "酒井和郎",
+   "norm": "分け行けば躑躅の花粉袖にあり",
+   "origin": "躑躅",
+   "kigo": "躑躅",
+   "certainty": "established",
+   "start": 5,
+   "end": 7,
+   "is_color_mention": false
+  },
+  {
+   "author": "高浜虚子",
+   "work": "七百五十句",
+   "text": "ゴルフ場に下り立てば躑躅《つつじ》叢《むら》たかく",
+   "card_url": "https://www.aozora.gr.jp/cards/001310/card51839.html",
+   "base_text": "虚子五句集（下）〔全2冊〕",
+   "publisher": "岩波文庫、岩波書店",
+   "typist": "岡村和彦",
+   "proofreader": "木下聡",
+   "norm": "ゴルフ場に下り立てば躑躅叢たかく",
+   "origin": "躑躅",
+   "kigo": "躑躅",
+   "certainty": "established",
+   "start": 10,
+   "end": 12,
+   "is_color_mention": false
+  },
+  {
+   "author": "内藤鳴雪",
+   "work": "鳴雪句集",
+   "text": "雉の子を追ひつまくつゝ躑躅かな",
+   "card_url": "https://www.aozora.gr.jp/cards/000684/card55833.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "雉の子を追ひつまくつゝ躑躅かな",
+   "origin": "躑躅",
+   "kigo": "躑躅",
+   "certainty": "established",
+   "start": 11,
+   "end": 13,
+   "is_color_mention": false
+  },
+  {
+   "author": "内藤鳴雪",
+   "work": "鳴雪句集",
+   "text": "明樽の躑躅淋しや二百文",
+   "card_url": "https://www.aozora.gr.jp/cards/000684/card55833.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "明樽の躑躅淋しや二百文",
+   "origin": "躑躅",
+   "kigo": "躑躅",
+   "certainty": "established",
+   "start": 3,
+   "end": 5,
+   "is_color_mention": false
+  },
+  {
+   "author": "内藤鳴雪",
+   "work": "鳴雪句集",
+   "text": "躑躅活けて女経読む山の中",
+   "card_url": "https://www.aozora.gr.jp/cards/000684/card55833.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "躑躅活けて女経読む山の中",
+   "origin": "躑躅",
+   "kigo": "躑躅",
+   "certainty": "established",
+   "start": 0,
+   "end": 2,
+   "is_color_mention": false
+  },
+  {
+   "author": "内藤鳴雪",
+   "work": "鳴雪句集",
+   "text": "菊は古るし人形つくる躑躅かな",
+   "card_url": "https://www.aozora.gr.jp/cards/000684/card55833.html",
+   "base_text": "現代日本文學大系　95　現代句集",
+   "publisher": "筑摩書房",
+   "typist": "kompass",
+   "proofreader": "小山優子",
+   "norm": "菊は古るし人形つくる躑躅かな",
+   "origin": "躑躅",
+   "kigo": "躑躅",
+   "certainty": "established",
+   "start": 10,
+   "end": 12,
+   "is_color_mention": false
+  }
+ ]
+}

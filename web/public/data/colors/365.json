@@ -1,0 +1,26 @@
+{
+ "id": "365",
+ "name": "黒檀",
+ "readings": {
+  "ja": "こくたん"
+ },
+ "hex_by_source": {
+  "ja": "#250D00"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "黒檀の木材の色。赤みがかった黒色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

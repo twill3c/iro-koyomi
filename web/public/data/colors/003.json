@@ -1,0 +1,26 @@
+{
+ "id": "003",
+ "name": "カーキ色",
+ "readings": {
+  "ja": "かーきいろ"
+ },
+ "hex_by_source": {
+  "ja": "#C3B091"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "帯赤茶褐色。明治末期から昭和初期にかけて日本陸軍の軍服に用いられた。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "318",
+ "name": "錆青磁",
+ "readings": {
+  "en": "Sabiseiji"
+ },
+ "hex_by_source": {
+  "en": "#898A74"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "en": "Rusty celadon"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "331",
+ "name": "青紫",
+ "readings": {
+  "ja": "あおむらさき"
+ },
+ "hex_by_source": {
+  "ja": "#6F51A1"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "青と紫の中間色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}

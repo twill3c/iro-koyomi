@@ -1,0 +1,26 @@
+{
+ "id": "174",
+ "name": "石竹色",
+ "readings": {
+  "ja": "せきちくいろ"
+ },
+ "hex_by_source": {
+  "ja": "#F9C1CF"
+ },
+ "delta_e": null,
+ "provenance": "記載なし",
+ "layer": "C",
+ "season": null,
+ "phase": null,
+ "kigo": null,
+ "origin": null,
+ "certainty": null,
+ "a_count": 0,
+ "b_count": 0,
+ "calendar_order": null,
+ "notes": {
+  "ja": "石竹の花の色。淡い紅色。"
+ },
+ "layer_a": [],
+ "layer_b": []
+}
