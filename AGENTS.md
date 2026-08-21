@@ -40,6 +40,8 @@
 - エージェントが候補を「発見」した場合は自動追加せず `needs_review` に出力してエスカレーションする
 - 色出典は**ライセンスを確認したもののみ**採用する。JIS Z 8102 等の規格票の色名表を丸ごと転載しない
   (参照リンクに留める)。採用出典ごとにライセンス表記を UI に常設する(N-05)
+- 採用出典は en/ja Wikipedia の 2 系統(CC BY-SA 4.0、2026-08-22 人間承認済み)。
+  継承条件により `data/colors/` は CC BY-SA 4.0 で再配布する(コードは MIT)。出典追加は人間承認事項
 - 色名 → 語源語 → 季語の割当は curated。諸説ある場合は certainty 列を持ち、UI に「諸説あり」を明示する
 
 ### 4. 歳時記データ基盤は将来切り出す前提で隔離する
@@ -67,7 +69,8 @@
 ### 8. よく使うコマンド
 
 ```bash
-python -m pipeline.census            # Loop 0: 句コーパスの棚卸し
+python -m pipeline.census            # 句コーパスの棚卸し(docs/census.md)
+python -m pipeline.color.build       # 色票基盤の生成(data/colors/palette.json)
 python -m pipeline.fetch_bronze      # 青空文庫からの取得(手動・逐次)
 python -m pipeline.extract_haiku     # 本文 → 句候補の抽出(保守的規則)
 python -m pipeline.link              # 三層(A/B/C)の結合と充填率算出
