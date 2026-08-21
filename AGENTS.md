@@ -75,8 +75,9 @@ python -m pipeline.census            # 句コーパスの棚卸し(docs/census.m
 python -m pipeline.color.build       # 色票基盤の生成(data/colors/palette.json)
 python -m pipeline.fetch_bronze      # 青空文庫からの取得(手動・逐次)
 python -m pipeline.extract_haiku     # 本文 → 句候補の抽出(保守的規則)
-python -m pipeline.link              # 三層(A/B/C)の結合と充填率算出
-python -m pipeline.build_gold        # gold 生成
+python -m pipeline.match_a           # A 層照合(docs/layer_a_report.md)
+python -m pipeline.match_b           # B 層照合と歳時記順(docs/layer_b_report.md)
+python -m pipeline.build_gold        # gold 生成(web/public/data)
 python -m pytest -q tests/
 cd web && node scripts/verify.mjs
 ```
