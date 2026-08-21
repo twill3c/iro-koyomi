@@ -7,3 +7,7 @@
 {"v": "1.2", "ts": "2026-08-22T07:32:01+09:00", "project": "iro-koyomi", "loop_id": "loop_003", "event": "test_run", "data": {"command": "python -m pytest -q tests/", "passed": 80, "failed": 0}}
 {"v": "1.2", "ts": "2026-08-22T07:32:02+09:00", "project": "iro-koyomi", "loop_id": "loop_003", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-22T07:32:02+09:00", "project": "iro-koyomi", "loop_id": "loop_003", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T07:32:03+09:00", "project": "iro-koyomi", "loop_id": "loop_003", "event": "commit", "data": {"sha": "d8a43eb", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-22T07:32:03+09:00", "project": "iro-koyomi", "loop_id": "loop_003", "event": "commit", "data": {"sha": "daaa8c6", "kind": "data"}}
+{"v": "1.2", "ts": "2026-08-22T07:32:03+09:00", "project": "iro-koyomi", "loop_id": "loop_003", "event": "stage_end", "data": {"stage": 6, "stage_name": "記録", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T07:32:04+09:00", "project": "iro-koyomi", "loop_id": "loop_003", "event": "loop_end", "data": {"outcome": "success", "failure_count": 1, "summary": "F-05 色語辞書と A 層照合。A 層 434 句(6.5%)・異なり色語 21・充填率 5.1%(369 色中 19 色)。語義幅フラグ 99 件。色票に無い色語(蒼・碧)も検出"}}
