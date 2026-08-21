@@ -1,0 +1,7 @@
+data/bronze/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+web/out/
+web/.next/
