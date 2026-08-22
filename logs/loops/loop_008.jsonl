@@ -4,3 +4,4 @@
 {"v": "1.2", "ts": "2026-08-22T09:44:58+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "test_run", "data": {"command": "node scripts/verify.mjs", "passed": 4, "failed": 0, "note": "about ページ追加後も 4 ゲート green"}}
 {"v": "1.2", "ts": "2026-08-22T09:44:59+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "skip"}}
 {"v": "1.2", "ts": "2026-08-22T09:44:59+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T09:46:37+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}

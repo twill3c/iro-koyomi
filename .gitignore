@@ -9,3 +9,5 @@ data/silver/
 web/.loop/
 web/coverage/
 web/tsconfig.tsbuildinfo
+
+.vercel

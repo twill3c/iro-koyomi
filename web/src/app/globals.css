@@ -87,3 +87,12 @@ dl.about { margin: 0; }
 dl.about dt { font-weight: 600; margin-top: 0.9rem; }
 dl.about dd { margin: 0.2rem 0 0; }
 .layer p { margin: 0.4rem 0 0.8rem; }
+
+/* 狭い画面で表が本文をはみ出さない(N-03 の一環: 情報を切り落とさない) */
+.sources, .vision { overflow-x: auto; }
+.hexes, .contrast { min-width: 20rem; }
+@media (max-width: 480px) {
+  .hall { padding: 1.5rem 0.9rem 3rem; }
+  .masthead h1 { font-size: 1.7rem; }
+  .strip { grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); }
+}
