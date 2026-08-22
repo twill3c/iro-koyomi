@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 import { chipLabel, LAYER_LABEL } from "@/core/layers";
 import type { ColorEntry } from "@/core/types";
 
@@ -12,7 +14,7 @@ export default function ColorChip({ color }: { color: ColorEntry }) {
   const sources = Object.keys(color.hex_by_source).length;
   return (
     <li>
-      <a className="chip" href={`/color/${color.id}/`} title={chipLabel(color)}>
+      <Link className="chip" href={`/color/${color.id}/`} title={chipLabel(color)}>
         <span className="swatch" style={hex ? { background: hex } : undefined} aria-hidden="true">
           {hex ? null : <span className="none">値なし</span>}
         </span>
@@ -33,7 +35,7 @@ export default function ColorChip({ color }: { color: ColorEntry }) {
               : "出典 1 件（比較なし）"}
           </span>
         </span>
-      </a>
+      </Link>
     </li>
   );
 }
