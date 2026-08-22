@@ -5,3 +5,6 @@
 {"v": "1.2", "ts": "2026-08-22T10:11:24+09:00", "project": "iro-koyomi", "loop_id": "loop_011", "event": "test_run", "data": {"command": "node scripts/verify.mjs", "passed": 4, "failed": 0, "note": "4 ゲート green。生成物で position:fixed と退避余白を検算"}}
 {"v": "1.2", "ts": "2026-08-22T10:11:25+09:00", "project": "iro-koyomi", "loop_id": "loop_011", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-22T10:11:25+09:00", "project": "iro-koyomi", "loop_id": "loop_011", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:03+09:00", "project": "iro-koyomi", "loop_id": "loop_011", "event": "stage_end", "data": {"stage": 6, "stage_name": "記録", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:03+09:00", "project": "iro-koyomi", "loop_id": "loop_011", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:04+09:00", "project": "iro-koyomi", "loop_id": "loop_011", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "フッタを position:fixed の追従バーに変更(退避余白 5rem/狭幅 7rem・safe-area 対応)。可変長の出典表記は流し込み末尾に残して N-05 の常設を維持"}}
