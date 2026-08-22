@@ -9,3 +9,7 @@
 {"v": "1.2", "ts": "2026-08-22T09:38:05+09:00", "project": "iro-koyomi", "loop_id": "loop_007", "event": "test_run", "data": {"command": "node scripts/verify.mjs", "passed": 4, "failed": 0, "note": "typecheck/lint/test(34件)/build 全 pass・詳細 369 ページ生成"}}
 {"v": "1.2", "ts": "2026-08-22T09:38:05+09:00", "project": "iro-koyomi", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
 {"v": "1.2", "ts": "2026-08-22T09:38:06+09:00", "project": "iro-koyomi", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T09:38:33+09:00", "project": "iro-koyomi", "loop_id": "loop_007", "event": "commit", "data": {"sha": "e04e940", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-22T09:38:33+09:00", "project": "iro-koyomi", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 6, "stage_name": "記録", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T09:38:33+09:00", "project": "iro-koyomi", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T09:38:33+09:00", "project": "iro-koyomi", "loop_id": "loop_007", "event": "loop_end", "data": {"outcome": "success", "failure_count": 3, "summary": "F-09 詳細 369 ページと F-11 三型シミュレーション・コントラスト比。G-02 は不変量オラクル(係数は拘束条件から導出)。verify 4 ゲート green・vitest 34 件。CTX-MISS ツーストライクで HC-014 起票"}}

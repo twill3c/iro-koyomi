@@ -82,3 +82,8 @@ footer.foot a { color: var(--sumi); }
 .haiku .base { font-size: 0.72rem; color: var(--sumi); margin: 0.1rem 0 0; }
 .empty { color: var(--sumi); font-size: 0.9rem; }
 .masthead h1 small { font-size: 1rem; color: var(--sumi); }
+
+dl.about { margin: 0; }
+dl.about dt { font-weight: 600; margin-top: 0.9rem; }
+dl.about dd { margin: 0.2rem 0 0; }
+.layer p { margin: 0.4rem 0 0.8rem; }

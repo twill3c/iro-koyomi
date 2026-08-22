@@ -1,0 +1,6 @@
+{"v": "1.2", "ts": "2026-08-22T09:43:20+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "loop_start", "data": {"goal": "公開: /about(操作説明)ページ、Vercel デプロイ(サブドメイン空き確認 → 公開)、app-menu へのカード追加", "spec_refs": ["F-12", "N-01"], "scaffold_version": "1.8.0", "agent": "claude-code"}}
+{"v": "1.2", "ts": "2026-08-22T09:43:21+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 1, "stage_name": "計画", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T09:43:33+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 2, "stage_name": "文脈読込", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T09:44:58+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "test_run", "data": {"command": "node scripts/verify.mjs", "passed": 4, "failed": 0, "note": "about ページ追加後も 4 ゲート green"}}
+{"v": "1.2", "ts": "2026-08-22T09:44:59+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "skip"}}
+{"v": "1.2", "ts": "2026-08-22T09:44:59+09:00", "project": "iro-koyomi", "loop_id": "loop_008", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
