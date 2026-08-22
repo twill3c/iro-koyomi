@@ -22,7 +22,8 @@ body {
 .hall {
   max-width: 1080px;
   margin: 0 auto;
-  padding: 2.5rem 1.25rem 4rem;
+  /* 下余白は固定フッタバーの退避分を含む */
+  padding: 2.5rem 1.25rem 5rem;
   min-height: 100vh;
   min-height: 100dvh;
   display: flex;
@@ -67,9 +68,28 @@ body {
 .chip .layer { font-size: 0.7rem; border: 1px solid var(--line); padding: 0 0.3rem; margin-right: 0.3rem; }
 .chip .layer.C { border-style: dashed; }
 
-footer.foot { margin-top: auto; border-top: 1px solid var(--line); padding-top: 1rem; font-size: 0.8rem; color: var(--sumi); }
-footer.foot ul { display: flex; flex-wrap: wrap; gap: 1rem; list-style: none; padding: 0; margin: 0 0 0.8rem; }
+footer.foot { margin-top: auto; padding-top: 1rem; font-size: 0.8rem; color: var(--sumi); }
+footer.foot:empty { display: none; }
 footer.foot a { color: var(--sumi); }
+
+/* スクロール中も画面下端に貼り付く固定バー。本文はこの高さぶん .hall の下余白で退避する */
+.foot-bar {
+  position: fixed;
+  inset: auto 0 0 0;
+  z-index: 10;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 1rem;
+  background: var(--paper);
+  border-top: 1px solid var(--line);
+  padding: 0.5rem 1.25rem calc(0.5rem + env(safe-area-inset-bottom, 0px));
+  font-size: 0.78rem;
+  color: var(--sumi);
+}
+.foot-bar ul { display: flex; flex-wrap: wrap; gap: 0.9rem; list-style: none; padding: 0; margin: 0; }
+.foot-bar a { color: var(--sumi); }
+.foot-bar .lic { margin-left: auto; }
 
 .sources, .vision, .layer { margin: 2rem 0 0; }
 .sources h3, .vision h3, .layer h3 { font-size: 1.05rem; margin: 0 0 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--line); }
@@ -102,7 +122,7 @@ dl.about dd { margin: 0.2rem 0 0; }
 .sources, .vision { overflow-x: auto; }
 .hexes, .contrast { min-width: 20rem; }
 @media (max-width: 480px) {
-  .hall { padding: 1.5rem 0.9rem 3rem; }
+  .hall { padding: 1.5rem 0.9rem 7rem; }
   .masthead h1 { font-size: 1.7rem; }
   .strip { grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); }
 }
