@@ -1,0 +1,12 @@
+{"v": "1.2", "ts": "2026-08-22T10:16:04+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "loop_start", "data": {"goal": "設計図リンクを公開アーティファクトに差し替える(SPEC.md 直リンクをやめ、読み物として組んだページへ)", "spec_refs": ["F-12"], "scaffold_version": "1.10.0", "agent": "claude-code"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:05+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "stage_end", "data": {"stage": 1, "stage_name": "段階1", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:05+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "stage_end", "data": {"stage": 2, "stage_name": "段階2", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:06+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "stage_end", "data": {"stage": 3, "stage_name": "段階3", "result": "skip"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:06+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "stage_end", "data": {"stage": 4, "stage_name": "段階4", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:06+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "stage_end", "data": {"stage": 5, "stage_name": "段階5", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:07+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "stage_end", "data": {"stage": 6, "stage_name": "段階6", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:07+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "test_run", "data": {"command": "node scripts/verify.mjs", "passed": 4, "failed": 0}}
+{"v": "1.2", "ts": "2026-08-22T10:16:07+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "commit", "data": {"sha": "333802b", "kind": "feat"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:30+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "failure", "data": {"code": "PROC-SKIP", "severity": "S3", "detected_stage": 6, "harness_ref": "HC-013", "summary": "stage_end の一括記録を >/dev/null 2>&1 で潰した。HC-013 で禁じた当の書き方を、配布した直後の自分のループで再発させた(記録自体は成立していた)", "resolution": "accepted", "note": "以後 append はすべて出力を見せて実行する。HC-013 の効果検証には本件を再発 1 件目として数える"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:30+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "stage_end", "data": {"stage": 7, "stage_name": "完了", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-22T10:16:30+09:00", "project": "iro-koyomi", "loop_id": "loop_012", "event": "loop_end", "data": {"outcome": "success", "failure_count": 1, "summary": "設計図リンクを公開アーティファクトに差し替え。verify 4 ゲート green"}}
