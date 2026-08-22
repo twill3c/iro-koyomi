@@ -17,16 +17,26 @@ body {
   line-height: 1.8;
 }
 
-.hall { max-width: 1080px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+/* フッタは常に画面最下部に置く。内容が短いページ(句が 0 件の C 空欄色など)でも
+   本文の直後に浮かず、ビューポート下端に届く。内容が長ければ自然に押し下げられる */
+.hall {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 4rem;
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
 
-.masthead { border-bottom: 1px solid var(--line); padding-bottom: 1.5rem; margin-bottom: 1.5rem; }
+.masthead { border-bottom: 1px solid var(--line); padding-bottom: 1.5rem; margin-bottom: 0; }
 .eyebrow { color: var(--sumi); font-size: 0.85rem; letter-spacing: 0.12em; margin: 0 0 0.4rem; }
 .masthead h1 { font-size: 2.1rem; margin: 0 0 0.6rem; letter-spacing: 0.08em; }
 .lede { margin: 0; color: var(--sumi); font-size: 0.95rem; }
 .kanban { margin: 1rem 0 0; font-size: 1.05rem; }
 .kanban cite { display: block; font-size: 0.8rem; color: var(--sumi); font-style: normal; }
 
-.fill { margin: 2rem 0; }
+.fill { margin: 2rem 0 0; }
 .fill h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
 .fill-bar { display: flex; height: 2.4rem; border: 1px solid var(--line); overflow: hidden; }
 .fill-seg { display: flex; align-items: center; justify-content: center; font-size: 0.75rem; color: #fff; }
@@ -36,7 +46,7 @@ body {
 .fill-legend { display: flex; flex-wrap: wrap; gap: 1rem; margin: 0.6rem 0 0; padding: 0; list-style: none; font-size: 0.85rem; }
 .fill-legend .swatch { display: inline-block; width: 0.9rem; height: 0.9rem; margin-right: 0.35rem; border: 1px solid var(--line); vertical-align: -1px; }
 
-.filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.5rem 0; }
+.filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.5rem 0 0; }
 .filters button {
   font: inherit; font-size: 0.85rem; padding: 0.35rem 0.9rem; cursor: pointer;
   background: transparent; border: 1px solid var(--line); border-radius: 999px; color: var(--ink);
@@ -57,11 +67,11 @@ body {
 .chip .layer { font-size: 0.7rem; border: 1px solid var(--line); padding: 0 0.3rem; margin-right: 0.3rem; }
 .chip .layer.C { border-style: dashed; }
 
-footer.foot { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 1rem; font-size: 0.8rem; color: var(--sumi); }
+footer.foot { margin-top: auto; border-top: 1px solid var(--line); padding-top: 1rem; font-size: 0.8rem; color: var(--sumi); }
 footer.foot ul { display: flex; flex-wrap: wrap; gap: 1rem; list-style: none; padding: 0; margin: 0 0 0.8rem; }
 footer.foot a { color: var(--sumi); }
 
-.sources, .vision, .layer { margin: 2rem 0; }
+.sources, .vision, .layer { margin: 2rem 0 0; }
 .sources h3, .vision h3, .layer h3 { font-size: 1.05rem; margin: 0 0 0.6rem; padding-bottom: 0.3rem; border-bottom: 1px solid var(--line); }
 .hexes { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
 .hexes th, .hexes td { border: 1px solid var(--line); padding: 0.4rem 0.6rem; text-align: left; }
