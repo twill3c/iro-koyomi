@@ -41,7 +41,7 @@ export default function KoyomiPage() {
         <p className="lede">
           伝統色を、その名の由来になった物（＝季語）を鍵に俳句と結び、歳時記の順に並べる。
           同じ色名でも出典によって値は食い違い、俳人が使った色語は驚くほど狭い。
-          そのどちらも隠さずに出す。
+          そのどちらも隠さずに出す。 <a href="/about/">この地図の読み方</a>
         </p>
         <p className="kanban">
           白牡丹といふといへども紅ほのか
