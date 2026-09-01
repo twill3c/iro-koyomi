@@ -4,6 +4,9 @@ export interface FooterLink {
   href: string;
 }
 
+// 著作権表示はリンクの文言に含めず、MIT License の直後の地の文にする(規約の一部)。
+export const FOOTER_NOTICE = "© 2026 坂田哲朗";
+
 export const FOOTER_LINKS: FooterLink[] = [
   { label: "MIT License", href: "https://github.com/twill3c/iro-koyomi/blob/main/LICENSE" },
   { label: "GitHub", href: "https://github.com/twill3c/iro-koyomi" },

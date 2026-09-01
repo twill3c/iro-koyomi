@@ -1,4 +1,4 @@
-import { FOOTER_LINKS } from "@/lib/links";
+import { FOOTER_LINKS, FOOTER_NOTICE } from "@/lib/links";
 
 /**
  * フッタ(F-12)。リンク列は画面下端に固定してスクロールに追従させる。
@@ -34,6 +34,7 @@ export default function Footer({
           {FOOTER_LINKS.map((l) => (
             <li key={l.label}>
               <a href={l.href}>{l.label}</a>
+              {l.label === "MIT License" ? ` ${FOOTER_NOTICE}` : null}
             </li>
           ))}
         </ul>
