@@ -31,8 +31,9 @@ export default function Footer({
       </footer>
       <nav className="foot-bar" aria-label="サイト内リンク">
         <ul>
-          {FOOTER_LINKS.map((l) => (
+          {FOOTER_LINKS.map((l, i) => (
             <li key={l.label}>
+              {i > 0 ? <span className="fsep">・</span> : null}
               <a href={l.href}>{l.label}</a>
               {l.label === "MIT License" ? ` ${FOOTER_NOTICE}` : null}
             </li>
